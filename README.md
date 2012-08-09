@@ -31,9 +31,6 @@ Modules
 ### Station
 
 * ``station-name`` -
-
-### Marker
-
 * ``text-anchor`` - start / middle / end
 * ``label-position`` - E / W / N / S
 * ``marker-coords`` - 3.4 / 8.5
