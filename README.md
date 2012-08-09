@@ -1,4 +1,9 @@
-metro-map
+Métro Map
 =========
 
-Métro Map
+Backbone
+jQuery
+Raphael
+RequireJS
+Less
+Jasmine
