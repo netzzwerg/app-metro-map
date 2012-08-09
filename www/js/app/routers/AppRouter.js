@@ -1,4 +1,7 @@
+/*global console:true */
 define(['jquery', 'underscore', 'backbone'], function($, _, Backbone) {
+
+  "use strict";
 
   var AppRouter = Backbone.Router.extend({
 
@@ -23,10 +26,8 @@ define(['jquery', 'underscore', 'backbone'], function($, _, Backbone) {
   });
 
   var initialize = function(app) {
-      
       app.router = new AppRouter(); // global application router
-      // start history
-      Backbone.history.start();
+      Backbone.history.start(); // start history
   };
 
   return {

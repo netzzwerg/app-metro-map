@@ -1,5 +1,7 @@
-// Filename: app.js
+/*global console:true */
 define(['jquery', 'underscore', 'backbone', 'app/routers/AppRouter'], function($, _, Backbone, Router) {
+  
+  "use strict";
 
   var initialize = function(global) {
       
@@ -7,7 +9,6 @@ define(['jquery', 'underscore', 'backbone', 'app/routers/AppRouter'], function($
       global.app.dispatcher = _.extend({}, Backbone.Events); // global event disptacher
       
       Router.initialize(global.app);
-
 
   };
 
