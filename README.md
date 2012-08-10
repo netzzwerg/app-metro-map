@@ -29,7 +29,7 @@ Modules
 * ``line_width`` - Width of the lines (default ``5``)
 * ``line_color`` -
 * ``line_name`` -
-* ``line_marker`` -
+* ``line_markers`` -
 
 ### Marker
 
