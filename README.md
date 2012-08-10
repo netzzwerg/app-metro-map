@@ -18,21 +18,22 @@ Modules
 
 ### Map
 
-* ``grid-columns`` - Number of columns (default ``50``)
-* ``grid-rows`` - 
-* ``cell-size`` -
-* ``line-width`` - Width of the lines (default ``5``)
+* ``grid_columns`` - Number of columns (default ``50``)
+* ``grid_rows`` - 
+* ``cell_size`` -
+
 
 ### Line
 
-* ``line-color`` -
-* ``line-label`` -
+* ``line_width`` - Width of the lines (default ``5``)
+* ``line_color`` -
+* ``line_name`` -
 
 ### Station
 
-* ``station-name`` -
-* ``text-anchor`` - start / middle / end
-* ``label-position`` - E / W / N / S
-* ``marker-coords`` - 3.4 / 8.5
-* ``marker-type`` - interchange / station / terminal stop
-* ``marker-direction`` - E / W / N / S
+* ``station_name`` -
+* ``text_anchor`` - start / middle / end
+* ``label_position`` - E / W / N / S
+* ``marker_coords`` - 3.4 / 8.5
+* ``marker_type`` - interchange / station / terminal stop
+* ``marker_direction`` - E / W / N / S
