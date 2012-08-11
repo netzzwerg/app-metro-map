@@ -6,9 +6,12 @@ Libraries
 ----------
 
 * Backbone
+* Backbone Relations
+* Underscore
 * jQuery
 * Raphael
 * RequireJS
+* Text
 * Less
 * Jasmine
 
