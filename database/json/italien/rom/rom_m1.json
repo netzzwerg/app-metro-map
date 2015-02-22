@@ -1,0 +1,266 @@
+{
+   "_id": "rom_m1",
+   "_rev": "33-0011b0eea07f40f92444979b67eb5629",
+   "city": "Rom",
+   "lineName": "M1",
+   "lineNameShow": "MA",
+   "color": "F37107",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T10:06:58.985Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Battistini",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": 41.9064853,
+           "longitude": 12.414751900000056,
+           "correspondance": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Cornelia",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": 41.900475,
+           "longitude": 12.42661,
+           "correspondance": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Baldo degli Ubaldi",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": 41.8988942,
+           "longitude": 12.43309249999993,
+           "correspondance": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Valle Aurelia",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": 41.9028233,
+           "longitude": 12.441218800000001,
+           "correspondance": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Cipro - Musei Vaticani",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": 41.907432,
+           "longitude": 12.447434,
+           "correspondance": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Ottaviano - San Pietro",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": 41.9093401,
+           "longitude": 12.457976700000017,
+           "correspondance": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Lepanto",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": 41.9113604,
+           "longitude": 12.466110100000037,
+           "correspondance": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Flaminio - Piazza del Popolo",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": 41.9126958,
+           "longitude": 12.476533099999983,
+           "correspondance": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Spagna",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": 41.9067978,
+           "longitude": 12.48511899999994,
+           "correspondance": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Barberini - Fontana di Trevi",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": 41.903887,
+           "longitude": 12.488546,
+           "correspondance": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Repubblica - Teatro dell'Opera",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": 41.9025575,
+           "longitude": 12.496090900000013,
+           "correspondance": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Termini",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": 41.9013687,
+           "longitude": 12.500536399999987,
+           "correspondance": [
+               "M2"
+           ]
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Vittorio E.",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": 41.894684,
+           "longitude": 12.504325,
+           "correspondance": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Manzoni",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": 41.890326,
+           "longitude": 12.506833,
+           "correspondance": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "San Giovanni",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": 41.885328,
+           "longitude": 12.509792,
+           "correspondance": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Re di Roma",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": 41.8818371,
+           "longitude": 12.514093000000003,
+           "correspondance": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Ponte Lungo",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": 41.877992,
+           "longitude": 12.518797,
+           "correspondance": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Furio Camillo",
+           "next": "M1_019",
+           "previous": "M1_017",
+           "latitude": 41.8747483,
+           "longitude": 12.522952199999963,
+           "correspondance": ""
+       },
+       "M1_019": {
+           "number": "M1_019",
+           "name": "Colli Albani - Parco Appia Antica",
+           "next": "M1_020",
+           "previous": "M1_018",
+           "latitude": 41.8695222,
+           "longitude": 12.529744100000016,
+           "correspondance": ""
+       },
+       "M1_020": {
+           "number": "M1_020",
+           "name": "Arco die Travertino",
+           "next": "M1_021",
+           "previous": "M1_019",
+           "latitude": 41.8664373,
+           "longitude": 12.535216300000002,
+           "correspondance": ""
+       },
+       "M1_021": {
+           "number": "M1_021",
+           "name": "Porta Furba-Quadraro",
+           "next": "M1_022",
+           "previous": "M1_020",
+           "latitude": 41.8638933,
+           "longitude": 12.547781799999939,
+           "correspondance": ""
+       },
+       "M1_022": {
+           "number": "M1_022",
+           "name": "Numidio Quadrato",
+           "next": "M1_023",
+           "previous": "M1_021",
+           "latitude": 41.8620251,
+           "longitude": 12.552800599999955,
+           "correspondance": ""
+       },
+       "M1_023": {
+           "number": "M1_023",
+           "name": "Lucio Sestio",
+           "next": "M1_024",
+           "previous": "M1_022",
+           "latitude": 41.8597432,
+           "longitude": 12.557126400000016,
+           "correspondance": ""
+       },
+       "M1_024": {
+           "number": "M1_024",
+           "name": "Giulio Agricola",
+           "next": "M1_025",
+           "previous": "M1_023",
+           "latitude": 41.8566248,
+           "longitude": 12.562627300000031,
+           "correspondance": ""
+       },
+       "M1_025": {
+           "number": "M1_025",
+           "name": "Subaugusta",
+           "next": "M1_026",
+           "previous": "M1_024",
+           "latitude": 41.853747,
+           "longitude": 12.567848899999944,
+           "correspondance": ""
+       },
+       "M1_026": {
+           "number": "M1_026",
+           "name": "Cinecittà",
+           "next": "M1_027",
+           "previous": "M1_025",
+           "latitude": 41.849496,
+           "longitude": 12.574043,
+           "correspondance": ""
+       },
+       "M1_027": {
+           "number": "M1_027",
+           "name": "Anagnina",
+           "next": "",
+           "previous": "M1_026",
+           "latitude": 41.8422591,
+           "longitude": 12.586329100000057,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "rom_ma.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 25530,
+           "stub": true
+       }
+   }
+}

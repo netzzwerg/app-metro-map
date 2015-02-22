@@ -1,0 +1,298 @@
+{
+   "_id": "nürnberg_u1",
+   "_rev": "13-7fd39dd3876b432e75d8d1e141f42a10",
+   "city": "Nürnberg",
+   "lineName": "U1",
+   "lineNameShow": "U1",
+   "color": "005D9C",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-26T17:54:37.797Z",
+   "stations": {
+       "U1_001": {
+           "number": "U1_001",
+           "name": "Fürth Hardhöhe",
+           "next": "U1_002",
+           "previous": "",
+           "latitude": 49.480555555556,
+           "longitude": 10.958055555556,
+           "correspondance": ""
+       },
+       "U1_002": {
+           "number": "U1_002",
+           "name": "Fürth Klinikum",
+           "next": "U1_003",
+           "previous": "U1_001",
+           "latitude": 49.4825,
+           "longitude": 10.969166666667,
+           "correspondance": ""
+       },
+       "U1_003": {
+           "number": "U1_003",
+           "name": "Fürth Stadthalle",
+           "next": "U1_004",
+           "previous": "U1_002",
+           "latitude": 49.480277777778,
+           "longitude": 10.981111111111,
+           "correspondance": ""
+       },
+       "U1_004": {
+           "number": "U1_004",
+           "name": "Fürth Rathaus",
+           "next": "U1_005",
+           "previous": "U1_003",
+           "latitude": 49.477222222222,
+           "longitude": 10.988611111111,
+           "correspondance": ""
+       },
+       "U1_005": {
+           "number": "U1_005",
+           "name": "Fürth Hauptbahnhof",
+           "next": "U1_006",
+           "previous": "U1_004",
+           "latitude": 49.470277777778,
+           "longitude": 10.991388888889,
+           "correspondance": ""
+       },
+       "U1_006": {
+           "number": "U1_006",
+           "name": "Jakobinenstraße",
+           "next": "U1_007",
+           "previous": "U1_005",
+           "latitude": 49.468333333333,
+           "longitude": 11.000277777778,
+           "correspondance": ""
+       },
+       "U1_007": {
+           "number": "U1_007",
+           "name": "Stadtgrenze",
+           "next": "U1_008",
+           "previous": "U1_006",
+           "latitude": 49.465555555556,
+           "longitude": 11.010833333333,
+           "correspondance": ""
+       },
+       "U1_008": {
+           "number": "U1_008",
+           "name": "Muggenhof",
+           "next": "U1_009",
+           "previous": "U1_007",
+           "latitude": 49.461666666667,
+           "longitude": 11.022777777778,
+           "correspondance": ""
+       },
+       "U1_009": {
+           "number": "U1_009",
+           "name": "Eberhardshof",
+           "next": "U1_010",
+           "previous": "U1_008",
+           "latitude": 49.458194444444,
+           "longitude": 11.033333333333,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_010": {
+           "number": "U1_010",
+           "name": "Maximilianstraße",
+           "next": "U1_011",
+           "previous": "U1_009",
+           "latitude": 49.455277777778,
+           "longitude": 11.042222222222,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_011": {
+           "number": "U1_011",
+           "name": "Bärenschanze",
+           "next": "U1_012",
+           "previous": "U1_010",
+           "latitude": 49.4525,
+           "longitude": 11.050833333333,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_012": {
+           "number": "U1_012",
+           "name": "Gostenhof",
+           "next": "U1_013",
+           "previous": "U1_011",
+           "latitude": 49.450555555556,
+           "longitude": 11.056944444444,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_013": {
+           "number": "U1_013",
+           "name": "Plärrer",
+           "next": "U1_014",
+           "previous": "U1_012",
+           "latitude": 49.448333333333,
+           "longitude": 11.065277777778,
+           "correspondance": [
+               "U11",
+               "U2",
+               "U21",
+               "U3"
+           ]
+       },
+       "U1_014": {
+           "number": "U1_014",
+           "name": "Weißer Turm",
+           "next": "U1_015",
+           "previous": "U1_013",
+           "latitude": 49.45,
+           "longitude": 11.07,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_015": {
+           "number": "U1_015",
+           "name": "Lorenzkirche",
+           "next": "U1_016",
+           "previous": "U1_014",
+           "latitude": 49.451111111111,
+           "longitude": 11.077777777778,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_016": {
+           "number": "U1_016",
+           "name": "Hauptbahnhof",
+           "next": "U1_017",
+           "previous": "U1_015",
+           "latitude": 49.446944444444,
+           "longitude": 11.081666666667,
+           "correspondance": [
+               "U2",
+               "U3",
+               "U11",
+               "U21"
+           ]
+       },
+       "U1_017": {
+           "number": "U1_017",
+           "name": "Aufseßplatz",
+           "next": "U1_018",
+           "previous": "U1_016",
+           "latitude": 49.440555555556,
+           "longitude": 11.080277777778,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_018": {
+           "number": "U1_018",
+           "name": "Maffeiplatz",
+           "next": "U1_019",
+           "previous": "U1_017",
+           "latitude": 49.435555555556,
+           "longitude": 11.084722222222,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_019": {
+           "number": "U1_019",
+           "name": "Frankenstraße",
+           "next": "U1_020",
+           "previous": "U1_018",
+           "latitude": 49.43,
+           "longitude": 11.086388888889,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_020": {
+           "number": "U1_020",
+           "name": "Hasenbuck",
+           "next": "U1_021",
+           "previous": "U1_019",
+           "latitude": 49.424166666667,
+           "longitude": 11.09,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_021": {
+           "number": "U1_021",
+           "name": "Bauernfeindstraße",
+           "next": "U1_022",
+           "previous": "U1_020",
+           "latitude": 49.417222222222,
+           "longitude": 11.108055555556,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_022": {
+           "number": "U1_022",
+           "name": "Messe",
+           "next": "U1_023",
+           "previous": "U1_021",
+           "latitude": 49.415833333333,
+           "longitude": 11.114166666667,
+           "correspondance": [
+               "U11"
+           ]
+       },
+       "U1_023": {
+           "number": "U1_023",
+           "name": "Langwasser Nord",
+           "next": "U1_024",
+           "previous": "U1_022",
+           "latitude": 49.412222222222,
+           "longitude": 11.121666666667,
+           "correspondance": ""
+       },
+       "U1_024": {
+           "number": "U1_024",
+           "name": "Scharfreiterring",
+           "next": "U1_025",
+           "previous": "U1_023",
+           "latitude": 49.408611111111,
+           "longitude": 11.126388888889,
+           "correspondance": ""
+       },
+       "U1_025": {
+           "number": "U1_025",
+           "name": "Langwasser Mitte",
+           "next": "U1_026",
+           "previous": "U1_024",
+           "latitude": 49.404722222222,
+           "longitude": 11.131944444444,
+           "correspondance": ""
+       },
+       "U1_026": {
+           "number": "U1_026",
+           "name": "Gemeinschaftshaus",
+           "next": "U1_027",
+           "previous": "U1_025",
+           "latitude": 49.401111111111,
+           "longitude": 11.136111111111,
+           "correspondance": ""
+       },
+       "U1_027": {
+           "number": "U1_027",
+           "name": "Langwasser Süd",
+           "next": "",
+           "previous": "U1_026",
+           "latitude": 49.398611111111,
+           "longitude": 11.140555555556,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "nuernberg_u1.png": {
+           "content_type": "image/png",
+           "revpos": 9,
+           "length": 8809,
+           "stub": true
+       }
+   }
+}

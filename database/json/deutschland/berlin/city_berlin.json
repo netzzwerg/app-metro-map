@@ -1,0 +1,10 @@
+{
+   "_id": "city_berlin",
+   "_rev": "1-25d75a0a20cee41c8061b1fa02221840",
+   "country": "Deutschland",
+   "cityName": "Berlin",
+   "subName": "U-Bahn",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-20T20:06:20.408Z"
+}

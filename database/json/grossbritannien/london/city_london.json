@@ -1,0 +1,10 @@
+{
+   "_id": "city_london",
+   "_rev": "1-3b186c2b0fbd8f4609826d25d7c3df94",
+   "country": "Großbritannien",
+   "cityName": "London",
+   "subName": "Underground",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-25T07:47:48.291Z"
+}

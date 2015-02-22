@@ -1,0 +1,501 @@
+{
+   "_id": "berlin_u7",
+   "_rev": "56-3182abbc4384ef1e4ce1370447704b34",
+   "city": "Berlin",
+   "lineName": "U7",
+   "lineNameShow": "U7",
+   "color": "009DD3",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:18:30.809Z",
+   "stations": {
+       "U7_001": {
+           "number": "U7_001",
+           "name": "Rathaus Spandau",
+           "next": "U7_002",
+           "previous": "",
+           "latitude": "52.5347982",
+           "longitude": "13.20024490000003",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_002": {
+           "number": "U7_002",
+           "name": "Altstadt Spandau",
+           "next": "U7_003",
+           "previous": "U7_001",
+           "latitude": "52.53904",
+           "longitude": "13.205899",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_003": {
+           "number": "U7_003",
+           "name": "Zitadelle",
+           "next": "U7_004",
+           "previous": "U7_002",
+           "latitude": "52.537826",
+           "longitude": "13.217609",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_004": {
+           "number": "U7_004",
+           "name": "Haselhorst",
+           "next": "U7_005",
+           "previous": "U7_003",
+           "latitude": "52.539171",
+           "longitude": "13.232507",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_005": {
+           "number": "U7_005",
+           "name": "Paulsternstraße",
+           "next": "U7_006",
+           "previous": "U7_004",
+           "latitude": "52.537793",
+           "longitude": "13.248421",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_006": {
+           "number": "U7_006",
+           "name": "Rohrdamm",
+           "next": "U7_007",
+           "previous": "U7_005",
+           "latitude": "52.537191",
+           "longitude": "13.263065",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_007": {
+           "number": "U7_007",
+           "name": "Siemensdamm",
+           "next": "U7_008",
+           "previous": "U7_006",
+           "latitude": "52.536747",
+           "longitude": "13.272589",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_008": {
+           "number": "U7_008",
+           "name": "Halemweg",
+           "next": "U7_009",
+           "previous": "U7_007",
+           "latitude": "52.536891",
+           "longitude": "13.286451",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_009": {
+           "number": "U7_009",
+           "name": "Jakob-Kaiser-Platz",
+           "next": "U7_010",
+           "previous": "U7_008",
+           "latitude": "52.5362535",
+           "longitude": "13.294293899999957",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_010": {
+           "number": "U7_010",
+           "name": "Jungfernheide",
+           "next": "U7_011",
+           "previous": "U7_009",
+           "latitude": "52.530493",
+           "longitude": "13.300991",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_011": {
+           "number": "U7_011",
+           "name": "Mierendorffplatz",
+           "next": "U7_012",
+           "previous": "U7_010",
+           "latitude": "52.526696",
+           "longitude": "13.304731",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_012": {
+           "number": "U7_012",
+           "name": "Richard-Wagner-Platz",
+           "next": "U7_013",
+           "previous": "U7_011",
+           "latitude": "52.515683",
+           "longitude": "13.30711",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_013": {
+           "number": "U7_013",
+           "name": "Bismarckstraße",
+           "next": "U7_014",
+           "previous": "U7_012",
+           "latitude": "52.51151",
+           "longitude": "13.305071",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U7_014": {
+           "number": "U7_014",
+           "name": "Wilmersdorfer Straße",
+           "next": "U7_015",
+           "previous": "U7_013",
+           "latitude": "52.506873",
+           "longitude": "13.306553",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_015": {
+           "number": "U7_015",
+           "name": "Adenauerplatz",
+           "next": "U7_016",
+           "previous": "U7_014",
+           "latitude": "52.499667",
+           "longitude": "13.307383",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_016": {
+           "number": "U7_016",
+           "name": "Konstanzer Straße",
+           "next": "U7_017",
+           "previous": "U7_015",
+           "latitude": "52.494454",
+           "longitude": "13.308845",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_017": {
+           "number": "U7_017",
+           "name": "Fehrbelliner Platz",
+           "next": "U7_018",
+           "previous": "U7_016",
+           "latitude": "52.490322",
+           "longitude": "13.314946",
+           "correspondance": [
+               "U3"
+           ],
+           "memos": ""
+       },
+       "U7_018": {
+           "number": "U7_018",
+           "name": "Blissestraße",
+           "next": "U7_019",
+           "previous": "U7_017",
+           "latitude": "52.486645",
+           "longitude": "13.322182",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_019": {
+           "number": "U7_019",
+           "name": "Berliner Straße",
+           "next": "U7_020",
+           "previous": "U7_018",
+           "latitude": "52.487614",
+           "longitude": "13.331029",
+           "correspondance": [
+               "U9"
+           ],
+           "memos": ""
+       },
+       "U7_020": {
+           "number": "U7_020",
+           "name": "Bayerischer Platz",
+           "next": "U7_021",
+           "previous": "U7_019",
+           "latitude": "52.488372",
+           "longitude": "13.340113",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U7_021": {
+           "number": "U7_021",
+           "name": "Eisenacher Straße",
+           "next": "U7_022",
+           "previous": "U7_020",
+           "latitude": "52.4895",
+           "longitude": "13.3504",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_022": {
+           "number": "U7_022",
+           "name": "Kleistpark",
+           "next": "U7_023",
+           "previous": "U7_021",
+           "latitude": "52.4905287",
+           "longitude": "13.360383500000012",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_023": {
+           "number": "U7_023",
+           "name": "Yorckstraße",
+           "next": "U7_024",
+           "previous": "U7_022",
+           "latitude": "52.492779",
+           "longitude": "13.37138",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_024": {
+           "number": "U7_024",
+           "name": "Möckernbrücke",
+           "next": "U7_025",
+           "previous": "U7_023",
+           "latitude": "52.499189",
+           "longitude": "13.382922",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U7_025": {
+           "number": "U7_025",
+           "name": "Mehringdamm",
+           "next": "U7_026",
+           "previous": "U7_024",
+           "latitude": "52.494085",
+           "longitude": "13.388852",
+           "correspondance": [
+               "U6"
+           ],
+           "memos": ""
+       },
+       "U7_026": {
+           "number": "U7_026",
+           "name": "Gneisenaustraße",
+           "next": "U7_027",
+           "previous": "U7_025",
+           "latitude": "52.491256",
+           "longitude": "13.395955",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_027": {
+           "number": "U7_027",
+           "name": "Südstern",
+           "next": "U7_028",
+           "previous": "U7_026",
+           "latitude": "52.489111",
+           "longitude": "13.4073",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_028": {
+           "number": "U7_028",
+           "name": "Hermannplatz",
+           "next": "U7_029",
+           "previous": "U7_027",
+           "latitude": "52.486621",
+           "longitude": "13.424416",
+           "correspondance": [
+               "U8"
+           ],
+           "memos": ""
+       },
+       "U7_029": {
+           "number": "U7_029",
+           "name": "Rathaus Neukölln",
+           "next": "U7_030",
+           "previous": "U7_028",
+           "latitude": "52.48197",
+           "longitude": "13.433232299999986",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_030": {
+           "number": "U7_030",
+           "name": "Karl-Marx-Straße",
+           "next": "U7_031",
+           "previous": "U7_029",
+           "latitude": "52.476112",
+           "longitude": "13.438989",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_031": {
+           "number": "U7_031",
+           "name": "Neukölln",
+           "next": "U7_032",
+           "previous": "U7_030",
+           "latitude": "52.468616",
+           "longitude": "13.442195",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_032": {
+           "number": "U7_032",
+           "name": "Grenzallee",
+           "next": "U7_033",
+           "previous": "U7_031",
+           "latitude": "52.463439",
+           "longitude": "13.443826",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_033": {
+           "number": "U7_033",
+           "name": "Blaschkoallee",
+           "next": "U7_034",
+           "previous": "U7_032",
+           "latitude": "52.451684",
+           "longitude": "13.449857",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_034": {
+           "number": "U7_034",
+           "name": "Parchimer Allee",
+           "next": "U7_035",
+           "previous": "U7_033",
+           "latitude": "52.444824",
+           "longitude": "13.44945",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_035": {
+           "number": "U7_035",
+           "name": "Britz-Süd",
+           "next": "U7_036",
+           "previous": "U7_034",
+           "latitude": "52.4376735",
+           "longitude": "13.447823500000027",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_036": {
+           "number": "U7_036",
+           "name": "Johannisthaler Chaussee",
+           "next": "U7_037",
+           "previous": "U7_035",
+           "latitude": "52.429136",
+           "longitude": "13.453524",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_037": {
+           "number": "U7_037",
+           "name": "Lipschitzallee",
+           "next": "U7_038",
+           "previous": "U7_036",
+           "latitude": "52.423491",
+           "longitude": "13.462501",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_038": {
+           "number": "U7_038",
+           "name": "Wutzkyallee",
+           "next": "U7_039",
+           "previous": "U7_037",
+           "latitude": "52.422778",
+           "longitude": "13.474913",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_039": {
+           "number": "U7_039",
+           "name": "Zwickauer Damm",
+           "next": "U7_040",
+           "previous": "U7_038",
+           "latitude": "52.423163",
+           "longitude": "13.483685",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U7_040": {
+           "number": "U7_040",
+           "name": "Rudow",
+           "next": "U7_041",
+           "previous": "U7_039",
+           "latitude": "52.415951",
+           "longitude": "13.495915",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u7.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 91870,
+           "stub": true
+       }
+   }
+}

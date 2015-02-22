@@ -1,0 +1,270 @@
+{
+   "_id": "paris_m2",
+   "_rev": "5-0f2a5cff0f246073bab4df27d8125b6e",
+   "city": "Paris",
+   "lineName": "M2",
+   "color": "0082C4",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T19:53:05.571Z",
+   "stations": {
+       "M2_001": {
+           "number": "M2_001",
+           "name": "Porte Dauphine",
+           "next": "M2_002",
+           "previous": "",
+           "latitude": 48.8713888888889,
+           "longitude": 2.27666666666667,
+           "correspondance": ""
+       },
+       "M2_002": {
+           "number": "M2_002",
+           "name": "Victor Hugo",
+           "next": "M2_003",
+           "previous": "M2_001",
+           "latitude": 48.8697222222222,
+           "longitude": 2.285,
+           "correspondance": ""
+       },
+       "M2_003": {
+           "number": "M2_003",
+           "name": "Charles de Gaulle - Étoile",
+           "next": "M2_004",
+           "previous": "M2_002",
+           "latitude": 48.8736111111111,
+           "longitude": 2.29444444444444,
+           "correspondance": [
+               "M1",
+               "M6"
+           ]
+       },
+       "M2_004": {
+           "number": "M2_004",
+           "name": "Ternes",
+           "next": "M2_005",
+           "previous": "M2_003",
+           "latitude": 48.8777777777778,
+           "longitude": 2.29861111111111,
+           "correspondance": ""
+       },
+       "M2_005": {
+           "number": "M2_005",
+           "name": "Courcelles",
+           "next": "M2_006",
+           "previous": "M2_004",
+           "latitude": 48.8791666666667,
+           "longitude": 2.30416666666667,
+           "correspondance": ""
+       },
+       "M2_006": {
+           "number": "M2_006",
+           "name": "Monceau",
+           "next": "M2_007",
+           "previous": "M2_005",
+           "latitude": 48.88,
+           "longitude": 2.30833333333333,
+           "correspondance": ""
+       },
+       "M2_007": {
+           "number": "M2_007",
+           "name": "Villiers",
+           "next": "M2_008",
+           "previous": "M2_006",
+           "latitude": 48.88113,
+           "longitude": 2.314867,
+           "correspondance": [
+               "M3"
+           ]
+       },
+       "M2_008": {
+           "number": "M2_008",
+           "name": "Rome",
+           "next": "M2_009",
+           "previous": "M2_007",
+           "latitude": 48.882425,
+           "longitude": 2.322052,
+           "correspondance": ""
+       },
+       "M2_009": {
+           "number": "M2_009",
+           "name": "Place de Clichy",
+           "next": "M2_010",
+           "previous": "M2_008",
+           "latitude": 48.8838888888889,
+           "longitude": 2.3275,
+           "correspondance": [
+               "M13"
+           ]
+       },
+       "M2_010": {
+           "number": "M2_010",
+           "name": "Blanche",
+           "next": "M2_011",
+           "previous": "M2_009",
+           "latitude": 48.883459,
+           "longitude": 2.333703,
+           "correspondance": ""
+       },
+       "M2_011": {
+           "number": "M2_011",
+           "name": "Pigalle",
+           "next": "M2_012",
+           "previous": "M2_010",
+           "latitude": 48.882255,
+           "longitude": 2.337573,
+           "correspondance": [
+               "M12"
+           ]
+       },
+       "M2_012": {
+           "number": "M2_012",
+           "name": "Anvers",
+           "next": "M2_013",
+           "previous": "M2_011",
+           "latitude": 48.883007,
+           "longitude": 2.344849,
+           "correspondance": ""
+       },
+       "M2_013": {
+           "number": "M2_013",
+           "name": "Barbès - Rochechouart",
+           "next": "M2_014",
+           "previous": "M2_012",
+           "latitude": 48.8836111111111,
+           "longitude": 2.35055555555556,
+           "correspondance": [
+               "M4"
+           ]
+       },
+       "M2_014": {
+           "number": "M2_014",
+           "name": "La Chapelle",
+           "next": "M2_015",
+           "previous": "M2_013",
+           "latitude": 48.884411,
+           "longitude": 2.360288,
+           "correspondance": ""
+       },
+       "M2_015": {
+           "number": "M2_015",
+           "name": "Stalingrad",
+           "next": "M2_016",
+           "previous": "M2_014",
+           "latitude": 48.884263,
+           "longitude": 2.365824,
+           "correspondance": [
+               "M5",
+               "M7"
+           ]
+       },
+       "M2_016": {
+           "number": "M2_016",
+           "name": "Jaurès",
+           "next": "M2_017",
+           "previous": "M2_015",
+           "latitude": 48.88179,
+           "longitude": 2.370198,
+           "correspondance": [
+               "M5",
+               "M7bis"
+           ]
+       },
+       "M2_017": {
+           "number": "M2_017",
+           "name": "Colonel Fabien",
+           "next": "M2_018",
+           "previous": "M2_016",
+           "latitude": 48.877136,
+           "longitude": 2.37116,
+           "correspondance": ""
+       },
+       "M2_018": {
+           "number": "M2_018",
+           "name": "Belleville",
+           "next": "M2_019",
+           "previous": "M2_017",
+           "latitude": 48.872083,
+           "longitude": 2.376947,
+           "correspondance": [
+               "M11"
+           ]
+       },
+       "M2_019": {
+           "number": "M2_019",
+           "name": "Couronnes",
+           "next": "M2_020",
+           "previous": "M2_018",
+           "latitude": 48.869521,
+           "longitude": 2.379861,
+           "correspondance": ""
+       },
+       "M2_020": {
+           "number": "M2_020",
+           "name": "Ménilmontant",
+           "next": "M2_021",
+           "previous": "M2_019",
+           "latitude": 48.866248,
+           "longitude": 2.383618,
+           "correspondance": ""
+       },
+       "M2_021": {
+           "number": "M2_021",
+           "name": "Père Lachaise",
+           "next": "M2_022",
+           "previous": "M2_020",
+           "latitude": 48.862921,
+           "longitude": 2.387388,
+           "correspondance": [
+               "M3"
+           ]
+       },
+       "M2_022": {
+           "number": "M2_022",
+           "name": "Philippe Auguste",
+           "next": "M2_023",
+           "previous": "M2_021",
+           "latitude": 48.858021,
+           "longitude": 2.390938,
+           "correspondance": ""
+       },
+       "M2_023": {
+           "number": "M2_023",
+           "name": "Alexandre Dumas",
+           "next": "M2_024",
+           "previous": "M2_022",
+           "latitude": 48.855907,
+           "longitude": 2.39479,
+           "correspondance": ""
+       },
+       "M2_024": {
+           "number": "M2_024",
+           "name": "Avron",
+           "next": "M2_025",
+           "previous": "M2_023",
+           "latitude": 48.85194,
+           "longitude": 2.397863,
+           "correspondance": ""
+       },
+       "M2_025": {
+           "number": "M2_025",
+           "name": "Nation",
+           "next": "",
+           "previous": "M2_024",
+           "latitude": 48.848389,
+           "longitude": 2.3958,
+           "correspondance": [
+               "M1",
+               "M6",
+               "M9"
+           ]
+       }
+   },
+   "_attachments": {
+       "paris_m2.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 10981,
+           "stub": true
+       }
+   }
+}

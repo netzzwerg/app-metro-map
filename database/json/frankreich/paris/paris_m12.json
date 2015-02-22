@@ -1,0 +1,294 @@
+{
+   "_id": "paris_m12",
+   "_rev": "5-1d6b1e478b6bd96e882d8ac4d3f4490f",
+   "city": "Paris",
+   "lineName": "M12",
+   "color": "009C6E",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:01:06.009Z",
+   "stations": {
+       "M12_001": {
+           "number": "M12_001",
+           "name": "Porte de la Chapelle",
+           "next": "M12_002",
+           "previous": "",
+           "latitude": 48.897274,
+           "longitude": 2.359191,
+           "correspondance": ""
+       },
+       "M12_002": {
+           "number": "M12_002",
+           "name": "Marx Dormoy",
+           "next": "M12_003",
+           "previous": "M12_001",
+           "latitude": 48.891213,
+           "longitude": 2.359909,
+           "correspondance": ""
+       },
+       "M12_003": {
+           "number": "M12_003",
+           "name": "Marcadet - Poissonniers",
+           "next": "M12_004",
+           "previous": "M12_002",
+           "latitude": 48.8902777777778,
+           "longitude": 2.35,
+           "correspondance": [
+               "M4"
+           ]
+       },
+       "M12_004": {
+           "number": "M12_004",
+           "name": "Jules Joffrin",
+           "next": "M12_005",
+           "previous": "M12_003",
+           "latitude": 48.892437,
+           "longitude": 2.344782,
+           "correspondance": ""
+       },
+       "M12_005": {
+           "number": "M12_005",
+           "name": "Lamarck - Caulaincourt",
+           "next": "M12_006",
+           "previous": "M12_004",
+           "latitude": 48.889139,
+           "longitude": 2.338159,
+           "correspondance": ""
+       },
+       "M12_006": {
+           "number": "M12_006",
+           "name": "Abbesses",
+           "next": "M12_007",
+           "previous": "M12_005",
+           "latitude": 48.884849,
+           "longitude": 2.338688,
+           "correspondance": ""
+       },
+       "M12_007": {
+           "number": "M12_007",
+           "name": "Pigalle",
+           "next": "M12_008",
+           "previous": "M12_006",
+           "latitude": 48.882255,
+           "longitude": 2.337573,
+           "correspondance": [
+               "M2"
+           ]
+       },
+       "M12_008": {
+           "number": "M12_008",
+           "name": "Saint-Georges",
+           "next": "M12_009",
+           "previous": "M12_007",
+           "latitude": 48.878449,
+           "longitude": 2.337382,
+           "correspondance": ""
+       },
+       "M12_009": {
+           "number": "M12_009",
+           "name": "Notre-Dame-de-Lorette",
+           "next": "M12_010",
+           "previous": "M12_008",
+           "latitude": 48.87604,
+           "longitude": 2.337341,
+           "correspondance": ""
+       },
+       "M12_010": {
+           "number": "M12_010",
+           "name": "Trinité - d'Estienne d'Orves",
+           "next": "M12_011",
+           "previous": "M12_009",
+           "latitude": 48.876302,
+           "longitude": 2.333197,
+           "correspondance": ""
+       },
+       "M12_011": {
+           "number": "M12_011",
+           "name": "Saint-Lazare",
+           "next": "M12_012",
+           "previous": "M12_010",
+           "latitude": 48.8761111111111,
+           "longitude": 2.32611111111111,
+           "correspondance": [
+               "M3",
+               "M13",
+               "M14"
+           ]
+       },
+       "M12_012": {
+           "number": "M12_012",
+           "name": "Madeleine",
+           "next": "M12_013",
+           "previous": "M12_011",
+           "latitude": 48.8704824564233,
+           "longitude": 2.32500046491622,
+           "correspondance": [
+               "M8",
+               "M14"
+           ]
+       },
+       "M12_013": {
+           "number": "M12_013",
+           "name": "Concorde",
+           "next": "M12_014",
+           "previous": "M12_012",
+           "latitude": 48.866176,
+           "longitude": 2.322397,
+           "correspondance": [
+               "M1",
+               "M8"
+           ]
+       },
+       "M12_014": {
+           "number": "M12_014",
+           "name": "Assemblée Nationale",
+           "next": "M12_015",
+           "previous": "M12_013",
+           "latitude": 48.860655,
+           "longitude": 2.32113,
+           "correspondance": ""
+       },
+       "M12_015": {
+           "number": "M12_015",
+           "name": "Solférino",
+           "next": "M12_016",
+           "previous": "M12_014",
+           "latitude": 48.858249,
+           "longitude": 2.323225,
+           "correspondance": ""
+       },
+       "M12_016": {
+           "number": "M12_016",
+           "name": "Rue du Bac",
+           "next": "M12_017",
+           "previous": "M12_015",
+           "latitude": 48.85569,
+           "longitude": 2.325607,
+           "correspondance": ""
+       },
+       "M12_017": {
+           "number": "M12_017",
+           "name": "Sévres - Babylone",
+           "next": "M12_018",
+           "previous": "M12_016",
+           "latitude": 48.85151,
+           "longitude": 2.326655,
+           "correspondance": [
+               "M10"
+           ]
+       },
+       "M12_018": {
+           "number": "M12_018",
+           "name": "Rennes",
+           "next": "M12_019",
+           "previous": "M12_017",
+           "latitude": 48.848193,
+           "longitude": 2.327763,
+           "correspondance": ""
+       },
+       "M12_019": {
+           "number": "M12_019",
+           "name": "Notre-Dame-des-Champs",
+           "next": "M12_020",
+           "previous": "M12_018",
+           "latitude": 48.844568,
+           "longitude": 2.328788,
+           "correspondance": ""
+       },
+       "M12_020": {
+           "number": "M12_020",
+           "name": "Montparnasse - Bienvenüe",
+           "next": "M12_021",
+           "previous": "M12_019",
+           "latitude": 48.843466,
+           "longitude": 2.323072,
+           "correspondance": [
+               "M4",
+               "M6",
+               "M13"
+           ]
+       },
+       "M12_021": {
+           "number": "M12_021",
+           "name": "Falguière",
+           "next": "M12_022",
+           "previous": "M12_020",
+           "latitude": 48.844566,
+           "longitude": 2.318287,
+           "correspondance": ""
+       },
+       "M12_022": {
+           "number": "M12_022",
+           "name": "Pasteur",
+           "next": "M12_023",
+           "previous": "M12_021",
+           "latitude": 48.842836,
+           "longitude": 2.312681,
+           "correspondance": [
+               "M6"
+           ]
+       },
+       "M12_023": {
+           "number": "M12_023",
+           "name": "Volontaires",
+           "next": "M12_024",
+           "previous": "M12_022",
+           "latitude": 48.841343,
+           "longitude": 2.307504,
+           "correspondance": ""
+       },
+       "M12_024": {
+           "number": "M12_024",
+           "name": "Vaugirard",
+           "next": "M12_025",
+           "previous": "M12_023",
+           "latitude": 48.839649,
+           "longitude": 2.301491,
+           "correspondance": ""
+       },
+       "M12_025": {
+           "number": "M12_025",
+           "name": "Convention",
+           "next": "M12_026",
+           "previous": "M12_024",
+           "latitude": 48.837419,
+           "longitude": 2.296795,
+           "correspondance": ""
+       },
+       "M12_026": {
+           "number": "M12_026",
+           "name": "Porte de Versailles",
+           "next": "M12_027",
+           "previous": "M12_025",
+           "latitude": 48.832328,
+           "longitude": 2.287841,
+           "correspondance": ""
+       },
+       "M12_027": {
+           "number": "M12_027",
+           "name": "Corentin Celton",
+           "next": "M12_028",
+           "previous": "M12_026",
+           "latitude": 48.826833,
+           "longitude": 2.278985,
+           "correspondance": ""
+       },
+       "M12_028": {
+           "number": "M12_028",
+           "name": "Mairie d'Issy",
+           "next": "",
+           "previous": "M12_027",
+           "latitude": 48.824152,
+           "longitude": 2.273434,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m12.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 13041,
+           "stub": true
+       }
+   }
+}

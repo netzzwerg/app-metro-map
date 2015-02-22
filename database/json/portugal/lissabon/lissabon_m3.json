@@ -1,0 +1,177 @@
+{
+   "_id": "lissabon_m3",
+   "_rev": "18-f3165b87c69b689b428e1da3f5c310fa",
+   "city": "Lissabon",
+   "lineName": "M3",
+   "lineNameShow": "Linha Verde",
+   "color": "0CA8A7",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T11:52:41.893Z",
+   "stations": {
+       "M3_001": {
+           "number": "M3_001",
+           "name": "Telheiras",
+           "next": "M3_002",
+           "previous": "",
+           "latitude": "38.760518",
+           "longitude": "-9.166368",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_002": {
+           "number": "M3_002",
+           "name": "Campo Grande",
+           "next": "M3_003",
+           "previous": "M3_001",
+           "latitude": "38.759507",
+           "longitude": "-9.157504",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M3_003": {
+           "number": "M3_003",
+           "name": "Alvalade",
+           "next": "M3_004",
+           "previous": "M3_002",
+           "latitude": "38.753508",
+           "longitude": "-9.143885",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_004": {
+           "number": "M3_004",
+           "name": "Roma",
+           "next": "M3_005",
+           "previous": "M3_003",
+           "latitude": "38.748711",
+           "longitude": "-9.141392",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_005": {
+           "number": "M3_005",
+           "name": "Areeiro",
+           "next": "M3_006",
+           "previous": "M3_004",
+           "latitude": "38.742458",
+           "longitude": "-9.133803",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_006": {
+           "number": "M3_006",
+           "name": "Alameda",
+           "next": "M3_007",
+           "previous": "M3_005",
+           "latitude": "38.737164",
+           "longitude": "-9.134107",
+           "correspondance": [
+               "M4"
+           ],
+           "memos": ""
+       },
+       "M3_007": {
+           "number": "M3_007",
+           "name": "Arroios",
+           "next": "M3_008",
+           "previous": "M3_006",
+           "latitude": "38.733473",
+           "longitude": "-9.134451000000013",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_008": {
+           "number": "M3_008",
+           "name": "Anjos",
+           "next": "M3_009",
+           "previous": "M3_007",
+           "latitude": "38.726785",
+           "longitude": "-9.134686",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_009": {
+           "number": "M3_009",
+           "name": "Intendente",
+           "next": "M3_010",
+           "previous": "M3_008",
+           "latitude": "38.722383",
+           "longitude": "-9.13518",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_010": {
+           "number": "M3_010",
+           "name": "Martim Moniz",
+           "next": "M3_011",
+           "previous": "M3_009",
+           "latitude": "38.716812",
+           "longitude": "-9.135749000000033",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_011": {
+           "number": "M3_011",
+           "name": "Rossio",
+           "next": "M3_012",
+           "previous": "M3_010",
+           "latitude": "38.713841",
+           "longitude": "-9.138957000000005",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_012": {
+           "number": "M3_012",
+           "name": "Baixa-Chiado",
+           "next": "M3_013",
+           "previous": "M3_011",
+           "latitude": "38.710672",
+           "longitude": "-9.139091000000008",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M3_013": {
+           "number": "M3_013",
+           "name": "Cais do Sodré",
+           "next": "",
+           "previous": "M3_012",
+           "latitude": "38.706168",
+           "longitude": "-9.144917",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "lissabon_m3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 5864,
+           "stub": true
+       }
+   }
+}

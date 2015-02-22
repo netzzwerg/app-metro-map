@@ -1,0 +1,217 @@
+{
+   "_id": "wien_u3",
+   "_rev": "5-8070122d5c82e7461e62ebeb74feed94",
+   "city": "Wien",
+   "lineName": "U3",
+   "color": "F76013",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-08T17:13:00.854Z",
+   "stations": {
+       "U3_001": {
+           "number": "U3_001",
+           "name": "Ottakring",
+           "next": "U3_002",
+           "previous": "",
+           "latitude": 48.210953,
+           "longitude": 16.31123,
+           "correspondance": ""
+       },
+       "U3_002": {
+           "number": "U3_002",
+           "name": "Kendlerstraße",
+           "next": "U3_003",
+           "previous": "U3_001",
+           "latitude": 48.203271,
+           "longitude": 16.309054,
+           "correspondance": ""
+       },
+       "U3_003": {
+           "number": "U3_003",
+           "name": "Hütteldorfer Straße",
+           "next": "U3_004",
+           "previous": "U3_002",
+           "latitude": 48.199141,
+           "longitude": 16.311173,
+           "correspondance": ""
+       },
+       "U3_004": {
+           "number": "U3_004",
+           "name": "Johnstraße",
+           "next": "U3_005",
+           "previous": "U3_003",
+           "latitude": 48.198751,
+           "longitude": 16.318941,
+           "correspondance": ""
+       },
+       "U3_005": {
+           "number": "U3_005",
+           "name": "Schweglerstraße",
+           "next": "U3_006",
+           "previous": "U3_004",
+           "latitude": 48.198168,
+           "longitude": 16.328221,
+           "correspondance": ""
+       },
+       "U3_006": {
+           "number": "U3_006",
+           "name": "Westbahnhof",
+           "next": "U3_007",
+           "previous": "U3_005",
+           "latitude": 48.196849,
+           "longitude": 16.339234,
+           "correspondance": [
+               "U6"
+           ]
+       },
+       "U3_007": {
+           "number": "U3_007",
+           "name": "Zieglergasse",
+           "next": "U3_008",
+           "previous": "U3_006",
+           "latitude": 48.197146,
+           "longitude": 16.346058,
+           "correspondance": ""
+       },
+       "U3_008": {
+           "number": "U3_008",
+           "name": "Neubaugasse",
+           "next": "U3_009",
+           "previous": "U3_007",
+           "latitude": 48.198136,
+           "longitude": 16.35006,
+           "correspondance": ""
+       },
+       "U3_009": {
+           "number": "U3_009",
+           "name": "Volkstheater",
+           "next": "U3_010",
+           "previous": "U3_008",
+           "latitude": 48.205062,
+           "longitude": 16.357811,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U3_010": {
+           "number": "U3_010",
+           "name": "Herrengasse",
+           "next": "U3_011",
+           "previous": "U3_009",
+           "latitude": 48.209448,
+           "longitude": 16.366029,
+           "correspondance": ""
+       },
+       "U3_011": {
+           "number": "U3_011",
+           "name": "Stephansplatz",
+           "next": "U3_012",
+           "previous": "U3_010",
+           "latitude": 48.208655,
+           "longitude": 16.3723,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U3_012": {
+           "number": "U3_012",
+           "name": "Stubentor",
+           "next": "U3_013",
+           "previous": "U3_011",
+           "latitude": 48.207611,
+           "longitude": 16.379204,
+           "correspondance": ""
+       },
+       "U3_013": {
+           "number": "U3_013",
+           "name": "Landstraße",
+           "next": "U3_014",
+           "previous": "U3_012",
+           "latitude": 48.20632,
+           "longitude": 16.383989,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U3_014": {
+           "number": "U3_014",
+           "name": "Rochusgasse",
+           "next": "U3_015",
+           "previous": "U3_013",
+           "latitude": 48.201916,
+           "longitude": 16.391489,
+           "correspondance": ""
+       },
+       "U3_015": {
+           "number": "U3_015",
+           "name": "Kardinal-Nagl-Platz",
+           "next": "U3_016",
+           "previous": "U3_014",
+           "latitude": 48.197139,
+           "longitude": 16.400716,
+           "correspondance": ""
+       },
+       "U3_016": {
+           "number": "U3_016",
+           "name": "Schlachthausgasse",
+           "next": "U3_017",
+           "previous": "U3_015",
+           "latitude": 48.194528,
+           "longitude": 16.406735,
+           "correspondance": ""
+       },
+       "U3_017": {
+           "number": "U3_017",
+           "name": "Erdberg",
+           "next": "U3_018",
+           "previous": "U3_016",
+           "latitude": 48.190827,
+           "longitude": 16.414969,
+           "correspondance": ""
+       },
+       "U3_018": {
+           "number": "U3_018",
+           "name": "Gasometer",
+           "next": "U3_019",
+           "previous": "U3_017",
+           "latitude": 48.185319,
+           "longitude": 16.417667,
+           "correspondance": ""
+       },
+       "U3_019": {
+           "number": "U3_019",
+           "name": "Zippererstraße",
+           "next": "U3_020",
+           "previous": "U3_018",
+           "latitude": 48.179411,
+           "longitude": 16.411294,
+           "correspondance": ""
+       },
+       "U3_020": {
+           "number": "U3_020",
+           "name": "Enkplatz",
+           "next": "U3_021",
+           "previous": "U3_019",
+           "latitude": 48.175937,
+           "longitude": 16.414191,
+           "correspondance": ""
+       },
+       "U3_021": {
+           "number": "U3_021",
+           "name": "Simmering",
+           "next": "",
+           "previous": "U3_020",
+           "latitude": 48.169959,
+           "longitude": 16.420189,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "wien_u3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4607,
+           "stub": true
+       }
+   }
+}

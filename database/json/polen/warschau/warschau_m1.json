@@ -1,0 +1,210 @@
+{
+   "_id": "warschau_m1",
+   "_rev": "26-80c8f065304edaa7c58dedff67e45053",
+   "city": "Warschau",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "E4513C",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T11:19:13.038Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Młociny",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": 52.290556,
+           "longitude": 20.929167000000007,
+           "correspondance": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Wawrzyszew",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": 52.286389,
+           "longitude": 20.93944399999998,
+           "correspondance": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Stare Bielany",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": 52.281389,
+           "longitude": 20.950000000000045,
+           "correspondance": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Słodowiec",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": 52.276946,
+           "longitude": 20.96,
+           "correspondance": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Marymont",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": 52.271879,
+           "longitude": 20.9719,
+           "correspondance": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Pl. Wilsona",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": 52.2691816,
+           "longitude": 20.984412399999997,
+           "correspondance": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Dw. Gdański",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": 52.258255,
+           "longitude": 20.99439,
+           "correspondance": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Ratusz Arsenał",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": 52.244902,
+           "longitude": 21.00131,
+           "correspondance": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Świętokrzyska",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": 52.235205,
+           "longitude": 21.007285,
+           "correspondance": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Centrum",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": 52.230527,
+           "longitude": 21.01073,
+           "correspondance": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Politechnika",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": 52.2175662,
+           "longitude": 21.014742899999987,
+           "correspondance": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Pole Mokotowskie",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": 52.2089347,
+           "longitude": 21.00789789999999,
+           "correspondance": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Racławicka",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": 52.198161,
+           "longitude": 21.012893,
+           "correspondance": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Wierzbno",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": 52.1902725,
+           "longitude": 21.016727700000047,
+           "correspondance": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Wilanowska",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": 52.181813,
+           "longitude": 21.022743,
+           "correspondance": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Służew",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": 52.173553,
+           "longitude": 21.026379,
+           "correspondance": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Ursynów",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": 52.161987,
+           "longitude": 21.027621,
+           "correspondance": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Stokłosy",
+           "next": "M1_019",
+           "previous": "M1_017",
+           "latitude": 52.15616,
+           "longitude": 21.03459,
+           "correspondance": ""
+       },
+       "M1_019": {
+           "number": "M1_019",
+           "name": "Imielin",
+           "next": "M1_020",
+           "previous": "M1_018",
+           "latitude": 52.1498,
+           "longitude": 21.0454,
+           "correspondance": ""
+       },
+       "M1_020": {
+           "number": "M1_020",
+           "name": "Natolin",
+           "next": "M1_021",
+           "previous": "M1_019",
+           "latitude": 52.139876,
+           "longitude": 21.057712000000038,
+           "correspondance": ""
+       },
+       "M1_021": {
+           "number": "M1_021",
+           "name": "Kabaty",
+           "next": "",
+           "previous": "M1_020",
+           "latitude": 52.1312,
+           "longitude": 21.066,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "warschau_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 12305,
+           "stub": true
+       }
+   }
+}

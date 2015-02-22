@@ -1,0 +1,124 @@
+{
+   "_id": "nürnberg_u3",
+   "_rev": "6-8bc3631d19bed9edc6333955d4a6671e",
+   "city": "Nürnberg",
+   "lineName": "U3",
+   "lineNameShow": "U3",
+   "color": "38B5B7",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-26T17:55:51.426Z",
+   "stations": {
+       "U3_001": {
+           "number": "U3_001",
+           "name": "Gustav-Adolf-Straße",
+           "next": "U3_002",
+           "previous": "",
+           "latitude": 49.439166666667,
+           "longitude": 11.036388888889,
+           "correspondance": ""
+       },
+       "U3_002": {
+           "number": "U3_002",
+           "name": "Sündersbühl",
+           "next": "U3_003",
+           "previous": "U3_001",
+           "latitude": 49.441666666667,
+           "longitude": 11.043611111111,
+           "correspondance": ""
+       },
+       "U3_003": {
+           "number": "U3_003",
+           "name": "Rothenburger Straße",
+           "next": "U3_004",
+           "previous": "U3_002",
+           "latitude": 49.444444444444,
+           "longitude": 11.055277777778,
+           "correspondance": [
+               "U2",
+               "U21"
+           ]
+       },
+       "U3_004": {
+           "number": "U3_004",
+           "name": "Plärrer",
+           "next": "U3_005",
+           "previous": "U3_003",
+           "latitude": 49.448333333333,
+           "longitude": 11.065277777778,
+           "correspondance": [
+               "U1",
+               "U2",
+               "U11",
+               "U21"
+           ]
+       },
+       "U3_005": {
+           "number": "U3_005",
+           "name": "Hauptbahnhof",
+           "next": "U3_006",
+           "previous": "U3_004",
+           "latitude": 49.446944444444,
+           "longitude": 11.081666666667,
+           "correspondance": [
+               "U1",
+               "U2",
+               "U11",
+               "U21"
+           ]
+       },
+       "U3_006": {
+           "number": "U3_006",
+           "name": "Opernhaus",
+           "next": "U3_007",
+           "previous": "U3_005",
+           "latitude": 49.446666666667,
+           "longitude": 11.075,
+           "correspondance": [
+               "U2",
+               "U21"
+           ]
+       },
+       "U3_007": {
+           "number": "U3_007",
+           "name": "Wöhrder Wiese",
+           "next": "U3_008",
+           "previous": "U3_006",
+           "latitude": 49.4525,
+           "longitude": 11.086944444444,
+           "correspondance": [
+               "U2",
+               "U21"
+           ]
+       },
+       "U3_008": {
+           "number": "U3_008",
+           "name": "Rathenauplatz",
+           "next": "U3_009",
+           "previous": "U3_007",
+           "latitude": 49.456944444444,
+           "longitude": 11.089444444444,
+           "correspondance": [
+               "U2",
+               "U21"
+           ]
+       },
+       "U3_009": {
+           "number": "U3_009",
+           "name": "Maxfeld",
+           "next": "",
+           "previous": "U3_008",
+           "latitude": 49.463333333333,
+           "longitude": 11.085,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "nuernberg_u3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 10803,
+           "stub": true
+       }
+   }
+}

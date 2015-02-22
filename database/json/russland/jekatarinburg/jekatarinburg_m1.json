@@ -1,0 +1,97 @@
+{
+   "_id": "jekatarinburg_m1",
+   "_rev": "14-d212b7f7e666f8268c017adea36c0bdd",
+   "city": "Jekatarinburg",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "990000",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T15:49:03.380Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Prospekt Kosmonavtov",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "56.901032",
+           "longitude": "60.614427",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Uralmasch",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "56.887812",
+           "longitude": "60.613912",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Mashinostroiteley",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "56.877079",
+           "longitude": "60.612966",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Ural'skaya",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "56.8577762",
+           "longitude": "60.60104130000002",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Dinamo",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "56.8477759",
+           "longitude": "60.59997240000007",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Ploshchad' 1905 goda",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "56.836003",
+           "longitude": "60.599745",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Geologicheskaya",
+           "next": "",
+           "previous": "M1_006",
+           "latitude": "56.8267684",
+           "longitude": "60.60327989999996",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   }
+}

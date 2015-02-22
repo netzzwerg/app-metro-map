@@ -1,0 +1,10 @@
+{
+   "_id": "city_brüssel",
+   "_rev": "1-1b1142634177e6c1bf568d7018420564",
+   "country": "Belgien",
+   "cityName": "Brüssel",
+   "subName": "Métro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-20T17:05:49.090Z"
+}

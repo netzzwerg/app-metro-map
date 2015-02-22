@@ -1,0 +1,317 @@
+{
+   "_id": "paris_m13",
+   "_rev": "14-e4c0277181f78747392e7f517ade9303",
+   "city": "Paris",
+   "lineName": "M13",
+   "color": "99DAE4",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:01:07.415Z",
+   "stations": {
+       "M13_001": {
+           "number": "M13_001",
+           "name": "Asnières - Gennevilliers - Les Courtilles",
+           "next": "M13_002",
+           "previous": "",
+           "latitude": 48.9305555555556,
+           "longitude": 2.28388888888889,
+           "correspondance": ""
+       },
+       "M13_002": {
+           "number": "M13_002",
+           "name": "Les Agnettes",
+           "next": "M13_003",
+           "previous": "M13_001",
+           "latitude": 48.9230555555555,
+           "longitude": 2.28583333333333,
+           "correspondance": ""
+       },
+       "M13_003": {
+           "number": "M13_003",
+           "name": "Gabriel Péri",
+           "next": "M13_004",
+           "previous": "M13_002",
+           "latitude": 48.9166666666667,
+           "longitude": 2.29444444444444,
+           "correspondance": ""
+       },
+       "M13_004": {
+           "number": "M13_004",
+           "name": "Mairie de Clichy",
+           "next": "M13_005",
+           "previous": "M13_003",
+           "latitude": 48.903929,
+           "longitude": 2.30552,
+           "correspondance": ""
+       },
+       "M13_005": {
+           "number": "M13_005",
+           "name": "Porte de Clichy",
+           "next": "M13_006",
+           "previous": "M13_004",
+           "latitude": 48.8944444444444,
+           "longitude": 2.31361111111111,
+           "correspondance": ""
+       },
+       "M13_006": {
+           "number": "M13_006",
+           "name": "Brochant",
+           "next": "M13_007",
+           "previous": "M13_005",
+           "latitude": 48.8908333333333,
+           "longitude": 2.31972222222222,
+           "correspondance": ""
+       },
+       "M13_007": {
+           "number": "M13_007",
+           "name": "La Fourche",
+           "next": "M13_008",
+           "previous": "M13_006",
+           "latitude": 48.8869444444444,
+           "longitude": 2.32583333333333,
+           "correspondance": ""
+       },
+       "M13_008": {
+           "number": "M13_008",
+           "name": "Place de Clichy",
+           "next": "M13_009",
+           "previous": "M13_007",
+           "latitude": 48.8838888888889,
+           "longitude": 2.3275,
+           "correspondance": [
+               "M2"
+           ]
+       },
+       "M13_009": {
+           "number": "M13_009",
+           "name": "Liège",
+           "next": "M13_010",
+           "previous": "M13_008",
+           "latitude": 48.8797222222222,
+           "longitude": 2.32694444444444,
+           "correspondance": ""
+       },
+       "M13_010": {
+           "number": "M13_010",
+           "name": "Saint-Lazare",
+           "next": "M13_011",
+           "previous": "M13_009",
+           "latitude": 48.8761111111111,
+           "longitude": 2.32611111111111,
+           "correspondance": [
+               "M3",
+               "M12",
+               "M14"
+           ]
+       },
+       "M13_011": {
+           "number": "M13_011",
+           "name": "Miromesnil",
+           "next": "M13_012",
+           "previous": "M13_010",
+           "latitude": 48.8736668423302,
+           "longitude": 2.31446474790573,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M13_012": {
+           "number": "M13_012",
+           "name": "Champs-Élysées - Clemenceau",
+           "next": "M13_013",
+           "previous": "M13_011",
+           "latitude": 48.867531,
+           "longitude": 2.313542,
+           "correspondance": [
+               "M1"
+           ]
+       },
+       "M13_013": {
+           "number": "M13_013",
+           "name": "Invalides",
+           "next": "M13_014",
+           "previous": "M13_012",
+           "latitude": 48.860764,
+           "longitude": 2.314658,
+           "correspondance": [
+               "M8"
+           ]
+       },
+       "M13_014": {
+           "number": "M13_014",
+           "name": "Varenne",
+           "next": "M13_015",
+           "previous": "M13_013",
+           "latitude": 48.856238,
+           "longitude": 2.314921,
+           "correspondance": ""
+       },
+       "M13_015": {
+           "number": "M13_015",
+           "name": "Saint-François-Xavier",
+           "next": "M13_016",
+           "previous": "M13_014",
+           "latitude": 48.851951,
+           "longitude": 2.314475,
+           "correspondance": ""
+       },
+       "M13_016": {
+           "number": "M13_016",
+           "name": "Duroc",
+           "next": "M13_017",
+           "previous": "M13_015",
+           "latitude": 48.846829,
+           "longitude": 2.316479,
+           "correspondance": [
+               "M10"
+           ]
+       },
+       "M13_017": {
+           "number": "M13_017",
+           "name": "Montparnasse - Bienvenüe",
+           "next": "M13_018",
+           "previous": "M13_016",
+           "latitude": 48.843466,
+           "longitude": 2.323072,
+           "correspondance": [
+               "M4",
+               "M6",
+               "M12"
+           ]
+       },
+       "M13_018": {
+           "number": "M13_018",
+           "name": "Gaîté",
+           "next": "M13_019",
+           "previous": "M13_017",
+           "latitude": 48.838654,
+           "longitude": 2.322637,
+           "correspondance": ""
+       },
+       "M13_019": {
+           "number": "M13_019",
+           "name": "Pernety",
+           "next": "M13_020",
+           "previous": "M13_018",
+           "latitude": 48.8342102693598,
+           "longitude": 2.3185122013092,
+           "correspondance": ""
+       },
+       "M13_020": {
+           "number": "M13_020",
+           "name": "Plaisance",
+           "next": "M13_021",
+           "previous": "M13_019",
+           "latitude": 48.831553064954,
+           "longitude": 2.31374055147171,
+           "correspondance": ""
+       },
+       "M13_021": {
+           "number": "M13_021",
+           "name": "Porte de Vanves",
+           "next": "M13_022",
+           "previous": "M13_020",
+           "latitude": 48.8279404534009,
+           "longitude": 2.30588436126708,
+           "correspondance": ""
+       },
+       "M13_022": {
+           "number": "M13_022",
+           "name": "Malakoff - Plateau de Vanves",
+           "next": "M13_023",
+           "previous": "M13_021",
+           "latitude": 48.8228424494537,
+           "longitude": 2.29834467172622,
+           "correspondance": ""
+       },
+       "M13_023": {
+           "number": "M13_023",
+           "name": "Malakoff - Rue Étienne Dolet",
+           "next": "M13_024",
+           "previous": "M13_022",
+           "latitude": 48.8147025799036,
+           "longitude": 2.29730129241943,
+           "correspondance": ""
+       },
+       "M13_024": {
+           "number": "M13_024",
+           "name": "Guy Môquet",
+           "next": "M13_025",
+           "previous": "M13_007",
+           "latitude": 48.8922222222222,
+           "longitude": 2.32722222222222,
+           "correspondance": ""
+       },
+       "M13_025": {
+           "number": "M13_025",
+           "name": "Porte de Saint-Ouen",
+           "next": "M13_026",
+           "previous": "M13_024",
+           "latitude": 48.8966666666667,
+           "longitude": 2.32861111111111,
+           "correspondance": ""
+       },
+       "M13_026": {
+           "number": "M13_026",
+           "name": "Garibaldi",
+           "next": "M13_027",
+           "previous": "M13_025",
+           "latitude": 48.9063888888889,
+           "longitude": 2.33194444444444,
+           "correspondance": ""
+       },
+       "M13_027": {
+           "number": "M13_027",
+           "name": "Mairie de Saint-Ouen",
+           "next": "M13_028",
+           "previous": "M13_026",
+           "latitude": 48.9116666666667,
+           "longitude": 2.33388888888889,
+           "correspondance": ""
+       },
+       "M13_028": {
+           "number": "M13_028",
+           "name": "Carrefour Pleyel",
+           "next": "M13_029",
+           "previous": "M13_027",
+           "latitude": 48.92,
+           "longitude": 2.34388888888889,
+           "correspondance": ""
+       },
+       "M13_029": {
+           "number": "M13_029",
+           "name": "Saint-Denis - Porte de Paris",
+           "next": "M13_030",
+           "previous": "M13_028",
+           "latitude": 48.9302777777778,
+           "longitude": 2.35777777777778,
+           "correspondance": ""
+       },
+       "M13_030": {
+           "number": "M13_030",
+           "name": "Basilique de Saint-Denis",
+           "next": "M13_031",
+           "previous": "M13_029",
+           "latitude": 48.9380555555556,
+           "longitude": 2.36083333333333,
+           "correspondance": ""
+       },
+       "M13_031": {
+           "number": "M13_031",
+           "name": "Saint-Denis - Université",
+           "next": "",
+           "previous": "M13_030",
+           "latitude": 48.9458333333333,
+           "longitude": 2.36361111111111,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m13.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 14799,
+           "stub": true
+       }
+   }
+}

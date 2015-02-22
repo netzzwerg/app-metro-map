@@ -1,0 +1,309 @@
+{
+   "_id": "athen_m1",
+   "_rev": "33-8d8661b2ba920f60797a4abf01687d46",
+   "city": "Athen",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "559761",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T19:30:29.879Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Piräus",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "37.94856",
+           "longitude": "23.642532",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Neo Faliro",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "37.945078",
+           "longitude": "23.665045",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Moshato",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "37.9551",
+           "longitude": "23.6798",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Kallithea",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "37.960395",
+           "longitude": "23.696971",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Tavros",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "37.962397",
+           "longitude": "23.703334",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Petralona",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "37.968147",
+           "longitude": "23.70886100000007",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Thissio",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": "37.9766",
+           "longitude": "23.7206",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Monastiraki",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": "37.976617",
+           "longitude": "23.725719",
+           "correspondance": [
+               "M3"
+           ],
+           "memos": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Omonoia",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": "37.9839613",
+           "longitude": "23.727936699999987",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Victoria",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": "37.9931",
+           "longitude": "23.7302",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Attiki",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": "37.999372",
+           "longitude": "23.722398",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Agios Nikolaos",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": "38.0069461",
+           "longitude": "23.727679299999977",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Kato Patissia",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": "38.011788",
+           "longitude": "23.728589",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Agios Eleftherios",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": "38.019876",
+           "longitude": "23.731637",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Ano Patissia",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": "38.0238007",
+           "longitude": "23.73602089999997",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Perissos",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": "38.0328519",
+           "longitude": "23.744711300000063",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Pefkakia",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": "38.0372",
+           "longitude": "23.749877",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Nea Ionia",
+           "next": "M1_019",
+           "previous": "M1_017",
+           "latitude": "38.041454",
+           "longitude": "23.75486",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_019": {
+           "number": "M1_019",
+           "name": "Iraklion",
+           "next": "M1_020",
+           "previous": "M1_018",
+           "latitude": "38.046235",
+           "longitude": "23.766009",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_020": {
+           "number": "M1_020",
+           "name": "Eirini",
+           "next": "M1_021",
+           "previous": "M1_019",
+           "latitude": "38.0433384",
+           "longitude": "23.783308300000044",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_021": {
+           "number": "M1_021",
+           "name": "Neratziotissa",
+           "next": "M1_022",
+           "previous": "M1_020",
+           "latitude": "38.04518",
+           "longitude": "23.793334",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_022": {
+           "number": "M1_022",
+           "name": "Maroussi",
+           "next": "M1_023",
+           "previous": "M1_021",
+           "latitude": "38.056223",
+           "longitude": "23.804872",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_023": {
+           "number": "M1_023",
+           "name": "KAT",
+           "next": "M1_024",
+           "previous": "M1_022",
+           "latitude": "38.065922",
+           "longitude": "23.804052",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_024": {
+           "number": "M1_024",
+           "name": "Kifisia",
+           "next": "",
+           "previous": "M1_023",
+           "latitude": "38.073465",
+           "longitude": "23.808142",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "athen_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 3225,
+           "stub": true
+       }
+   }
+}

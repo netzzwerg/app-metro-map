@@ -1,0 +1,189 @@
+{
+   "_id": "lyon_m1",
+   "_rev": "21-c9b8b4130b7c2a6a500f369c963429c0",
+   "city": "Lyon",
+   "lineName": "M1",
+   "lineNameShow": "MA",
+   "color": "ED1C24",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T17:31:11.995Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Perrache",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "45.749405",
+           "longitude": "4.826800999999932",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Ampère - Victor Hugo",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "45.7530692",
+           "longitude": "4.829038399999945",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Bellecour",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "45.7580622",
+           "longitude": "4.833195799999999",
+           "correspondance": [
+               "M4"
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Cordeliers",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "45.76351",
+           "longitude": "4.835744",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Hôtel de Ville - Louis Pradel",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "45.7673359",
+           "longitude": "4.835937000000058",
+           "correspondance": [
+               "M3"
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Foch",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "45.7689524",
+           "longitude": "4.84397290000004",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Masséna",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": "45.769394",
+           "longitude": "4.852523799999972",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Charpennes - Charles Hernu",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": "45.77033",
+           "longitude": "4.8628",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "République - Villeurbanne",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": "45.770913",
+           "longitude": "4.873788",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Gratte-Ciel",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": "45.769536",
+           "longitude": "4.88117",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Flachet",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": "45.7676951",
+           "longitude": "4.889838700000041",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Cusset",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": "45.765476",
+           "longitude": "4.900932",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Laurent Bonnevay - Astroballe",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": "45.7642",
+           "longitude": "4.9105",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Vaulx-en-Velin - La Soie",
+           "next": "M2_001",
+           "previous": "M1_013",
+           "latitude": "45.761165",
+           "longitude": "4.921891",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "lyon_ma.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 8791,
+           "stub": true
+       }
+   }
+}

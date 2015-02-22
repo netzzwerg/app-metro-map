@@ -1,0 +1,246 @@
+{
+   "_id": "london_u1",
+   "_rev": "14-7a6401e9b8d5e88a9b2e80cf32489f10",
+   "city": "London",
+   "lineName": "U1",
+   "lineNameShow": "Bakerloo",
+   "color": "AE6118",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T07:48:08.851Z",
+   "stations": {
+       "U1_001": {
+           "number": "U1_001",
+           "name": "Harrow & Wealdstone",
+           "next": "U1_002",
+           "previous": "",
+           "latitude": 51.59205973,
+           "longitude": -0.334725352,
+           "correspondance": ""
+       },
+       "U1_002": {
+           "number": "U1_002",
+           "name": "Kenton",
+           "next": "U1_003",
+           "previous": "U1_001",
+           "latitude": 51.58173809,
+           "longitude": -0.316870809,
+           "correspondance": ""
+       },
+       "U1_003": {
+           "number": "U1_003",
+           "name": "South Kenton",
+           "next": "U1_004",
+           "previous": "U1_002",
+           "latitude": 51.57044666,
+           "longitude": -0.308566354,
+           "correspondance": ""
+       },
+       "U1_004": {
+           "number": "U1_004",
+           "name": "North Wembley",
+           "next": "U1_005",
+           "previous": "U1_003",
+           "latitude": 51.56258091,
+           "longitude": -0.304072648,
+           "correspondance": ""
+       },
+       "U1_005": {
+           "number": "U1_005",
+           "name": "Wembley Central",
+           "next": "U1_006",
+           "previous": "U1_004",
+           "latitude": 51.55122817,
+           "longitude": -0.29577538,
+           "correspondance": ""
+       },
+       "U1_006": {
+           "number": "U1_006",
+           "name": "Stonebridge Park",
+           "next": "U1_007",
+           "previous": "U1_005",
+           "latitude": 51.54402388,
+           "longitude": -0.275978856,
+           "correspondance": "[U2,U6]"
+       },
+       "U1_007": {
+           "number": "U1_007",
+           "name": "Harlesden",
+           "next": "U1_008",
+           "previous": "U1_006",
+           "latitude": 51.53628278,
+           "longitude": -0.257622488,
+           "correspondance": ""
+       },
+       "U1_008": {
+           "number": "U1_008",
+           "name": "Willesden Junction",
+           "next": "U1_009",
+           "previous": "U1_007",
+           "latitude": 51.53032031,
+           "longitude": -0.229378995,
+           "correspondance": ""
+       },
+       "U1_009": {
+           "number": "U1_009",
+           "name": "Kensal Green",
+           "next": "U1_010",
+           "previous": "U1_008",
+           "latitude": 51.53060655,
+           "longitude": -0.224253545,
+           "correspondance": ""
+       },
+       "U1_010": {
+           "number": "U1_010",
+           "name": "Queen's Park",
+           "next": "U1_011",
+           "previous": "U1_009",
+           "latitude": 51.534179,
+           "longitude": -0.205257721,
+           "correspondance": ""
+       },
+       "U1_011": {
+           "number": "U1_011",
+           "name": "Kilburn Park",
+           "next": "U1_012",
+           "previous": "U1_010",
+           "latitude": 51.53495818,
+           "longitude": -0.193963023,
+           "correspondance": ""
+       },
+       "U1_012": {
+           "number": "U1_012",
+           "name": "Maida Vale",
+           "next": "U1_013",
+           "previous": "U1_011",
+           "latitude": 51.52989409,
+           "longitude": -0.185888819,
+           "correspondance": ""
+       },
+       "U1_013": {
+           "number": "U1_013",
+           "name": "Warwick Avenue",
+           "next": "U1_014",
+           "previous": "U1_012",
+           "latitude": 51.52329728,
+           "longitude": -0.183777837,
+           "correspondance": ""
+       },
+       "U1_014": {
+           "number": "U1_014",
+           "name": "Paddington",
+           "next": "U1_015",
+           "previous": "U1_013",
+           "latitude": 51.515718,
+           "longitude": -0.176234,
+           "correspondance": ""
+       },
+       "U1_015": {
+           "number": "U1_015",
+           "name": "Edgware Road",
+           "next": "U1_016",
+           "previous": "U1_014",
+           "latitude": 51.51956,
+           "longitude": -0.169068,
+           "correspondance": ""
+       },
+       "U1_016": {
+           "number": "U1_016",
+           "name": "Marylebone",
+           "next": "U1_017",
+           "previous": "U1_015",
+           "latitude": 51.52266,
+           "longitude": -0.162996,
+           "correspondance": ""
+       },
+       "U1_017": {
+           "number": "U1_017",
+           "name": "Baker Street",
+           "next": "U1_018",
+           "previous": "U1_016",
+           "latitude": 51.522236,
+           "longitude": -0.15708,
+           "correspondance": "[U6,U5,U3,U7]"
+       },
+       "U1_018": {
+           "number": "U1_018",
+           "name": "Regent's Park",
+           "next": "U1_019",
+           "previous": "U1_017",
+           "latitude": 51.52344,
+           "longitude": -0.14713,
+           "correspondance": ""
+       },
+       "U1_019": {
+           "number": "U1_019",
+           "name": "Oxford Circus",
+           "next": "U1_020",
+           "previous": "U1_018",
+           "latitude": 51.51517,
+           "longitude": -0.14119,
+           "correspondance": ""
+       },
+       "U1_020": {
+           "number": "U1_020",
+           "name": "Piccadilly Circus",
+           "next": "U1_021",
+           "previous": "U1_019",
+           "latitude": 51.51022,
+           "longitude": -0.13392,
+           "correspondance": "[U9]"
+       },
+       "U1_021": {
+           "number": "U1_021",
+           "name": "Charing Cross",
+           "next": "U1_022",
+           "previous": "U1_020",
+           "latitude": 51.507108,
+           "longitude": -0.122963,
+           "correspondance": ""
+       },
+       "U1_022": {
+           "number": "U1_022",
+           "name": "Embankment",
+           "next": "U1_023",
+           "previous": "U1_021",
+           "latitude": 51.50717,
+           "longitude": -0.12195,
+           "correspondance": ""
+       },
+       "U1_023": {
+           "number": "U1_023",
+           "name": "Waterloo",
+           "next": "U1_024",
+           "previous": "U1_022",
+           "latitude": 51.50322,
+           "longitude": -0.11328,
+           "correspondance": ""
+       },
+       "U1_024": {
+           "number": "U1_024",
+           "name": "Lambeth North",
+           "next": "U1_025",
+           "previous": "U1_023",
+           "latitude": 51.49894,
+           "longitude": -0.11216,
+           "correspondance": ""
+       },
+       "U1_025": {
+           "number": "U1_025",
+           "name": "Elephant & Castle",
+           "next": "",
+           "previous": "U1_024",
+           "latitude": 51.49467,
+           "longitude": -0.10047,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "london_u1.png": {
+           "content_type": "image/png",
+           "revpos": 13,
+           "length": 4147,
+           "stub": true
+       }
+   }
+}

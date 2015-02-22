@@ -1,0 +1,225 @@
+{
+   "_id": "lissabon_m1",
+   "_rev": "23-0f86e2d823fa18f02bb37c8cc3e10018",
+   "city": "Lissabon",
+   "lineName": "M1",
+   "lineNameShow": "Linha Azul",
+   "color": "4A84C7",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T11:51:47.242Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Amadora Este",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "38.758375",
+           "longitude": "-9.21917099999996",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Alfomelos",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "38.760613",
+           "longitude": "-9.204723",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Pontinha",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "38.762395",
+           "longitude": "-9.196758",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Carnide",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "38.75956",
+           "longitude": "-9.1928",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Colégio Militar/Luz",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "38.753146",
+           "longitude": "-9.188835",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Alto dos Moinhos",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "38.749599",
+           "longitude": "-9.179967",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Laranjeiras",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": "38.748528",
+           "longitude": "-9.17243099999996",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Jardim Zoológico",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": "38.742176",
+           "longitude": "-9.168723999999997",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Praça de Espanha",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": "38.737557",
+           "longitude": "-9.158608",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "São Sebastião",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": "38.73484",
+           "longitude": "-9.1542",
+           "correspondance": [
+               "M4"
+           ],
+           "memos": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Parque",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": "38.72969",
+           "longitude": "-9.150276",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Marquês de Pombal",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": "38.724844",
+           "longitude": "-9.150742",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Avenida",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": "38.720114",
+           "longitude": "-9.145823000000064",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Restauradores",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": "38.715744",
+           "longitude": "-9.141687",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Baixa-Chiado",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": "38.710672",
+           "longitude": "-9.139091000000008",
+           "correspondance": [
+               "M3"
+           ],
+           "memos": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Terreiro do Paço",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": "38.707206",
+           "longitude": "-9.133350999999948",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Santa Apolónia",
+           "next": "",
+           "previous": "M1_016",
+           "latitude": "38.713782",
+           "longitude": "-9.122563000000014",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "lissabon_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 5097,
+           "stub": true
+       }
+   }
+}

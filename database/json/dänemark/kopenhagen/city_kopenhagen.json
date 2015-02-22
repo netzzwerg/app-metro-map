@@ -1,0 +1,10 @@
+{
+   "_id": "city_kopenhagen",
+   "_rev": "1-ed1e6e70bfd3b2c07daf73c094b5fd23",
+   "country": "Dänemark",
+   "cityName": "Kopenhagen",
+   "subName": "Metro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-19T10:15:40.503Z"
+}

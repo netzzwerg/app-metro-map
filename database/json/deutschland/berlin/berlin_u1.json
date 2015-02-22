@@ -1,0 +1,180 @@
+{
+   "_id": "berlin_u1",
+   "_rev": "19-bb4af15888b5195644a298f1b4c5351f",
+   "city": "Berlin",
+   "lineName": "U1",
+   "lineNameShow": "U1",
+   "color": "52B146",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:15:04.980Z",
+   "stations": {
+       "U1_001": {
+           "number": "U1_001",
+           "name": "Warschauer Straße",
+           "next": "U1_002",
+           "previous": "",
+           "latitude": "52.503325",
+           "longitude": "13.44731",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_002": {
+           "number": "U1_002",
+           "name": "Schlessisches Tor",
+           "next": "U1_003",
+           "previous": "U1_001",
+           "latitude": "52.5008884",
+           "longitude": "13.441536400000018",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_003": {
+           "number": "U1_003",
+           "name": "Görlitzer Bahnhof",
+           "next": "U1_004",
+           "previous": "U1_002",
+           "latitude": "52.4989551",
+           "longitude": "13.428940799999964",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_004": {
+           "number": "U1_004",
+           "name": "Kottbusser Tor",
+           "next": "U1_005",
+           "previous": "U1_003",
+           "latitude": "52.499425",
+           "longitude": "13.419006",
+           "correspondance": [
+               "U8"
+           ],
+           "memos": ""
+       },
+       "U1_005": {
+           "number": "U1_005",
+           "name": "Prinzenstraße",
+           "next": "U1_006",
+           "previous": "U1_004",
+           "latitude": "52.498575",
+           "longitude": "13.40526",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_006": {
+           "number": "U1_006",
+           "name": "Hallesches Tor",
+           "next": "U1_007",
+           "previous": "U1_005",
+           "latitude": "52.4977076",
+           "longitude": "13.390703199999962",
+           "correspondance": [
+               "U6"
+           ],
+           "memos": ""
+       },
+       "U1_007": {
+           "number": "U1_007",
+           "name": "Möckernbrücke",
+           "next": "U1_008",
+           "previous": "U1_006",
+           "latitude": "52.499097",
+           "longitude": "13.382954",
+           "correspondance": [
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U1_008": {
+           "number": "U1_008",
+           "name": "Gleisdreieck",
+           "next": "U1_009",
+           "previous": "U1_007",
+           "latitude": "52.4991053",
+           "longitude": "13.375264399999992",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U1_009": {
+           "number": "U1_009",
+           "name": "Kurfürstenstraße",
+           "next": "U1_010",
+           "previous": "U1_008",
+           "latitude": "52.500042",
+           "longitude": "13.36141",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_010": {
+           "number": "U1_010",
+           "name": "Nollendorfplatz",
+           "next": "U1_011",
+           "previous": "U1_009",
+           "latitude": "52.499672",
+           "longitude": "13.353552",
+           "correspondance": [
+               "U2",
+               "U3",
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U1_011": {
+           "number": "U1_011",
+           "name": "Wittenbergplatz",
+           "next": "U1_012",
+           "previous": "U1_010",
+           "latitude": "52.501811",
+           "longitude": "13.342837",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_012": {
+           "number": "U1_012",
+           "name": "Kurfürstendamm",
+           "next": "U1_013",
+           "previous": "U1_011",
+           "latitude": "52.5027492",
+           "longitude": "13.32513659999995",
+           "correspondance": [
+               "U2",
+               "U3"
+           ],
+           "memos": ""
+       },
+       "U1_013": {
+           "number": "U1_013",
+           "name": "Uhlandstraße",
+           "next": "",
+           "previous": "U1_012",
+           "latitude": "52.502978",
+           "longitude": "13.327295",
+           "correspondance": [
+               "U9"
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 119863,
+           "stub": true
+       }
+   }
+}

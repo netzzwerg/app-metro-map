@@ -1,0 +1,39 @@
+{
+   "_id": "london_u12",
+   "_rev": "4-8217555a53300ec2a160c75e6689b956",
+   "city": "London",
+   "lineName": "U12",
+   "lineNameShow": "Northern City",
+   "color": "333333",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T16:09:48.412Z",
+   "stations": {
+       "U12_001": {
+           "number": "U12_001",
+           "name": "Moorgate",
+           "next": "U12_002",
+           "previous": "",
+           "latitude": 51.51817,
+           "longitude": -0.08859,
+           "correspondance": "[U8,U3,U5,U12]"
+       },
+       "U12_002": {
+           "number": "U12_002",
+           "name": "Old Street",
+           "next": "",
+           "previous": "U12_001",
+           "latitude": 51.52618,
+           "longitude": -0.08751,
+           "correspondance": "[U8]"
+       }
+   },
+   "_attachments": {
+       "london_u12.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 3988,
+           "stub": true
+       }
+   }
+}

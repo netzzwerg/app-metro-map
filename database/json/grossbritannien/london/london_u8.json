@@ -1,0 +1,480 @@
+{
+   "_id": "london_u8",
+   "_rev": "7-6123efda2b798a6952f85652cc956b28",
+   "city": "London",
+   "lineName": "U8",
+   "lineNameShow": "Northern",
+   "color": "000000",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T12:52:26.173Z",
+   "stations": {
+       "U8_001": {
+           "number": "U8_001",
+           "name": "Morden",
+           "next": "U8_002",
+           "previous": "",
+           "latitude": 51.40222413,
+           "longitude": -0.194599126,
+           "correspondance": ""
+       },
+       "U8_002": {
+           "number": "U8_002",
+           "name": "South Wimbledon",
+           "next": "U8_003",
+           "previous": "U8_001",
+           "latitude": 51.41543048,
+           "longitude": -0.192262754,
+           "correspondance": ""
+       },
+       "U8_003": {
+           "number": "U8_003",
+           "name": "Colliers Wood",
+           "next": "U8_004",
+           "previous": "U8_002",
+           "latitude": 51.41823649,
+           "longitude": -0.17800983,
+           "correspondance": ""
+       },
+       "U8_004": {
+           "number": "U8_004",
+           "name": "Tooting Broadway",
+           "next": "U8_005",
+           "previous": "U8_003",
+           "latitude": 51.42780008,
+           "longitude": -0.167910811,
+           "correspondance": ""
+       },
+       "U8_005": {
+           "number": "U8_005",
+           "name": "Tooting Bec",
+           "next": "U8_006",
+           "previous": "U8_004",
+           "latitude": 51.43578971,
+           "longitude": -0.159635693,
+           "correspondance": ""
+       },
+       "U8_006": {
+           "number": "U8_006",
+           "name": "Balham",
+           "next": "U8_007",
+           "previous": "U8_005",
+           "latitude": 51.44344113,
+           "longitude": -0.152945844,
+           "correspondance": ""
+       },
+       "U8_007": {
+           "number": "U8_007",
+           "name": "Clapham South",
+           "next": "U8_008",
+           "previous": "U8_006",
+           "latitude": 51.45292257,
+           "longitude": -0.147562148,
+           "correspondance": ""
+       },
+       "U8_008": {
+           "number": "U8_008",
+           "name": "Clapham Common",
+           "next": "U8_009",
+           "previous": "U8_007",
+           "latitude": 51.46156,
+           "longitude": -0.13802,
+           "correspondance": ""
+       },
+       "U8_009": {
+           "number": "U8_009",
+           "name": "Clapham North",
+           "next": "U8_010",
+           "previous": "U8_008",
+           "latitude": 51.46522,
+           "longitude": -0.1295,
+           "correspondance": ""
+       },
+       "U8_010": {
+           "number": "U8_010",
+           "name": "Stockwell",
+           "next": "U8_011",
+           "previous": "U8_009",
+           "latitude": 51.47224,
+           "longitude": -0.1227,
+           "correspondance": "[U10]"
+       },
+       "U8_011": {
+           "number": "U8_011",
+           "name": "Oval",
+           "next": "U8_012",
+           "previous": "U8_010",
+           "latitude": 51.48214,
+           "longitude": -0.11284,
+           "correspondance": ""
+       },
+       "U8_012": {
+           "number": "U8_012",
+           "name": "Kennington",
+           "next": "U8_013",
+           "previous": "U8_011",
+           "latitude": 51.48823,
+           "longitude": -0.10587,
+           "correspondance": ""
+       },
+       "U8_013": {
+           "number": "U8_013",
+           "name": "Elephant & Castle",
+           "next": "U8_014",
+           "previous": "U8_012",
+           "latitude": 51.49467,
+           "longitude": -0.10047,
+           "correspondance": ""
+       },
+       "U8_014": {
+           "number": "U8_014",
+           "name": "Borough",
+           "next": "U8_015",
+           "previous": "U8_013",
+           "latitude": 51.50095,
+           "longitude": -0.09446,
+           "correspondance": ""
+       },
+       "U8_015": {
+           "number": "U8_015",
+           "name": "London Bridge",
+           "next": "U8_016",
+           "previous": "U8_014",
+           "latitude": 51.505353,
+           "longitude": -0.084826,
+           "correspondance": "[U6]"
+       },
+       "U8_016": {
+           "number": "U8_016",
+           "name": "Bank",
+           "next": "U8_017",
+           "previous": "U8_015",
+           "latitude": 51.5134047,
+           "longitude": -0.08905843,
+           "correspondance": "[U11]"
+       },
+       "U8_017": {
+           "number": "U8_017",
+           "name": "Moorgate",
+           "next": "U8_018",
+           "previous": "U8_016",
+           "latitude": 51.51817,
+           "longitude": -0.08859,
+           "correspondance": "[U3,U5,U7,U12]"
+       },
+       "U8_018": {
+           "number": "U8_018",
+           "name": "Old Street",
+           "next": "U8_019",
+           "previous": "U8_017",
+           "latitude": 51.52618,
+           "longitude": -0.08751,
+           "correspondance": "[U12]"
+       },
+       "U8_019": {
+           "number": "U8_019",
+           "name": "Angel",
+           "next": "U8_020",
+           "previous": "U8_018",
+           "latitude": 51.53253,
+           "longitude": -0.10579,
+           "correspondance": ""
+       },
+       "U8_020": {
+           "number": "U8_020",
+           "name": "King's Cross St.Pancras",
+           "next": "U8_021",
+           "previous": "U8_019",
+           "latitude": 51.53057,
+           "longitude": -0.12399,
+           "correspondance": "[U7,U5,U9,U3,U10]"
+       },
+       "U8_021": {
+           "number": "U8_021",
+           "name": "Euston",
+           "next": "U8_022",
+           "previous": "U8_020",
+           "latitude": 51.52774,
+           "longitude": -0.13303,
+           "correspondance": "[U10]"
+       },
+       "U8_022": {
+           "number": "U8_022",
+           "name": "Mornington Crescent",
+           "next": "U8_023",
+           "previous": "U8_021",
+           "latitude": 51.53427,
+           "longitude": -0.13901,
+           "correspondance": ""
+       },
+       "U8_023": {
+           "number": "U8_023",
+           "name": "Camden Town",
+           "next": "U8_024",
+           "previous": "U8_022",
+           "latitude": 51.5393,
+           "longitude": -0.14316,
+           "correspondance": ""
+       },
+       "U8_024": {
+           "number": "U8_024",
+           "name": "Kentish Town",
+           "next": "U8_025",
+           "previous": "U8_023",
+           "latitude": 51.55046,
+           "longitude": -0.14067,
+           "correspondance": ""
+       },
+       "U8_025": {
+           "number": "U8_025",
+           "name": "Tufnell Park",
+           "next": "U8_026",
+           "previous": "U8_024",
+           "latitude": 51.55663,
+           "longitude": -0.13813,
+           "correspondance": ""
+       },
+       "U8_026": {
+           "number": "U8_026",
+           "name": "Archway",
+           "next": "U8_027",
+           "previous": "U8_025",
+           "latitude": 51.56536,
+           "longitude": -0.13474,
+           "correspondance": ""
+       },
+       "U8_027": {
+           "number": "U8_027",
+           "name": "Highgate",
+           "next": "U8_028",
+           "previous": "U8_026",
+           "latitude": 51.57722,
+           "longitude": -0.14553,
+           "correspondance": ""
+       },
+       "U8_028": {
+           "number": "U8_028",
+           "name": "East Finchley",
+           "next": "U8_029",
+           "previous": "U8_027",
+           "latitude": 51.5872974705487,
+           "longitude": -0.16495632312818,
+           "correspondance": ""
+       },
+       "U8_029": {
+           "number": "U8_029",
+           "name": "Finchley Central",
+           "next": "U8_030",
+           "previous": "U8_028",
+           "latitude": 51.60102,
+           "longitude": -0.1924,
+           "correspondance": ""
+       },
+       "U8_030": {
+           "number": "U8_030",
+           "name": "West Finchley",
+           "next": "U8_031",
+           "previous": "U8_029",
+           "latitude": 51.60922281219,
+           "longitude": -0.188711152265457,
+           "correspondance": ""
+       },
+       "U8_031": {
+           "number": "U8_031",
+           "name": "Woodside Park",
+           "next": "U8_032",
+           "previous": "U8_030",
+           "latitude": 51.6181717295887,
+           "longitude": -0.185578887883903,
+           "correspondance": ""
+       },
+       "U8_032": {
+           "number": "U8_032",
+           "name": "Totteridge & Whetstone",
+           "next": "U8_033",
+           "previous": "U8_031",
+           "latitude": 51.63022,
+           "longitude": -0.17917,
+           "correspondance": ""
+       },
+       "U8_033": {
+           "number": "U8_033",
+           "name": "High Barnet",
+           "next": "",
+           "previous": "U8_032",
+           "latitude": 51.6506519031751,
+           "longitude": -0.194138165994553,
+           "correspondance": ""
+       },
+       "U8_034": {
+           "number": "U8_034",
+           "name": "Waterloo",
+           "next": "U8_035",
+           "previous": "U8_012",
+           "latitude": 51.50322,
+           "longitude": -0.11328,
+           "correspondance": "[U6]"
+       },
+       "U8_035": {
+           "number": "U8_035",
+           "name": "Embankment",
+           "next": "U8_036",
+           "previous": "U8_034",
+           "latitude": 51.50717,
+           "longitude": -0.12195,
+           "correspondance": ""
+       },
+       "U8_036": {
+           "number": "U8_036",
+           "name": "Charing Cross",
+           "next": "U8_037",
+           "previous": "U8_035",
+           "latitude": 51.507108,
+           "longitude": -0.122963,
+           "correspondance": ""
+       },
+       "U8_037": {
+           "number": "U8_037",
+           "name": "Leicester Square",
+           "next": "U8_038",
+           "previous": "U8_036",
+           "latitude": 51.51148,
+           "longitude": -0.12849,
+           "correspondance": "[U9]"
+       },
+       "U8_038": {
+           "number": "U8_038",
+           "name": "Tottenham Court Road",
+           "next": "U8_039",
+           "previous": "U8_037",
+           "latitude": 51.51672074,
+           "longitude": -0.13093911,
+           "correspondance": "[U2]"
+       },
+       "U8_039": {
+           "number": "U8_039",
+           "name": "Goodge Street",
+           "next": "U8_040",
+           "previous": "U8_038",
+           "latitude": 51.5206,
+           "longitude": -0.13441,
+           "correspondance": ""
+       },
+       "U8_040": {
+           "number": "U8_040",
+           "name": "Warren Street",
+           "next": "U8_041",
+           "previous": "U8_039",
+           "latitude": 51.5245,
+           "longitude": -0.1381,
+           "correspondance": "[U10]"
+       },
+       "U8_041": {
+           "number": "U8_041",
+           "name": "Euston",
+           "next": "",
+           "previous": "U8_040",
+           "latitude": 51.52774,
+           "longitude": -0.13303,
+           "correspondance": "[U10]"
+       },
+       "U8_042": {
+           "number": "U8_042",
+           "name": "Chalk Farm",
+           "next": "U8_043",
+           "previous": "U8_023",
+           "latitude": 51.5439,
+           "longitude": -0.15384,
+           "correspondance": ""
+       },
+       "U8_043": {
+           "number": "U8_043",
+           "name": "Belsize Park",
+           "next": "U8_044",
+           "previous": "U8_042",
+           "latitude": 51.55036,
+           "longitude": -0.16465,
+           "correspondance": ""
+       },
+       "U8_044": {
+           "number": "U8_044",
+           "name": "Hampstead",
+           "next": "U8_045",
+           "previous": "U8_043",
+           "latitude": 51.55645,
+           "longitude": -0.17851,
+           "correspondance": ""
+       },
+       "U8_045": {
+           "number": "U8_045",
+           "name": "Golders Green",
+           "next": "U8_046",
+           "previous": "U8_044",
+           "latitude": 51.57249,
+           "longitude": -0.1941,
+           "correspondance": ""
+       },
+       "U8_046": {
+           "number": "U8_046",
+           "name": "Brent Cross",
+           "next": "U8_047",
+           "previous": "U8_045",
+           "latitude": 51.57693,
+           "longitude": -0.21414,
+           "correspondance": ""
+       },
+       "U8_047": {
+           "number": "U8_047",
+           "name": "Hendon Central",
+           "next": "U8_048",
+           "previous": "U8_046",
+           "latitude": 51.58346,
+           "longitude": -0.22653,
+           "correspondance": ""
+       },
+       "U8_048": {
+           "number": "U8_048",
+           "name": "Colindale",
+           "next": "U8_049",
+           "previous": "U8_047",
+           "latitude": 51.59556,
+           "longitude": -0.24996,
+           "correspondance": ""
+       },
+       "U8_049": {
+           "number": "U8_049",
+           "name": "Burnt Oak",
+           "next": "U8_050",
+           "previous": "U8_048",
+           "latitude": 51.603,
+           "longitude": -0.26427,
+           "correspondance": ""
+       },
+       "U8_050": {
+           "number": "U8_050",
+           "name": "Edgware",
+           "next": "",
+           "previous": "U8_049",
+           "latitude": 51.61385,
+           "longitude": -0.27515,
+           "correspondance": ""
+       },
+       "U8_051": {
+           "number": "U8_051",
+           "name": "Mill Hill East",
+           "next": "",
+           "previous": "U8_029",
+           "latitude": 51.60892,
+           "longitude": -0.20965,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "london_u8.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 3632,
+           "stub": true
+       }
+   }
+}

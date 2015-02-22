@@ -1,0 +1,57 @@
+{
+   "_id": "berlin_u55",
+   "_rev": "7-8b9b2f411286ce3d4d652dfc5d6e224b",
+   "city": "Berlin",
+   "lineName": "U55",
+   "lineNameShow": "U55",
+   "color": "835A43",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:17:23.176Z",
+   "stations": {
+       "U55_001": {
+           "number": "U55_001",
+           "name": "Brandenburger Tor",
+           "next": "U55_002",
+           "previous": "",
+           "latitude": "52.516624",
+           "longitude": "13.380189",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U55_002": {
+           "number": "U55_002",
+           "name": "Bundestag",
+           "next": "U55_003",
+           "previous": "U55_001",
+           "latitude": "52.520014",
+           "longitude": "13.373006000000032",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U55_003": {
+           "number": "U55_003",
+           "name": "Hauptbahnhof",
+           "next": "",
+           "previous": "U55_002",
+           "latitude": "52.5250111",
+           "longitude": "13.36946009999997",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u55.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 103265,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "_id": "city_münchen",
+   "_rev": "2-54a357f5e0172cb2c35b4b2ea88fa366",
+   "country": "Deutschland",
+   "cityName": "München",
+   "subName": "U-Bahn",
+   "memos": "Wurde zur Olympiade in den 1970ern eröffnet.",
+   "type": "city",
+   "created_at": "2011-05-08T17:11:09.007Z"
+}

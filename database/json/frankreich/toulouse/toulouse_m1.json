@@ -1,0 +1,185 @@
+{
+   "_id": "toulouse_m1",
+   "_rev": "25-755e61fb32fde18b8c1b505111b11083",
+   "city": "Toulouse",
+   "lineName": "M1",
+   "lineNameShow": "MA",
+   "color": "ED1C24",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T18:33:04.753Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Basso-Cambo",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": 43.570388,
+           "longitude": 1.392268,
+           "correspondance": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Bellefontaine",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": 43.566159,
+           "longitude": 1.396002,
+           "correspondance": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Reynerie",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": 43.571103,
+           "longitude": 1.401924,
+           "correspondance": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Mirail-Université",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": 43.574989,
+           "longitude": 1.402139,
+           "correspondance": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Bagatelle",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": 43.57987,
+           "longitude": 1.411795,
+           "correspondance": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Mermoz",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": 43.583539,
+           "longitude": 1.415271,
+           "correspondance": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Fontaine-Lestang",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": 43.587704,
+           "longitude": 1.418833,
+           "correspondance": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Arènes",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": 43.59218,
+           "longitude": 1.418704,
+           "correspondance": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Patte-d'Oie",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": 43.596221,
+           "longitude": 1.423296,
+           "correspondance": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "St-Cyprien/ République",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": 43.597806,
+           "longitude": 1.430978,
+           "correspondance": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Esquirol",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": 43.600913,
+           "longitude": 1.444239,
+           "correspondance": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Capitole",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": 43.604612,
+           "longitude": 1.445526,
+           "correspondance": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Jean-Jaurès",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": 43.606445,
+           "longitude": 1.449217,
+           "correspondance": [
+               "M2"
+           ]
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Marengo-SNCF",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": 43.611044,
+           "longitude": 1.455011,
+           "correspondance": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Jolimont",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": 43.615332,
+           "longitude": 1.463508,
+           "correspondance": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Roseraie",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": 43.619899,
+           "longitude": 1.469044,
+           "correspondance": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Argoulets",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": 43.624745,
+           "longitude": 1.477155,
+           "correspondance": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Balma Gramont",
+           "next": "",
+           "previous": "M1_017",
+           "latitude": 43.628877,
+           "longitude": 1.482262,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "toulouse_ma.png": {
+           "content_type": "image/png",
+           "revpos": 4,
+           "length": 5231,
+           "stub": true
+       }
+   }
+}

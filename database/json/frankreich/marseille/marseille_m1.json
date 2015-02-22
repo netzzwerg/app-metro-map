@@ -1,0 +1,236 @@
+{
+   "_id": "marseille_m1",
+   "_rev": "32-fa1b252f82ea974e0ae0553a4d1f5bc9",
+   "city": "Marseille",
+   "lineName": "M1",
+   "color": "0098FE",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-18T08:53:14.738Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "La Rose - Technopôle de Château Gombert",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "43.333187",
+           "longitude": "5.42973",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Frais Vallon",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "43.325659",
+           "longitude": "5.423744",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Malpassé",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "43.320882",
+           "longitude": "5.416363",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Saint-Just - Hôtel du Département",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "43.315324",
+           "longitude": "5.405763",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Chartreux",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "43.309548",
+           "longitude": "5.400827",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Cinq Avenues - Longchamp",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "43.304145",
+           "longitude": "5.397137",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Réformés - Canebière",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": "43.299741",
+           "longitude": "5.385292",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Saint-Charles - Gare SNCF",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": "43.30249",
+           "longitude": "5.37997",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Colbert - Hôtel de Région",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": "43.29996",
+           "longitude": "5.374048",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Vieux-Port - Hôtel de Ville",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": "43.295275",
+           "longitude": "5.37422",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Estrangin - Préfecture",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": "43.290308",
+           "longitude": "5.377911",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Castellane",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": "43.285935",
+           "longitude": "5.38379",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Baille",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": "43.28834",
+           "longitude": "5.393145",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "La Timone",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": "43.290433",
+           "longitude": "5.400269",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "La Blancarde - Gare SNCF",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": "43.295946",
+           "longitude": "5.406074",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Louis Armand",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": "43.300366",
+           "longitude": "5.412586",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Saint-Barnabé  ",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": "43.303895",
+           "longitude": "5.419152",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "La Fourragère",
+           "next": "",
+           "previous": "M1_017",
+           "latitude": "43.303503",
+           "longitude": "5.428915",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "marseille_metro1.png": {
+           "content_type": "image/png",
+           "revpos": 10,
+           "length": 4978,
+           "stub": true
+       }
+   }
+}

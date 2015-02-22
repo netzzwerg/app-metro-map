@@ -1,0 +1,39 @@
+{
+   "_id": "london_u11",
+   "_rev": "4-656eb8f6d76f234331654285bb21ffe3",
+   "city": "London",
+   "lineName": "U11",
+   "lineNameShow": "Waterloo & City",
+   "color": "70C3CE",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T16:24:11.054Z",
+   "stations": {
+       "U11_001": {
+           "number": "U11_001",
+           "name": "Bank",
+           "next": "U11_002",
+           "previous": "",
+           "latitude": 51.5134047,
+           "longitude": -0.08905843,
+           "correspondance": "[Northern]"
+       },
+       "U11_002": {
+           "number": "U11_002",
+           "name": "Waterloo",
+           "next": "",
+           "previous": "U11_001",
+           "latitude": 51.50322,
+           "longitude": -0.11328,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "london_u11.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4255,
+           "stub": true
+       }
+   }
+}

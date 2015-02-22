@@ -1,0 +1,10 @@
+{
+   "_id": "city_helsinki",
+   "_rev": "1-4782f75b55183257d8e7b947f597ebfd",
+   "country": "Finnland",
+   "cityName": "Helsinki",
+   "subName": "Metro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-19T16:14:40.505Z"
+}

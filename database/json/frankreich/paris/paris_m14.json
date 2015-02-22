@@ -1,0 +1,119 @@
+{
+   "_id": "paris_m14",
+   "_rev": "5-968dada0086ef4db63a33f5ce31cf5d3",
+   "city": "Paris",
+   "lineName": "M14",
+   "color": "7C46A1",
+   "memos": "Die erste komplett fahrerlose und automatische Métro in Paris.",
+   "type": "line",
+   "created_at": "2011-05-06T20:01:09.947Z",
+   "stations": {
+       "M14_001": {
+           "number": "M14_001",
+           "name": "Saint-Lazare",
+           "next": "M14_002",
+           "previous": "",
+           "latitude": 48.876,
+           "longitude": 2.326,
+           "correspondance": [
+               "M3",
+               "M12",
+               "M13"
+           ]
+       },
+       "M14_002": {
+           "number": "M14_002",
+           "name": "Madeleine",
+           "next": "M14_003",
+           "previous": "M14_001",
+           "latitude": 48.8704824564233,
+           "longitude": 2.32500046491622,
+           "correspondance": [
+               "M8",
+               "M12"
+           ]
+       },
+       "M14_003": {
+           "number": "M14_003",
+           "name": "Pyramides",
+           "next": "M14_004",
+           "previous": "M14_002",
+           "latitude": 48.8658722356385,
+           "longitude": 2.33466982841491,
+           "correspondance": [
+               "M7"
+           ]
+       },
+       "M14_004": {
+           "number": "M14_004",
+           "name": "Châtelet",
+           "next": "M14_005",
+           "previous": "M14_003",
+           "latitude": 48.858352,
+           "longitude": 2.347324,
+           "correspondance": [
+               "M1",
+               "M4",
+               "M7",
+               "M11"
+           ]
+       },
+       "M14_005": {
+           "number": "M14_005",
+           "name": "Gare de Lyon",
+           "next": "M14_006",
+           "previous": "M14_004",
+           "latitude": 48.8447277777778,
+           "longitude": 2.37393055555556,
+           "correspondance": [
+               "M1"
+           ]
+       },
+       "M14_006": {
+           "number": "M14_006",
+           "name": "Bercy",
+           "next": "M14_007",
+           "previous": "M14_005",
+           "latitude": 48.83993,
+           "longitude": 2.380418,
+           "correspondance": [
+               "M6"
+           ]
+       },
+       "M14_007": {
+           "number": "M14_007",
+           "name": "Cour Saint-Émilion",
+           "next": "M14_008",
+           "previous": "M14_006",
+           "latitude": 48.834,
+           "longitude": 2.386,
+           "correspondance": ""
+       },
+       "M14_008": {
+           "number": "M14_008",
+           "name": "Bibliothèque François Mitterrand",
+           "next": "M14_009",
+           "previous": "M14_007",
+           "latitude": 48.8298222222222,
+           "longitude": 2.37678055555556,
+           "correspondance": ""
+       },
+       "M14_009": {
+           "number": "M14_009",
+           "name": "Olympiades",
+           "next": "",
+           "previous": "M14_008",
+           "latitude": 48.8272611111111,
+           "longitude": 2.36828055555556,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m14.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 13717,
+           "stub": true
+       }
+   }
+}

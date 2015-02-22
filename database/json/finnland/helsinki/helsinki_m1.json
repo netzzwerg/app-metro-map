@@ -1,0 +1,224 @@
+{
+   "_id": "helsinki_m1",
+   "_rev": "22-b0b2c373ebed9c8df7f72e0986566af0",
+   "city": "Helsinki",
+   "lineName": "M1",
+   "color": "FA6400",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T16:15:17.263Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Ruoholahti Gräsviken",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "60.16312",
+           "longitude": "24.914439",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Kamppi Kampen",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "60.1688683",
+           "longitude": "24.93069289999994",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Rautatientori Järnvägstorget",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "60.1703",
+           "longitude": "24.9398",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Kaisaniemi Kajsaniemi",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "60.173042",
+           "longitude": "24.947119",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Hakaniemi Hagnäs",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "60.1698125",
+           "longitude": "24.93824010000003",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Sörnäinen Sörnäs",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "60.1877612",
+           "longitude": "24.96111989999997",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Kalasatama Fiskhamnen",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": "60.187515",
+           "longitude": "24.9768",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Kulosaari Brändö",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": "60.18876",
+           "longitude": "25.007268",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Herttoniemi Hertonäs",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": "60.1946093",
+           "longitude": "25.030385300000034",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Siilitie Igelkottsvägen",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": "60.2053",
+           "longitude": "25.0438",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Itäkeskus Östra centrum",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": "60.212006",
+           "longitude": "25.083407",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Myllypuro Kvarnbäcken",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": "60.225003",
+           "longitude": "25.075800399999935",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Kontula Gårdsbacka",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": "60.236046",
+           "longitude": "25.08359",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Mellunmäki Mellungsbacka",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": "60.2386982",
+           "longitude": "25.10833839999998",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Puotila Botby gård",
+           "next": "M1_016",
+           "previous": "M1_011",
+           "latitude": "60.214809",
+           "longitude": "25.094512",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Rastila Rastböle",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": "60.2054331",
+           "longitude": "25.121247799999992",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Vuosaari Nordsjö",
+           "next": "",
+           "previous": "M1_016",
+           "latitude": "60.207315",
+           "longitude": "25.143013999999994",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "helsinki_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 12459,
+           "stub": true
+       }
+   }
+}

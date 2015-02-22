@@ -1,0 +1,276 @@
+{
+   "_id": "münchen_u6",
+   "_rev": "5-466313ec79daa81a3b4462b2d11922be",
+   "city": "München",
+   "lineName": "U6",
+   "color": "008FCA",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-08T17:16:26.888Z",
+   "stations": {
+       "U6_001": {
+           "number": "U6_001",
+           "name": "Klinikum Großhadern",
+           "next": "U6_002",
+           "previous": "",
+           "latitude": 48.109372,
+           "longitude": 11.474683,
+           "correspondance": ""
+       },
+       "U6_002": {
+           "number": "U6_002",
+           "name": "Großhadern",
+           "next": "U6_003",
+           "previous": "U6_001",
+           "latitude": 48.1153758,
+           "longitude": 11.4768464,
+           "correspondance": ""
+       },
+       "U6_003": {
+           "number": "U6_003",
+           "name": "Haderner Stern",
+           "next": "U6_004",
+           "previous": "U6_002",
+           "latitude": 48.11848,
+           "longitude": 11.490443,
+           "correspondance": ""
+       },
+       "U6_004": {
+           "number": "U6_004",
+           "name": "Holzapfelkreuth",
+           "next": "U6_005",
+           "previous": "U6_003",
+           "latitude": 48.1161005,
+           "longitude": 11.502272,
+           "correspondance": ""
+       },
+       "U6_005": {
+           "number": "U6_005",
+           "name": "Westpark",
+           "next": "U6_006",
+           "previous": "U6_004",
+           "latitude": 48.11789,
+           "longitude": 11.5163,
+           "correspondance": ""
+       },
+       "U6_006": {
+           "number": "U6_006",
+           "name": "Partnachplatz",
+           "next": "U6_007",
+           "previous": "U6_005",
+           "latitude": 48.11691,
+           "longitude": 11.52622,
+           "correspondance": ""
+       },
+       "U6_007": {
+           "number": "U6_007",
+           "name": "Harras",
+           "next": "U6_008",
+           "previous": "U6_006",
+           "latitude": 48.11687,
+           "longitude": 11.53609,
+           "correspondance": ""
+       },
+       "U6_008": {
+           "number": "U6_008",
+           "name": "Implerstrasse",
+           "next": "U6_009",
+           "previous": "U6_007",
+           "latitude": 48.12017,
+           "longitude": 11.5483,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U6_009": {
+           "number": "U6_009",
+           "name": "Poccistrasse",
+           "next": "U6_010",
+           "previous": "U6_008",
+           "latitude": 48.12536,
+           "longitude": 11.55008,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U6_010": {
+           "number": "U6_010",
+           "name": "Goetheplatz",
+           "next": "U6_011",
+           "previous": "U6_009",
+           "latitude": 48.12904,
+           "longitude": 11.55743,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U6_011": {
+           "number": "U6_011",
+           "name": "Sendlinger Tor",
+           "next": "U6_012",
+           "previous": "U6_010",
+           "latitude": 48.13331,
+           "longitude": 11.56629,
+           "correspondance": [
+               "U1",
+               "U2",
+               "U3"
+           ]
+       },
+       "U6_012": {
+           "number": "U6_012",
+           "name": "Marienplatz",
+           "next": "U6_013",
+           "previous": "U6_011",
+           "latitude": 48.13713,
+           "longitude": 11.57523,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U6_013": {
+           "number": "U6_013",
+           "name": "Odeonsplatz",
+           "next": "U6_014",
+           "previous": "U6_012",
+           "latitude": 48.1424,
+           "longitude": 11.57771,
+           "correspondance": [
+               "U3",
+               "U4",
+               "U5"
+           ]
+       },
+       "U6_014": {
+           "number": "U6_014",
+           "name": "Universität",
+           "next": "U6_015",
+           "previous": "U6_013",
+           "latitude": 48.15051,
+           "longitude": 11.58119,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U6_015": {
+           "number": "U6_015",
+           "name": "Giselastraße",
+           "next": "U6_016",
+           "previous": "U6_014",
+           "latitude": 48.15662,
+           "longitude": 11.58408,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U6_016": {
+           "number": "U6_016",
+           "name": "Münchner Freiheit",
+           "next": "U6_017",
+           "previous": "U6_015",
+           "latitude": 48.16139,
+           "longitude": 11.5862,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U6_017": {
+           "number": "U6_017",
+           "name": "Dietlindenstraße",
+           "next": "U6_018",
+           "previous": "U6_016",
+           "latitude": 48.16701,
+           "longitude": 11.59079,
+           "correspondance": ""
+       },
+       "U6_018": {
+           "number": "U6_018",
+           "name": "Nordfriedhof",
+           "next": "U6_019",
+           "previous": "U6_017",
+           "latitude": 48.17321,
+           "longitude": 11.59713,
+           "correspondance": ""
+       },
+       "U6_019": {
+           "number": "U6_019",
+           "name": "Alte Heide",
+           "next": "U6_020",
+           "previous": "U6_018",
+           "latitude": 48.17813,
+           "longitude": 11.60232,
+           "correspondance": ""
+       },
+       "U6_020": {
+           "number": "U6_020",
+           "name": "Studentenstadt",
+           "next": "U6_021",
+           "previous": "U6_019",
+           "latitude": 48.1837,
+           "longitude": 11.60797,
+           "correspondance": ""
+       },
+       "U6_021": {
+           "number": "U6_021",
+           "name": "Freimann",
+           "next": "U6_022",
+           "previous": "U6_020",
+           "latitude": 48.19185,
+           "longitude": 11.61421,
+           "correspondance": ""
+       },
+       "U6_022": {
+           "number": "U6_022",
+           "name": "Kieferngarten",
+           "next": "U6_023",
+           "previous": "U6_021",
+           "latitude": 48.20322,
+           "longitude": 11.6127,
+           "correspondance": ""
+       },
+       "U6_023": {
+           "number": "U6_023",
+           "name": "Fröttmaning",
+           "next": "U6_024",
+           "previous": "U6_022",
+           "latitude": 48.21105,
+           "longitude": 11.61704,
+           "correspondance": ""
+       },
+       "U6_024": {
+           "number": "U6_024",
+           "name": "Garching-Hochbrück",
+           "next": "U6_025",
+           "previous": "U6_023",
+           "latitude": 48.24705,
+           "longitude": 11.63041,
+           "correspondance": ""
+       },
+       "U6_025": {
+           "number": "U6_025",
+           "name": "Garching",
+           "next": "U6_026",
+           "previous": "U6_024",
+           "latitude": 48.24914,
+           "longitude": 11.65201,
+           "correspondance": ""
+       },
+       "U6_026": {
+           "number": "U6_026",
+           "name": "Garching-Forschungszentrum",
+           "next": "",
+           "previous": "U6_025",
+           "latitude": 48.264,
+           "longitude": 11.67156,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "muenchen_u6.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4704,
+           "stub": true
+       }
+   }
+}

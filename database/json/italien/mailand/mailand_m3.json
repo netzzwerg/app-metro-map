@@ -1,0 +1,225 @@
+{
+   "_id": "mailand_m3",
+   "_rev": "28-aa87b3f652bd18cc400f598bf4c29578",
+   "city": "Mailand",
+   "lineName": "M3",
+   "lineNameShow": "M3",
+   "color": "FDC600",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T11:12:33.695Z",
+   "stations": {
+       "M3_001": {
+           "number": "M3_001",
+           "name": "Maciachini",
+           "next": "M3_002",
+           "previous": "",
+           "latitude": "45.4977632",
+           "longitude": "9.18477949999999",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_002": {
+           "number": "M3_002",
+           "name": "Zara",
+           "next": "M3_003",
+           "previous": "M3_001",
+           "latitude": "45.4924",
+           "longitude": "9.1925",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_003": {
+           "number": "M3_003",
+           "name": "Sondrio",
+           "next": "M3_004",
+           "previous": "M3_002",
+           "latitude": "45.4894828",
+           "longitude": "9.200706500000024",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_004": {
+           "number": "M3_004",
+           "name": "Centrale",
+           "next": "M3_005",
+           "previous": "M3_003",
+           "latitude": "45.4851231",
+           "longitude": "9.203033300000016",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M3_005": {
+           "number": "M3_005",
+           "name": "Repubblica",
+           "next": "M3_006",
+           "previous": "M3_004",
+           "latitude": "45.479136",
+           "longitude": "9.196973",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_006": {
+           "number": "M3_006",
+           "name": "Turati",
+           "next": "M3_007",
+           "previous": "M3_005",
+           "latitude": "45.475572",
+           "longitude": "9.193953",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_007": {
+           "number": "M3_007",
+           "name": "Montenapoleone",
+           "next": "M3_008",
+           "previous": "M3_006",
+           "latitude": "45.4702023",
+           "longitude": "9.192485499999975",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_008": {
+           "number": "M3_008",
+           "name": "Duomo",
+           "next": "M3_009",
+           "previous": "M3_007",
+           "latitude": "45.4644613",
+           "longitude": "9.189221299999986",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M3_009": {
+           "number": "M3_009",
+           "name": "Missori",
+           "next": "M3_010",
+           "previous": "M3_008",
+           "latitude": "45.461029",
+           "longitude": "9.187635",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_010": {
+           "number": "M3_010",
+           "name": "Crocetta",
+           "next": "M3_011",
+           "previous": "M3_009",
+           "latitude": "45.456244",
+           "longitude": "9.195279",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_011": {
+           "number": "M3_011",
+           "name": "Porta Romana",
+           "next": "M3_012",
+           "previous": "M3_010",
+           "latitude": "45.451949",
+           "longitude": "9.203121",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_012": {
+           "number": "M3_012",
+           "name": "Lodi TIBB FS",
+           "next": "M3_013",
+           "previous": "M3_011",
+           "latitude": "45.4468093",
+           "longitude": "9.210394599999972",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_013": {
+           "number": "M3_013",
+           "name": "Brenta",
+           "next": "M3_014",
+           "previous": "M3_012",
+           "latitude": "45.4424049",
+           "longitude": "9.218583399999943",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_014": {
+           "number": "M3_014",
+           "name": "Corvetto",
+           "next": "M3_015",
+           "previous": "M3_013",
+           "latitude": "45.440389",
+           "longitude": "9.223855",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_015": {
+           "number": "M3_015",
+           "name": "Porto di Mare",
+           "next": "M3_016",
+           "previous": "M3_014",
+           "latitude": "45.4371617",
+           "longitude": "9.230411900000036",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_016": {
+           "number": "M3_016",
+           "name": "Rogoredo",
+           "next": "M3_017",
+           "previous": "M3_015",
+           "latitude": "45.432762",
+           "longitude": "9.238696",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_017": {
+           "number": "M3_017",
+           "name": "San Donato",
+           "next": "",
+           "previous": "M3_016",
+           "latitude": "45.42903",
+           "longitude": "9.256254",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "mailand_m3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 7775,
+           "stub": true
+       }
+   }
+}

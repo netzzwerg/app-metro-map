@@ -1,0 +1,477 @@
+{
+   "_id": "mailand_m1",
+   "_rev": "50-b093349cd57fdb4ce74732a35147ebb9",
+   "city": "Mailand",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "F81D00",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T11:11:59.633Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Sesto Primo Maggio",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "45.541511",
+           "longitude": "9.238458",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Sesto Rondò",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "45.534636",
+           "longitude": "9.231037",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Sesto Marelli",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "45.5238336",
+           "longitude": "9.228187100000014",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Villa San Giovanni",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "45.5174656",
+           "longitude": "9.226263900000049",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Precotto",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "45.512156",
+           "longitude": "9.224637",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Gorla",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "45.506543",
+           "longitude": "9.222873",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Turro",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": "45.500864",
+           "longitude": "9.221155",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Rovereto",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": "45.495451",
+           "longitude": "9.219747",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Pasteur",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": "45.4907295",
+           "longitude": "9.217934300000024",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Loreto",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": "45.486139",
+           "longitude": "9.216925",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Lima",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": "45.480771",
+           "longitude": "9.210875",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Porta Venezia",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": "45.474786",
+           "longitude": "9.205504",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Palestro",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": "45.4714531",
+           "longitude": "9.201890700000035",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "San Babila",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": "45.4666396",
+           "longitude": "9.197289299999966",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Duomo",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": "45.4644613",
+           "longitude": "9.189221299999986",
+           "correspondance": [
+               "M3"
+           ],
+           "memos": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Dante Cordusio",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": "45.465545",
+           "longitude": "9.185961",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Cairoli Castello",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": "45.468199",
+           "longitude": "9.18214",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Cadorna FNM-Triennale",
+           "next": "M1_019",
+           "previous": "M1_017",
+           "latitude": "45.4684755",
+           "longitude": "9.17677720000006",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_019": {
+           "number": "M1_019",
+           "name": "Conciliazione",
+           "next": "M1_020",
+           "previous": "M1_018",
+           "latitude": "45.46752",
+           "longitude": "9.166341999999986",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_020": {
+           "number": "M1_020",
+           "name": "Pagano",
+           "next": "M1_021",
+           "previous": "M1_019",
+           "latitude": "45.468351",
+           "longitude": "9.160865",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_021": {
+           "number": "M1_021",
+           "name": "Buonarroti",
+           "next": "M1_022",
+           "previous": "M1_020",
+           "latitude": "45.4702738",
+           "longitude": "9.155355699999973",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_022": {
+           "number": "M1_022",
+           "name": "Amendola Fiera",
+           "next": "M1_023",
+           "previous": "M1_021",
+           "latitude": "45.4734572",
+           "longitude": "9.151125800000045",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_023": {
+           "number": "M1_023",
+           "name": "Lotto Fiera",
+           "next": "M1_024",
+           "previous": "M1_022",
+           "latitude": "45.479558",
+           "longitude": "9.143477",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_024": {
+           "number": "M1_024",
+           "name": "QT8",
+           "next": "M1_025",
+           "previous": "M1_023",
+           "latitude": "45.485786",
+           "longitude": "9.137249",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_025": {
+           "number": "M1_025",
+           "name": "Lampugnano",
+           "next": "M1_026",
+           "previous": "M1_024",
+           "latitude": "45.488492",
+           "longitude": "9.124745",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_026": {
+           "number": "M1_026",
+           "name": "Uruguay",
+           "next": "M1_027",
+           "previous": "M1_025",
+           "latitude": "45.4932772",
+           "longitude": "9.120755199999962",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_027": {
+           "number": "M1_027",
+           "name": "Bonola",
+           "next": "M1_028",
+           "previous": "M1_026",
+           "latitude": "45.4974793",
+           "longitude": "9.110982599999943",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_028": {
+           "number": "M1_028",
+           "name": "San Leonardo",
+           "next": "M1_029",
+           "previous": "M1_027",
+           "latitude": "45.5012788",
+           "longitude": "9.101797300000044",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_029": {
+           "number": "M1_029",
+           "name": "Molino Dorino",
+           "next": "M1_030",
+           "previous": "M1_028",
+           "latitude": "45.5059099",
+           "longitude": "9.09512129999996",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_030": {
+           "number": "M1_030",
+           "name": "Pero",
+           "next": "M1_031",
+           "previous": "M1_029",
+           "latitude": "45.510024",
+           "longitude": "9.089665",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_031": {
+           "number": "M1_031",
+           "name": "Rho Fiera",
+           "next": "",
+           "previous": "M1_030",
+           "latitude": "45.5194662",
+           "longitude": "9.086860099999967",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_032": {
+           "number": "M1_032",
+           "name": "Wagner",
+           "next": "M1_033",
+           "previous": "M1_020",
+           "latitude": "45.4676479",
+           "longitude": "9.155044599999997",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_033": {
+           "number": "M1_033",
+           "name": "De Angeli",
+           "next": "M1_034",
+           "previous": "M1_032",
+           "latitude": "45.4666",
+           "longitude": "9.1496",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_034": {
+           "number": "M1_034",
+           "name": "Gambara",
+           "next": "M1_035",
+           "previous": "M1_033",
+           "latitude": "45.4648873",
+           "longitude": "9.143258899999978",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_035": {
+           "number": "M1_035",
+           "name": "Bande Nere",
+           "next": "M1_036",
+           "previous": "M1_034",
+           "latitude": "45.4617081",
+           "longitude": "9.137099199999966",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_036": {
+           "number": "M1_036",
+           "name": "Primaticcio",
+           "next": "M1_037",
+           "previous": "M1_035",
+           "latitude": "45.459602",
+           "longitude": "9.129260499999987",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_037": {
+           "number": "M1_037",
+           "name": "Inganni",
+           "next": "M1_038",
+           "previous": "M1_036",
+           "latitude": "45.457695",
+           "longitude": "9.12223",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_038": {
+           "number": "M1_038",
+           "name": "Bisceglie",
+           "next": "",
+           "previous": "M1_037",
+           "latitude": "45.4556567",
+           "longitude": "9.113237000000026",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "mailand_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 7471,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,242 @@
+{
+   "_id": "wien_u6",
+   "_rev": "5-7887be77488cda5374a39348cc6558fd",
+   "city": "Wien",
+   "lineName": "U6",
+   "color": "88471F",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-08T17:13:34.089Z",
+   "stations": {
+       "U6_001": {
+           "number": "U6_001",
+           "name": "Siebenhirten",
+           "next": "U6_002",
+           "previous": "",
+           "latitude": 48.12987,
+           "longitude": 16.309751,
+           "correspondance": ""
+       },
+       "U6_002": {
+           "number": "U6_002",
+           "name": "Perfektastraße",
+           "next": "U6_003",
+           "previous": "U6_001",
+           "latitude": 48.136433,
+           "longitude": 16.313179,
+           "correspondance": ""
+       },
+       "U6_003": {
+           "number": "U6_003",
+           "name": "Erlaaer Straße",
+           "next": "U6_004",
+           "previous": "U6_002",
+           "latitude": 48.141935,
+           "longitude": 16.316596,
+           "correspondance": ""
+       },
+       "U6_004": {
+           "number": "U6_004",
+           "name": "Alterlaa",
+           "next": "U6_005",
+           "previous": "U6_003",
+           "latitude": 48.150429,
+           "longitude": 16.316891,
+           "correspondance": ""
+       },
+       "U6_005": {
+           "number": "U6_005",
+           "name": "Am Schöpfwerk",
+           "next": "U6_006",
+           "previous": "U6_004",
+           "latitude": 48.16066,
+           "longitude": 16.324251,
+           "correspondance": ""
+       },
+       "U6_006": {
+           "number": "U6_006",
+           "name": "Tscherttegasse",
+           "next": "U6_007",
+           "previous": "U6_005",
+           "latitude": 48.165301,
+           "longitude": 16.328081,
+           "correspondance": ""
+       },
+       "U6_007": {
+           "number": "U6_007",
+           "name": "Philadelphiabrücke",
+           "next": "U6_008",
+           "previous": "U6_006",
+           "latitude": 48.174356,
+           "longitude": 16.331965,
+           "correspondance": ""
+       },
+       "U6_008": {
+           "number": "U6_008",
+           "name": "Niederhofstraße",
+           "next": "U6_009",
+           "previous": "U6_007",
+           "latitude": 48.181113,
+           "longitude": 16.331295,
+           "correspondance": ""
+       },
+       "U6_009": {
+           "number": "U6_009",
+           "name": "Längenfeldgasse",
+           "next": "U6_010",
+           "previous": "U6_008",
+           "latitude": 48.185266,
+           "longitude": 16.335731,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U6_010": {
+           "number": "U6_010",
+           "name": "Gumpendorfer Straße",
+           "next": "U6_011",
+           "previous": "U6_009",
+           "latitude": 48.190695,
+           "longitude": 16.337619,
+           "correspondance": ""
+       },
+       "U6_011": {
+           "number": "U6_011",
+           "name": "Westbahnhof",
+           "next": "U6_012",
+           "previous": "U6_010",
+           "latitude": 48.196849,
+           "longitude": 16.339234,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U6_012": {
+           "number": "U6_012",
+           "name": "Burggasse - Stadthalle",
+           "next": "U6_013",
+           "previous": "U6_011",
+           "latitude": 48.201987,
+           "longitude": 16.33741,
+           "correspondance": ""
+       },
+       "U6_013": {
+           "number": "U6_013",
+           "name": "Thaliastraße",
+           "next": "U6_014",
+           "previous": "U6_012",
+           "latitude": 48.208204,
+           "longitude": 16.338381,
+           "correspondance": ""
+       },
+       "U6_014": {
+           "number": "U6_014",
+           "name": "Josefstädter Straße",
+           "next": "U6_015",
+           "previous": "U6_013",
+           "latitude": 48.211511,
+           "longitude": 16.339272,
+           "correspondance": ""
+       },
+       "U6_015": {
+           "number": "U6_015",
+           "name": "Alser Straße",
+           "next": "U6_016",
+           "previous": "U6_014",
+           "latitude": 48.216741,
+           "longitude": 16.341927,
+           "correspondance": ""
+       },
+       "U6_016": {
+           "number": "U6_016",
+           "name": "Michelbeuern",
+           "next": "U6_017",
+           "previous": "U6_015",
+           "latitude": 48.221698,
+           "longitude": 16.343971,
+           "correspondance": ""
+       },
+       "U6_017": {
+           "number": "U6_017",
+           "name": "Währinger Straße - Volksoper",
+           "next": "U6_018",
+           "previous": "U6_016",
+           "latitude": 48.225454,
+           "longitude": 16.349593,
+           "correspondance": ""
+       },
+       "U6_018": {
+           "number": "U6_018",
+           "name": "Nussdorfer Straße",
+           "next": "U6_019",
+           "previous": "U6_017",
+           "latitude": 48.231276,
+           "longitude": 16.35257,
+           "correspondance": ""
+       },
+       "U6_019": {
+           "number": "U6_019",
+           "name": "Spittelau",
+           "next": "U6_020",
+           "previous": "U6_018",
+           "latitude": 48.235528,
+           "longitude": 16.358079,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U6_020": {
+           "number": "U6_020",
+           "name": "Jägerstraße",
+           "next": "U6_021",
+           "previous": "U6_019",
+           "latitude": 48.235167,
+           "longitude": 16.369833,
+           "correspondance": ""
+       },
+       "U6_021": {
+           "number": "U6_021",
+           "name": "Dresdner Straße",
+           "next": "U6_022",
+           "previous": "U6_020",
+           "latitude": 48.2367,
+           "longitude": 16.379167,
+           "correspondance": ""
+       },
+       "U6_022": {
+           "number": "U6_022",
+           "name": "Handelskai",
+           "next": "U6_023",
+           "previous": "U6_021",
+           "latitude": 48.241891,
+           "longitude": 16.3854,
+           "correspondance": ""
+       },
+       "U6_023": {
+           "number": "U6_023",
+           "name": "Neue Donau",
+           "next": "U6_024",
+           "previous": "U6_022",
+           "latitude": 48.246267,
+           "longitude": 16.394868,
+           "correspondance": ""
+       },
+       "U6_024": {
+           "number": "U6_024",
+           "name": "Floridsdorf",
+           "next": "",
+           "previous": "U6_023",
+           "latitude": 48.256287,
+           "longitude": 16.40011,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "wien_u6.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4770,
+           "stub": true
+       }
+   }
+}

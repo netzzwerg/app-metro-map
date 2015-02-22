@@ -1,0 +1,244 @@
+{
+   "_id": "paris_m5",
+   "_rev": "6-a67547484c4fe8eb6d0bcf7066e48a16",
+   "city": "Paris",
+   "lineName": "M5",
+   "color": "FAA25F",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:00:46.256Z",
+   "stations": {
+       "M5_001": {
+           "number": "M5_001",
+           "name": "Bobigny - Pablo Picasso",
+           "next": "M5_002",
+           "previous": "",
+           "latitude": 48.907,
+           "longitude": 2.433,
+           "correspondance": ""
+       },
+       "M5_002": {
+           "number": "M5_002",
+           "name": "Bobigny - Pantin - Raymond Queneau",
+           "next": "M5_003",
+           "previous": "M5_001",
+           "latitude": 48.895,
+           "longitude": 2.425,
+           "correspondance": ""
+       },
+       "M5_003": {
+           "number": "M5_003",
+           "name": "Église de Pantin",
+           "next": "M5_004",
+           "previous": "M5_002",
+           "latitude": 48.894,
+           "longitude": 2.413,
+           "correspondance": ""
+       },
+       "M5_004": {
+           "number": "M5_004",
+           "name": "Hoche",
+           "next": "M5_005",
+           "previous": "M5_003",
+           "latitude": 48.891,
+           "longitude": 2.403,
+           "correspondance": ""
+       },
+       "M5_005": {
+           "number": "M5_005",
+           "name": "Porte de Pantin",
+           "next": "M5_006",
+           "previous": "M5_004",
+           "latitude": 48.888,
+           "longitude": 2.387,
+           "correspondance": ""
+       },
+       "M5_006": {
+           "number": "M5_006",
+           "name": "Ourcq",
+           "next": "M5_007",
+           "previous": "M5_005",
+           "latitude": 48.887,
+           "longitude": 2.386,
+           "correspondance": ""
+       },
+       "M5_007": {
+           "number": "M5_007",
+           "name": "Laumière",
+           "next": "M5_008",
+           "previous": "M5_006",
+           "latitude": 48.885,
+           "longitude": 2.379,
+           "correspondance": ""
+       },
+       "M5_008": {
+           "number": "M5_008",
+           "name": "Jaurès",
+           "next": "M5_009",
+           "previous": "M5_007",
+           "latitude": 48.88179,
+           "longitude": 2.370198,
+           "correspondance": [
+               "M2",
+               "M7bis"
+           ]
+       },
+       "M5_009": {
+           "number": "M5_009",
+           "name": "Stalingrad",
+           "next": "M5_010",
+           "previous": "M5_008",
+           "latitude": 48.884263,
+           "longitude": 2.365824,
+           "correspondance": [
+               "M2",
+               "M7"
+           ]
+       },
+       "M5_010": {
+           "number": "M5_010",
+           "name": "Gare du Nord",
+           "next": "M5_011",
+           "previous": "M5_009",
+           "latitude": 48.880575,
+           "longitude": 2.35493055555556,
+           "correspondance": [
+               "M4"
+           ]
+       },
+       "M5_011": {
+           "number": "M5_011",
+           "name": "Gare de l'Est",
+           "next": "M5_012",
+           "previous": "M5_010",
+           "latitude": 48.8761111111111,
+           "longitude": 2.35833333333333,
+           "correspondance": [
+               "M4",
+               "M7"
+           ]
+       },
+       "M5_012": {
+           "number": "M5_012",
+           "name": "Jacques Bonsergent",
+           "next": "M5_013",
+           "previous": "M5_011",
+           "latitude": 48.871,
+           "longitude": 2.361,
+           "correspondance": ""
+       },
+       "M5_013": {
+           "number": "M5_013",
+           "name": "République",
+           "next": "M5_014",
+           "previous": "M5_012",
+           "latitude": 48.867503,
+           "longitude": 2.363811,
+           "correspondance": [
+               "M3",
+               "M8",
+               "M9",
+               "M11"
+           ]
+       },
+       "M5_014": {
+           "number": "M5_014",
+           "name": "Oberkampf",
+           "next": "M5_015",
+           "previous": "M5_013",
+           "latitude": 48.864545,
+           "longitude": 2.368877,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M5_015": {
+           "number": "M5_015",
+           "name": "Richard-Lenoir",
+           "next": "M5_016",
+           "previous": "M5_014",
+           "latitude": 48.86,
+           "longitude": 2.372,
+           "correspondance": ""
+       },
+       "M5_016": {
+           "number": "M5_016",
+           "name": "Bréguet - Sabin",
+           "next": "M5_017",
+           "previous": "M5_015",
+           "latitude": 48.856,
+           "longitude": 2.37,
+           "correspondance": ""
+       },
+       "M5_017": {
+           "number": "M5_017",
+           "name": "Bastille",
+           "next": "M5_018",
+           "previous": "M5_016",
+           "latitude": 48.853082,
+           "longitude": 2.369077,
+           "correspondance": [
+               "M1",
+               "M8"
+           ]
+       },
+       "M5_018": {
+           "number": "M5_018",
+           "name": "Quai de la Rapée",
+           "next": "M5_019",
+           "previous": "M5_017",
+           "latitude": 48.846,
+           "longitude": 2.366,
+           "correspondance": ""
+       },
+       "M5_019": {
+           "number": "M5_019",
+           "name": "Gare d'Austerlitz",
+           "next": "M5_020",
+           "previous": "M5_018",
+           "latitude": 48.842626,
+           "longitude": 2.364971,
+           "correspondance": [
+               "M10"
+           ]
+       },
+       "M5_020": {
+           "number": "M5_020",
+           "name": "Saint-Marcel",
+           "next": "M5_021",
+           "previous": "M5_019",
+           "latitude": 48.838,
+           "longitude": 2.36,
+           "correspondance": ""
+       },
+       "M5_021": {
+           "number": "M5_021",
+           "name": "Campo Formio",
+           "next": "M5_022",
+           "previous": "M5_020",
+           "latitude": 48.835,
+           "longitude": 2.358,
+           "correspondance": ""
+       },
+       "M5_022": {
+           "number": "M5_022",
+           "name": "Place d'Italie",
+           "next": "",
+           "previous": "M5_021",
+           "latitude": 48.831483,
+           "longitude": 2.355692,
+           "correspondance": [
+               "M6",
+               "M7"
+           ]
+       }
+   },
+   "_attachments": {
+       "paris_m5.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 14961,
+           "stub": true
+       }
+   }
+}

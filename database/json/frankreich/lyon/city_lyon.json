@@ -1,0 +1,10 @@
+{
+   "_id": "city_lyon",
+   "_rev": "1-7e453592b054e4cdb7ac3d8bbce55edf",
+   "country": "Frankreich",
+   "cityName": "Lyon",
+   "subName": "Métro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-19T17:30:49.180Z"
+}

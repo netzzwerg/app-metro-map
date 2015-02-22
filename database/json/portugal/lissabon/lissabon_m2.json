@@ -1,0 +1,177 @@
+{
+   "_id": "lissabon_m2",
+   "_rev": "20-2f7c8f7a6d969fccac8ef3e463e66ec4",
+   "city": "Lissabon",
+   "lineName": "M2",
+   "lineNameShow": "Linha Amarela",
+   "color": "FEB800",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T11:52:13.508Z",
+   "stations": {
+       "M2_001": {
+           "number": "M2_001",
+           "name": "Odivelas",
+           "next": "M2_002",
+           "previous": "",
+           "latitude": "38.793222",
+           "longitude": "-9.173844",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_002": {
+           "number": "M2_002",
+           "name": "Senhor Roubado",
+           "next": "M2_003",
+           "previous": "M2_001",
+           "latitude": "38.785586",
+           "longitude": "-9.171695",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_003": {
+           "number": "M2_003",
+           "name": "Ameixoeira",
+           "next": "M2_004",
+           "previous": "M2_002",
+           "latitude": "38.779908",
+           "longitude": "-9.160003",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_004": {
+           "number": "M2_004",
+           "name": "Lumiar",
+           "next": "M2_005",
+           "previous": "M2_003",
+           "latitude": "38.772999",
+           "longitude": "-9.159497",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_005": {
+           "number": "M2_005",
+           "name": "Quinta das Conchas",
+           "next": "M2_006",
+           "previous": "M2_004",
+           "latitude": "38.767456",
+           "longitude": "-9.15615",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_006": {
+           "number": "M2_006",
+           "name": "Campo Grande",
+           "next": "M2_007",
+           "previous": "M2_005",
+           "latitude": "38.759505",
+           "longitude": "-9.157654",
+           "correspondance": [
+               "M3"
+           ],
+           "memos": ""
+       },
+       "M2_007": {
+           "number": "M2_007",
+           "name": "Cidade Universitária",
+           "next": "M2_008",
+           "previous": "M2_006",
+           "latitude": "38.751695",
+           "longitude": "-9.158719",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_008": {
+           "number": "M2_008",
+           "name": "Entre Campos",
+           "next": "M2_009",
+           "previous": "M2_007",
+           "latitude": "38.747908",
+           "longitude": "-9.148714",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_009": {
+           "number": "M2_009",
+           "name": "Campo Pequeno",
+           "next": "M2_010",
+           "previous": "M2_008",
+           "latitude": "38.741518",
+           "longitude": "-9.147287",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_010": {
+           "number": "M2_010",
+           "name": "Saldanha",
+           "next": "M2_011",
+           "previous": "M2_009",
+           "latitude": "38.735276",
+           "longitude": "-9.145576000000005",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_011": {
+           "number": "M2_011",
+           "name": "Picoas",
+           "next": "M2_012",
+           "previous": "M2_010",
+           "latitude": "38.730661",
+           "longitude": "-9.147125",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_012": {
+           "number": "M2_012",
+           "name": "Marquês de Pombal",
+           "next": "M2_013",
+           "previous": "M2_011",
+           "latitude": "38.72492",
+           "longitude": "-9.15086",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M2_013": {
+           "number": "M2_013",
+           "name": "Rato",
+           "next": "",
+           "previous": "M2_012",
+           "latitude": "38.719859",
+           "longitude": "-9.154433",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "lissabon_m2.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 5287,
+           "stub": true
+       }
+   }
+}

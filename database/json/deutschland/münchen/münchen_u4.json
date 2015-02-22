@@ -1,0 +1,159 @@
+{
+   "_id": "münchen_u4",
+   "_rev": "23-3bb4f35d0bca2087d6f3310b1fcf3009",
+   "city": "München",
+   "lineName": "U4",
+   "color": "00BFD6",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-08T17:16:05.361Z",
+   "stations": {
+       "U4_001": {
+           "number": "U4_001",
+           "name": "Westendstraße",
+           "next": "U4_002",
+           "previous": "",
+           "latitude": 48.13477,
+           "longitude": 11.52172,
+           "correspondance": [
+               "U5"
+           ]
+       },
+       "U4_002": {
+           "number": "U4_002",
+           "name": "Heimeranplatz",
+           "next": "U4_003",
+           "previous": "U4_001",
+           "latitude": 48.133336,
+           "longitude": 11.533072,
+           "correspondance": [
+               "U5"
+           ]
+       },
+       "U4_003": {
+           "number": "U4_003",
+           "name": "Schwanthaler Höhe",
+           "next": "U4_004",
+           "previous": "U4_002",
+           "latitude": 48.13379,
+           "longitude": 11.5405,
+           "correspondance": [
+               "U5"
+           ]
+       },
+       "U4_004": {
+           "number": "U4_004",
+           "name": "Theresienwiese",
+           "next": "U4_005",
+           "previous": "U4_003",
+           "latitude": 48.13623,
+           "longitude": 11.55285,
+           "correspondance": [
+               "U5"
+           ]
+       },
+       "U4_005": {
+           "number": "U4_005",
+           "name": "Hauptbahnhof",
+           "next": "U4_006",
+           "previous": "U4_004",
+           "latitude": 48.14008,
+           "longitude": 11.56082,
+           "correspondance": [
+               "U1",
+               "U2",
+               "U5"
+           ]
+       },
+       "U4_006": {
+           "number": "U4_006",
+           "name": "Karlsplatz - Stachus",
+           "next": "U4_007",
+           "previous": "U4_005",
+           "latitude": 48.13931,
+           "longitude": 11.56592,
+           "correspondance": [
+               "U5"
+           ]
+       },
+       "U4_007": {
+           "number": "U4_007",
+           "name": "Odeonsplatz",
+           "next": "U4_008",
+           "previous": "U4_006",
+           "latitude": 48.1424,
+           "longitude": 11.57771,
+           "correspondance": [
+               "U3",
+               "U5",
+               "U6"
+           ]
+       },
+       "U4_008": {
+           "number": "U4_008",
+           "name": "Lehel",
+           "next": "U4_009",
+           "previous": "U4_007",
+           "latitude": 48.13981,
+           "longitude": 11.58741,
+           "correspondance": [
+               "U5"
+           ]
+       },
+       "U4_009": {
+           "number": "U4_009",
+           "name": "Max-Weber-Platz",
+           "next": "U4_010",
+           "previous": "U4_008",
+           "latitude": 48.13546,
+           "longitude": 11.59801,
+           "correspondance": [
+               "U5"
+           ]
+       },
+       "U4_010": {
+           "number": "U4_010",
+           "name": "Prinzregentenplatz",
+           "next": "U4_011",
+           "previous": "U4_009",
+           "latitude": 48.13918,
+           "longitude": 11.60687,
+           "correspondance": ""
+       },
+       "U4_011": {
+           "number": "U4_011",
+           "name": "Böhmerwaldplatz",
+           "next": "U4_012",
+           "previous": "U4_010",
+           "latitude": 48.14351,
+           "longitude": 11.6154,
+           "correspondance": ""
+       },
+       "U4_012": {
+           "number": "U4_012",
+           "name": "Richard-Strauss-Straße",
+           "next": "U4_013",
+           "previous": "U4_011",
+           "latitude": 48.14819,
+           "longitude": 11.61643,
+           "correspondance": ""
+       },
+       "U4_013": {
+           "number": "U4_013",
+           "name": "Arabellapark",
+           "next": "",
+           "previous": "U4_012",
+           "latitude": 48.15353,
+           "longitude": 11.62143,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "muenchen_u4.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 3931,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "_id": "city_marseille",
+   "_rev": "1-c3bcf9ae0504b6d7687719846cd5c6b9",
+   "country": "Frankreich",
+   "cityName": "Marseille",
+   "subName": "Métro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-18T08:46:11.819Z"
+}

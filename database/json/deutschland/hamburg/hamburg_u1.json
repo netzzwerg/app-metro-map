@@ -1,0 +1,596 @@
+{
+   "_id": "hamburg_u1",
+   "_rev": "56-d3ca4b0cee83185b621702744ed56a4b",
+   "city": "Hamburg",
+   "lineName": "U1",
+   "color": "0068B2",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T10:43:06.981Z",
+   "stations": {
+       "U1_001": {
+           "number": "U1_001",
+           "name": "Norderstedt Mitte",
+           "next": "U1_002",
+           "previous": "",
+           "latitude": "53.7065765",
+           "longitude": "9.992387300000019",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_002": {
+           "number": "U1_002",
+           "name": "Richtweg",
+           "next": "U1_003",
+           "previous": "U1_001",
+           "latitude": "53.695197",
+           "longitude": "9.988985",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_003": {
+           "number": "U1_003",
+           "name": "Garstedt",
+           "next": "U1_004",
+           "previous": "U1_002",
+           "latitude": "53.68458",
+           "longitude": "9.985481",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_004": {
+           "number": "U1_004",
+           "name": "Ochsenzoll",
+           "next": "U1_005",
+           "previous": "U1_003",
+           "latitude": "53.678039",
+           "longitude": "10.001584",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_005": {
+           "number": "U1_005",
+           "name": "Kiwittsmoor",
+           "next": "U1_006",
+           "previous": "U1_004",
+           "latitude": "53.675086",
+           "longitude": "10.015936",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_006": {
+           "number": "U1_006",
+           "name": "Langenhorn Nord",
+           "next": "U1_007",
+           "previous": "U1_005",
+           "latitude": "53.660789",
+           "longitude": "10.017433799999935",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_007": {
+           "number": "U1_007",
+           "name": "Langenhorn Markt",
+           "next": "U1_008",
+           "previous": "U1_006",
+           "latitude": "53.6489974",
+           "longitude": "10.01717629999996",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_008": {
+           "number": "U1_008",
+           "name": "Fuhlsbüttel Nord",
+           "next": "U1_009",
+           "previous": "U1_007",
+           "latitude": "53.639451",
+           "longitude": "10.01663450000001",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_009": {
+           "number": "U1_009",
+           "name": "Fuhlsbüttel",
+           "next": "U1_010",
+           "previous": "U1_008",
+           "latitude": "53.632365",
+           "longitude": "10.026705",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_010": {
+           "number": "U1_010",
+           "name": "Klein Borstel",
+           "next": "U1_011",
+           "previous": "U1_009",
+           "latitude": "53.6281082",
+           "longitude": "10.033156899999994",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_011": {
+           "number": "U1_011",
+           "name": "Ohlsdorf",
+           "next": "U1_012",
+           "previous": "U1_010",
+           "latitude": "53.620695",
+           "longitude": "10.031144",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_012": {
+           "number": "U1_012",
+           "name": "Sengelmannstraße",
+           "next": "U1_013",
+           "previous": "U1_011",
+           "latitude": "53.60936",
+           "longitude": "10.021901",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_013": {
+           "number": "U1_013",
+           "name": "Alsterdorf",
+           "next": "U1_014",
+           "previous": "U1_012",
+           "latitude": "53.60634",
+           "longitude": "10.011149",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_014": {
+           "number": "U1_014",
+           "name": "Lattenkamp",
+           "next": "U1_015",
+           "previous": "U1_013",
+           "latitude": "53.599923",
+           "longitude": "9.994559",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_015": {
+           "number": "U1_015",
+           "name": "Hudtwalkerstraße",
+           "next": "U1_016",
+           "previous": "U1_014",
+           "latitude": "53.5948",
+           "longitude": "9.9960",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_016": {
+           "number": "U1_016",
+           "name": "Kellinghusenstraße",
+           "next": "U1_017",
+           "previous": "U1_015",
+           "latitude": "53.588824",
+           "longitude": "9.990783",
+           "correspondance": [
+               "[U3]"
+           ],
+           "memos": ""
+       },
+       "U1_017": {
+           "number": "U1_017",
+           "name": "Klosterstern",
+           "next": "U1_018",
+           "previous": "U1_016",
+           "latitude": "53.581677",
+           "longitude": "9.987823",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_018": {
+           "number": "U1_018",
+           "name": "Hallerstraße",
+           "next": "U1_019",
+           "previous": "U1_017",
+           "latitude": "53.572405",
+           "longitude": "9.989835",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_019": {
+           "number": "U1_019",
+           "name": "Johnsallee",
+           "next": "U1_020",
+           "previous": "U1_018",
+           "latitude": "53.566649",
+           "longitude": "9.988307",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_020": {
+           "number": "U1_020",
+           "name": "Stephansplatz",
+           "next": "U1_021",
+           "previous": "U1_019",
+           "latitude": "53.558465",
+           "longitude": "9.988718",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_021": {
+           "number": "U1_021",
+           "name": "Jungfernstieg",
+           "next": "U1_022",
+           "previous": "U1_020",
+           "latitude": "53.552365",
+           "longitude": "9.993904",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_022": {
+           "number": "U1_022",
+           "name": "Meßberg",
+           "next": "U1_023",
+           "previous": "U1_021",
+           "latitude": "53.548012",
+           "longitude": "10.00002",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_023": {
+           "number": "U1_023",
+           "name": "Steinstraße",
+           "next": "U1_024",
+           "previous": "U1_022",
+           "latitude": "53.548945",
+           "longitude": "10.006126",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_024": {
+           "number": "U1_024",
+           "name": "Hauptbahnhof Süd",
+           "next": "U1_025",
+           "previous": "U1_023",
+           "latitude": "53.552292",
+           "longitude": "10.00983240000005",
+           "correspondance": [
+               "[U3]"
+           ],
+           "memos": ""
+       },
+       "U1_025": {
+           "number": "U1_025",
+           "name": "Lohmühlenstraße",
+           "next": "U1_026",
+           "previous": "U1_024",
+           "latitude": "53.557116",
+           "longitude": "10.019856",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_026": {
+           "number": "U1_026",
+           "name": "Lübecker Straße",
+           "next": "U1_027",
+           "previous": "U1_025",
+           "latitude": "53.559826",
+           "longitude": "10.028705",
+           "correspondance": [
+               "[U3]"
+           ],
+           "memos": ""
+       },
+       "U1_027": {
+           "number": "U1_027",
+           "name": "Wartenau",
+           "next": "U1_028",
+           "previous": "U1_026",
+           "latitude": "53.564486",
+           "longitude": "10.035812",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_028": {
+           "number": "U1_028",
+           "name": "Ritterstraße",
+           "next": "U1_029",
+           "previous": "U1_027",
+           "latitude": "53.56755",
+           "longitude": "10.046283",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_029": {
+           "number": "U1_029",
+           "name": "Wandsbeker Chaussee",
+           "next": "U1_030",
+           "previous": "U1_028",
+           "latitude": "53.570136",
+           "longitude": "10.059469",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_030": {
+           "number": "U1_030",
+           "name": "Wandsbek Markt",
+           "next": "U1_031",
+           "previous": "U1_029",
+           "latitude": "53.5720241",
+           "longitude": "10.068578099999968",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_031": {
+           "number": "U1_031",
+           "name": "Straßburger Straße",
+           "next": "U1_032",
+           "previous": "U1_030",
+           "latitude": "53.581984",
+           "longitude": "10.067849",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_032": {
+           "number": "U1_032",
+           "name": "Alter Teichweg",
+           "next": "U1_033",
+           "previous": "U1_031",
+           "latitude": "53.586869",
+           "longitude": "10.064414",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_033": {
+           "number": "U1_033",
+           "name": "Wandsbek Gartenstadt",
+           "next": "U1_034",
+           "previous": "U1_032",
+           "latitude": "53.5924348",
+           "longitude": "10.07462380000004",
+           "correspondance": [
+               "[U3]"
+           ],
+           "memos": ""
+       },
+       "U1_034": {
+           "number": "U1_034",
+           "name": "Trabrennbahn",
+           "next": "U1_035",
+           "previous": "U1_033",
+           "latitude": "53.5984169",
+           "longitude": "10.102835300000038",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_035": {
+           "number": "U1_035",
+           "name": "Farmsen",
+           "next": "U1_036",
+           "previous": "U1_034",
+           "latitude": "53.6073297",
+           "longitude": "10.11773770000002",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_036": {
+           "number": "U1_036",
+           "name": "Berne",
+           "next": "U1_037",
+           "previous": "U1_035",
+           "latitude": "53.626858",
+           "longitude": "10.139774699999975",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_037": {
+           "number": "U1_037",
+           "name": "Meiendorfer Weg",
+           "next": "U1_038",
+           "previous": "U1_036",
+           "latitude": "53.638798",
+           "longitude": "10.156026",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_038": {
+           "number": "U1_038",
+           "name": "Volksdorf",
+           "next": "U1_039",
+           "previous": "U1_037",
+           "latitude": "53.650628",
+           "longitude": "10.163135",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_039": {
+           "number": "U1_039",
+           "name": "Buckhorn",
+           "next": "U1_040",
+           "previous": "U1_038",
+           "latitude": "53.664815",
+           "longitude": "10.15546",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_040": {
+           "number": "U1_040",
+           "name": "Hoisbüttel",
+           "next": "U1_041",
+           "previous": "U1_039",
+           "latitude": "53.678071",
+           "longitude": "10.147485",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_041": {
+           "number": "U1_041",
+           "name": "Ohlstedt",
+           "next": "U1_042",
+           "previous": "U1_040",
+           "latitude": "53.6948262",
+           "longitude": "10.13703350000003",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_042": {
+           "number": "U1_042",
+           "name": "Buchenkamp",
+           "next": "U1_043",
+           "previous": "U1_038",
+           "latitude": "53.652933",
+           "longitude": "10.185268",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_043": {
+           "number": "U1_043",
+           "name": "Ahrensburg West",
+           "next": "U1_044",
+           "previous": "U1_042",
+           "latitude": "53.664678",
+           "longitude": "10.219032",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_044": {
+           "number": "U1_044",
+           "name": "Ahrensburg Ost",
+           "next": "U1_045",
+           "previous": "U1_043",
+           "latitude": "53.661433",
+           "longitude": "10.241767",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_045": {
+           "number": "U1_045",
+           "name": "Schmalenbeck",
+           "next": "U1_046",
+           "previous": "U1_044",
+           "latitude": "53.653551",
+           "longitude": "10.260618",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_046": {
+           "number": "U1_046",
+           "name": "Kiekut",
+           "next": "U1_047",
+           "previous": "U1_045",
+           "latitude": "53.6531307",
+           "longitude": "10.280365299999971",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_047": {
+           "number": "U1_047",
+           "name": "Großhansdorf",
+           "next": "U1_048",
+           "previous": "U1_046",
+           "latitude": "53.662791",
+           "longitude": "10.286789",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U1_048": {
+           "number": "U1_048",
+           "name": "Beimoor",
+           "next": "",
+           "previous": "U1_047",
+           "latitude": "53.6677",
+           "longitude": "10.2877",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "hamburg_u1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 3752,
+           "stub": true
+       }
+   }
+}

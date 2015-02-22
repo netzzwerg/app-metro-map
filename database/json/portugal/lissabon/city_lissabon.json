@@ -1,0 +1,10 @@
+{
+   "_id": "city_lissabon",
+   "_rev": "1-54f6c2d39ce078c76fcbd13fdcc00e14",
+   "country": "Portugal",
+   "cityName": "Lissabon",
+   "subName": "Metropolitano",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-22T11:51:16.371Z"
+}

@@ -1,0 +1,108 @@
+{
+   "_id": "paris_m7bis",
+   "_rev": "8-f8063a06fab828cafa8f11ac411e2ea6",
+   "city": "Paris",
+   "lineName": "M7bis",
+   "color": "88CEA7",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:00:54.445Z",
+   "stations": {
+       "M7bis_001": {
+           "number": "M7bis_001",
+           "name": "Louis Blanc",
+           "next": "M7bis_002",
+           "previous": "",
+           "latitude": 48.881137,
+           "longitude": 2.364839,
+           "correspondance": [
+               "M7"
+           ]
+       },
+       "M7bis_002": {
+           "number": "M7bis_002",
+           "name": "Jaurès",
+           "next": "M7bis_003",
+           "previous": "M7bis_001",
+           "latitude": 48.88179,
+           "longitude": 2.370198,
+           "correspondance": [
+               "M2",
+               "M5"
+           ]
+       },
+       "M7bis_003": {
+           "number": "M7bis_003",
+           "name": "Bolivar",
+           "next": "M7bis_004",
+           "previous": "M7bis_002",
+           "latitude": 48.880502,
+           "longitude": 2.374922,
+           "correspondance": ""
+       },
+       "M7bis_004": {
+           "number": "M7bis_004",
+           "name": "Buttes Chaumont",
+           "next": "M7bis_005",
+           "previous": "M7bis_003",
+           "latitude": 48.8785,
+           "longitude": 2.381772,
+           "correspondance": ""
+       },
+       "M7bis_005": {
+           "number": "M7bis_005",
+           "name": "Botzaris",
+           "next": "M7bis_006",
+           "previous": "M7bis_004",
+           "latitude": 48.879552,
+           "longitude": 2.38804,
+           "correspondance": ""
+       },
+       "M7bis_006": {
+           "number": "M7bis_006",
+           "name": "Place des Fêtes",
+           "next": "M7bis_007",
+           "previous": "M7bis_005",
+           "latitude": 48.8768404413532,
+           "longitude": 2.39295959472656,
+           "correspondance": [
+               "M11"
+           ]
+       },
+       "M7bis_007": {
+           "number": "M7bis_007",
+           "name": "Pré Saint-Gervais",
+           "next": "M7bis_005",
+           "previous": "M7bis_006",
+           "latitude": 48.8802502041376,
+           "longitude": 2.39891409873962,
+           "correspondance": ""
+       },
+       "M7bis_008": {
+           "number": "M7bis_008",
+           "name": "Danube",
+           "next": "M7bis_009",
+           "previous": "M7bis_007",
+           "latitude": 48.881808,
+           "longitude": 2.394201,
+           "correspondance": ""
+       },
+       "M7bis_009": {
+           "number": "M7bis_009",
+           "name": "Botzaris",
+           "next": "",
+           "previous": "M7bis_008",
+           "latitude": 48.879552,
+           "longitude": 2.38804,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m7bis.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 15525,
+           "stub": true
+       }
+   }
+}

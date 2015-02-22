@@ -1,0 +1,49 @@
+{
+   "_id": "serfaus_u1",
+   "_rev": "7-2b49defccf057552b35a0b7db32a30a1",
+   "city": "Serfaus",
+   "lineName": "U1",
+   "lineNameShow": "D1",
+   "color": "BE2D2C",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T15:30:56.371Z",
+   "stations": {
+       "U1_001": {
+           "number": "U1_001",
+           "name": "Parkplatz",
+           "next": "U1_002",
+           "previous": "",
+           "latitude": 47.039234,
+           "longitude": 10.615,
+           "correspondance": ""
+       },
+       "U1_002": {
+           "number": "U1_002",
+           "name": "Kirche",
+           "next": "U1_003",
+           "previous": "U1_001",
+           "latitude": 47.03831,
+           "longitude": 10.60766,
+           "correspondance": ""
+       },
+       "U1_003": {
+           "number": "U1_003",
+           "name": "Raika",
+           "next": "U1_004",
+           "previous": "U1_002",
+           "latitude": 47.03867,
+           "longitude": 10.60542,
+           "correspondance": ""
+       },
+       "U1_004": {
+           "number": "U1_004",
+           "name": "Seilbahn",
+           "next": "",
+           "previous": "U1_003",
+           "latitude": 47.04084,
+           "longitude": 10.59689,
+           "correspondance": ""
+       }
+   }
+}

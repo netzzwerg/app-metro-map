@@ -1,0 +1,327 @@
+{
+   "_id": "london_u7",
+   "_rev": "4-e8483445020e1aad8fe7eab376c41344",
+   "city": "London",
+   "lineName": "U7",
+   "lineNameShow": "Metropolitan",
+   "color": "893267",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T10:24:02.595Z",
+   "stations": {
+       "U7_001": {
+           "number": "U7_001",
+           "name": "Aldgate",
+           "next": "U7_002",
+           "previous": "",
+           "latitude": 51.51394,
+           "longitude": -0.07537,
+           "correspondance": ""
+       },
+       "U7_002": {
+           "number": "U7_002",
+           "name": "Liverpool Street",
+           "next": "U7_003",
+           "previous": "U7_001",
+           "latitude": 51.517675,
+           "longitude": -0.082458,
+           "correspondance": "[U5,U2]"
+       },
+       "U7_003": {
+           "number": "U7_003",
+           "name": "Moorgate",
+           "next": "U7_004",
+           "previous": "U7_002",
+           "latitude": 51.51817,
+           "longitude": -0.08859,
+           "correspondance": "[U12,U8,U3,U5]"
+       },
+       "U7_004": {
+           "number": "U7_004",
+           "name": "Farringdon",
+           "next": "U7_005",
+           "previous": "U7_003",
+           "latitude": 51.520362948,
+           "longitude": -0.105126482,
+           "correspondance": "[U3,U5]"
+       },
+       "U7_005": {
+           "number": "U7_005",
+           "name": "King's Cross St.Pancras",
+           "next": "U7_006",
+           "previous": "U7_004",
+           "latitude": 51.53057,
+           "longitude": -0.12399,
+           "correspondance": "[U5,U9,U3,U10,U8]"
+       },
+       "U7_006": {
+           "number": "U7_006",
+           "name": "Euston Square",
+           "next": "U7_007",
+           "previous": "U7_005",
+           "latitude": 51.52584,
+           "longitude": -0.1357,
+           "correspondance": "[U3,U5]"
+       },
+       "U7_007": {
+           "number": "U7_007",
+           "name": "Great Portland Street",
+           "next": "U7_008",
+           "previous": "U7_006",
+           "latitude": 51.52391,
+           "longitude": -0.14397,
+           "correspondance": "[U3,U5]"
+       },
+       "U7_008": {
+           "number": "U7_008",
+           "name": "Baker Street",
+           "next": "U7_009",
+           "previous": "U7_007",
+           "latitude": 51.522236,
+           "longitude": -0.15708,
+           "correspondance": "[U6,U5,U3,U1]"
+       },
+       "U7_009": {
+           "number": "U7_009",
+           "name": "Swiss Cottage",
+           "next": "U7_010",
+           "previous": "U7_008",
+           "latitude": 51.54333,
+           "longitude": -0.17436,
+           "correspondance": "[U6]"
+       },
+       "U7_010": {
+           "number": "U7_010",
+           "name": "Finchley Road",
+           "next": "U7_011",
+           "previous": "U7_009",
+           "latitude": 51.546701,
+           "longitude": -0.179867,
+           "correspondance": "[U6]"
+       },
+       "U7_011": {
+           "number": "U7_011",
+           "name": "Wembley Park",
+           "next": "U7_012",
+           "previous": "U7_010",
+           "latitude": 51.56355598,
+           "longitude": -0.279770242,
+           "correspondance": "[U6]"
+       },
+       "U7_012": {
+           "number": "U7_012",
+           "name": "Preston Road",
+           "next": "U7_013",
+           "previous": "U7_011",
+           "latitude": 51.57229051,
+           "longitude": -0.295813875,
+           "correspondance": ""
+       },
+       "U7_013": {
+           "number": "U7_013",
+           "name": "Northwick Park",
+           "next": "U7_014",
+           "previous": "U7_012",
+           "latitude": 51.57850117,
+           "longitude": -0.317857023,
+           "correspondance": ""
+       },
+       "U7_014": {
+           "number": "U7_014",
+           "name": "Harrow-on-the-Hill",
+           "next": "U7_015",
+           "previous": "U7_013",
+           "latitude": 51.579335,
+           "longitude": -0.337052,
+           "correspondance": ""
+       },
+       "U7_015": {
+           "number": "U7_015",
+           "name": "North Harrow",
+           "next": "U7_016",
+           "previous": "U7_014",
+           "latitude": 51.58503612,
+           "longitude": -0.362595264,
+           "correspondance": ""
+       },
+       "U7_016": {
+           "number": "U7_016",
+           "name": "Pinner",
+           "next": "U7_017",
+           "previous": "U7_015",
+           "latitude": 51.59270271,
+           "longitude": -0.380539158,
+           "correspondance": ""
+       },
+       "U7_017": {
+           "number": "U7_017",
+           "name": "Northwood Hills",
+           "next": "U7_018",
+           "previous": "U7_016",
+           "latitude": 51.60043795,
+           "longitude": -0.408812575,
+           "correspondance": ""
+       },
+       "U7_018": {
+           "number": "U7_018",
+           "name": "Northwood",
+           "next": "U7_019",
+           "previous": "U7_017",
+           "latitude": 51.61098984,
+           "longitude": -0.423584422,
+           "correspondance": ""
+       },
+       "U7_019": {
+           "number": "U7_019",
+           "name": "Moor Park",
+           "next": "U7_020",
+           "previous": "U7_018",
+           "latitude": 51.62970512,
+           "longitude": -0.432070848,
+           "correspondance": ""
+       },
+       "U7_020": {
+           "number": "U7_020",
+           "name": "Rickmansworth",
+           "next": "U7_021",
+           "previous": "U7_019",
+           "latitude": 51.64027898,
+           "longitude": -0.473521454,
+           "correspondance": ""
+       },
+       "U7_021": {
+           "number": "U7_021",
+           "name": "Chorleywood",
+           "next": "U7_022",
+           "previous": "U7_020",
+           "latitude": 51.65429872,
+           "longitude": -0.518373353,
+           "correspondance": ""
+       },
+       "U7_022": {
+           "number": "U7_022",
+           "name": "Chalfont & Latimer",
+           "next": "U7_023",
+           "previous": "U7_021",
+           "latitude": 51.66822,
+           "longitude": -0.56053,
+           "correspondance": ""
+       },
+       "U7_023": {
+           "number": "U7_023",
+           "name": "Chesham",
+           "next": "",
+           "previous": "U7_022",
+           "latitude": 51.70522733,
+           "longitude": -0.610986426,
+           "correspondance": ""
+       },
+       "U7_024": {
+           "number": "U7_024",
+           "name": "West Harrow",
+           "next": "U7_025",
+           "previous": "U7_014",
+           "latitude": 51.5795432,
+           "longitude": -0.353144584,
+           "correspondance": ""
+       },
+       "U7_025": {
+           "number": "U7_025",
+           "name": "Rayners Lane",
+           "next": "U7_026",
+           "previous": "U7_024",
+           "latitude": 51.57534,
+           "longitude": -0.3724,
+           "correspondance": "[U9]"
+       },
+       "U7_026": {
+           "number": "U7_026",
+           "name": "Eastcote",
+           "next": "U7_027",
+           "previous": "U7_025",
+           "latitude": 51.57676,
+           "longitude": -0.39629,
+           "correspondance": "[U9]"
+       },
+       "U7_027": {
+           "number": "U7_027",
+           "name": "Ruislip Manor",
+           "next": "U7_028",
+           "previous": "U7_026",
+           "latitude": 51.57349,
+           "longitude": -0.41185,
+           "correspondance": "[U9]"
+       },
+       "U7_028": {
+           "number": "U7_028",
+           "name": "Ruislip",
+           "next": "U7_029",
+           "previous": "U7_027",
+           "latitude": 51.57146,
+           "longitude": -0.42157,
+           "correspondance": "[U9]"
+       },
+       "U7_029": {
+           "number": "U7_029",
+           "name": "Ickenham",
+           "next": "U7_030",
+           "previous": "U7_028",
+           "latitude": 51.56147,
+           "longitude": -0.44257,
+           "correspondance": "[U9]"
+       },
+       "U7_030": {
+           "number": "U7_030",
+           "name": "Hillingdon",
+           "next": "U7_031",
+           "previous": "U7_029",
+           "latitude": 51.55364,
+           "longitude": -0.45062,
+           "correspondance": "[U9]"
+       },
+       "U7_031": {
+           "number": "U7_031",
+           "name": "Uxbridge",
+           "next": "",
+           "previous": "U7_030",
+           "latitude": 51.54687,
+           "longitude": -0.47725,
+           "correspondance": "[U9]"
+       },
+       "U7_032": {
+           "number": "U7_032",
+           "name": "Croxley",
+           "next": "U7_033",
+           "previous": "U7_019",
+           "latitude": 51.64733268,
+           "longitude": -0.441479115,
+           "correspondance": ""
+       },
+       "U7_033": {
+           "number": "U7_033",
+           "name": "Watford",
+           "next": "",
+           "previous": "U7_032",
+           "latitude": 51.65741058,
+           "longitude": -0.41745306,
+           "correspondance": ""
+       },
+       "U7_034": {
+           "number": "U7_034",
+           "name": "Amersham",
+           "next": "",
+           "previous": "U7_022",
+           "latitude": 51.67435,
+           "longitude": -0.60732,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "london_u7.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4034,
+           "stub": true
+       }
+   }
+}

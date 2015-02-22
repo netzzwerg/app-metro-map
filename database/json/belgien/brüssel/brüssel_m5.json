@@ -1,0 +1,359 @@
+{
+   "_id": "brüssel_m5",
+   "_rev": "32-86d8744e40f53f182337974a404b5b0d",
+   "city": "Brüssel",
+   "lineName": "M5",
+   "lineNameShow": "M5",
+   "color": "F1AF00",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T17:07:08.928Z",
+   "stations": {
+       "M5_001": {
+           "number": "M5_001",
+           "name": "Erasme",
+           "next": "M5_002",
+           "previous": "",
+           "latitude": "50.815141",
+           "longitude": "4.26582",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_002": {
+           "number": "M5_002",
+           "name": "Eddy Merckx",
+           "next": "M5_003",
+           "previous": "M5_001",
+           "latitude": "50.816873",
+           "longitude": "4.279721",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_003": {
+           "number": "M5_003",
+           "name": "CERIA",
+           "next": "M5_004",
+           "previous": "M5_002",
+           "latitude": "50.816032",
+           "longitude": "4.290138999999954",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_004": {
+           "number": "M5_004",
+           "name": "La Roue",
+           "next": "M5_005",
+           "previous": "M5_003",
+           "latitude": "50.821148",
+           "longitude": "4.293877000000066",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_005": {
+           "number": "M5_005",
+           "name": "Bizet",
+           "next": "M5_006",
+           "previous": "M5_004",
+           "latitude": "50.825142",
+           "longitude": "4.297517999999968",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_006": {
+           "number": "M5_006",
+           "name": "Veeweyde",
+           "next": "M5_007",
+           "previous": "M5_005",
+           "latitude": "50.829388",
+           "longitude": "4.30054999999993",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_007": {
+           "number": "M5_007",
+           "name": "Saint-Guidon",
+           "next": "M5_008",
+           "previous": "M5_006",
+           "latitude": "50.835064",
+           "longitude": "4.305510000000027",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_008": {
+           "number": "M5_008",
+           "name": "Aumale",
+           "next": "M5_009",
+           "previous": "M5_007",
+           "latitude": "50.83987",
+           "longitude": "4.312574",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_009": {
+           "number": "M5_009",
+           "name": "Jacques Brel",
+           "next": "M5_010",
+           "previous": "M5_008",
+           "latitude": "50.843842",
+           "longitude": "4.318306",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_010": {
+           "number": "M5_010",
+           "name": "Gare de l’Ouest",
+           "next": "M5_011",
+           "previous": "M5_009",
+           "latitude": "50.848412",
+           "longitude": "4.320785999999998",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M5_011": {
+           "number": "M5_011",
+           "name": "Beekkant",
+           "next": "M5_012",
+           "previous": "M5_010",
+           "latitude": "50.85318",
+           "longitude": "4.323202",
+           "correspondance": [
+               "M1",
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M5_012": {
+           "number": "M5_012",
+           "name": "Étangs Noirs",
+           "next": "M5_013",
+           "previous": "M5_011",
+           "latitude": "50.857124",
+           "longitude": "4.332010999999966",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_013": {
+           "number": "M5_013",
+           "name": "Comte de Flandre",
+           "next": "M5_014",
+           "previous": "M5_012",
+           "latitude": "50.854801",
+           "longitude": "4.340533999999934",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M5_014": {
+           "number": "M5_014",
+           "name": "Sainte-Catherine",
+           "next": "M5_015",
+           "previous": "M5_013",
+           "latitude": "50.852329",
+           "longitude": "4.347778000000062",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M5_015": {
+           "number": "M5_015",
+           "name": "De Brouckère",
+           "next": "M5_016",
+           "previous": "M5_014",
+           "latitude": "50.850104",
+           "longitude": "4.35178",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M5_016": {
+           "number": "M5_016",
+           "name": "Gare Centrale",
+           "next": "M5_017",
+           "previous": "M5_015",
+           "latitude": "50.846345",
+           "longitude": "4.358676",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M5_017": {
+           "number": "M5_017",
+           "name": "Parc",
+           "next": "M5_018",
+           "previous": "M5_016",
+           "latitude": "50.845747",
+           "longitude": "4.362435",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M5_018": {
+           "number": "M5_018",
+           "name": "Arts-Loi",
+           "next": "M5_019",
+           "previous": "M5_017",
+           "latitude": "50.84531",
+           "longitude": "4.369633000000022",
+           "correspondance": [
+               "M1",
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M5_019": {
+           "number": "M5_019",
+           "name": "Maelbeek",
+           "next": "M5_020",
+           "previous": "M5_018",
+           "latitude": "50.84399",
+           "longitude": "4.377144",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M5_020": {
+           "number": "M5_020",
+           "name": "Schuman",
+           "next": "M5_021",
+           "previous": "M5_019",
+           "latitude": "50.842294",
+           "longitude": "4.383131",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M5_021": {
+           "number": "M5_021",
+           "name": "Merode",
+           "next": "M5_022",
+           "previous": "M5_020",
+           "latitude": "50.839382",
+           "longitude": "4.398154999999974",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M5_022": {
+           "number": "M5_022",
+           "name": "Thieffry",
+           "next": "M5_023",
+           "previous": "M5_021",
+           "latitude": "50.833572",
+           "longitude": "4.401686000000041",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_023": {
+           "number": "M5_023",
+           "name": "Pétillon",
+           "next": "M5_024",
+           "previous": "M5_022",
+           "latitude": "50.827378",
+           "longitude": "4.403963",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_024": {
+           "number": "M5_024",
+           "name": "Hankar",
+           "next": "M5_025",
+           "previous": "M5_023",
+           "latitude": "50.821159",
+           "longitude": "4.405451999999968",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_025": {
+           "number": "M5_025",
+           "name": "Delta",
+           "next": "M5_026",
+           "previous": "M5_024",
+           "latitude": "50.818192",
+           "longitude": "4.4039169999999785",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_026": {
+           "number": "M5_026",
+           "name": "Beaulieu",
+           "next": "M5_027",
+           "previous": "M5_025",
+           "latitude": "50.81512",
+           "longitude": "4.409419",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_027": {
+           "number": "M5_027",
+           "name": "Demey",
+           "next": "M5_028",
+           "previous": "M5_026",
+           "latitude": "50.813461",
+           "longitude": "4.421274",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M5_028": {
+           "number": "M5_028",
+           "name": "Herrmann-Debroux",
+           "next": "",
+           "previous": "M5_027",
+           "latitude": "50.812447",
+           "longitude": "4.429070000000024",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "bruessel_m5.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 9381,
+           "stub": true
+       }
+   }
+}

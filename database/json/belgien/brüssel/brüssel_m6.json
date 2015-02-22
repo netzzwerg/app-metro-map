@@ -1,0 +1,336 @@
+{
+   "_id": "brüssel_m6",
+   "_rev": "34-dcade22d5b597881bd0cc3f2299a6022",
+   "city": "Brüssel",
+   "lineName": "M6",
+   "lineNameShow": "M6",
+   "color": "0079AE",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T17:07:24.537Z",
+   "stations": {
+       "M6_001": {
+           "number": "M6_001",
+           "name": "Roi Baudouin",
+           "next": "M6_002",
+           "previous": "",
+           "latitude": "50.896466",
+           "longitude": "4.329516",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M6_002": {
+           "number": "M6_002",
+           "name": "Heysel",
+           "next": "M6_003",
+           "previous": "M6_001",
+           "latitude": "50.9",
+           "longitude": "4.336999999999989",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M6_003": {
+           "number": "M6_003",
+           "name": "Houba-Brugmann",
+           "next": "M6_004",
+           "previous": "M6_002",
+           "latitude": "50.889534",
+           "longitude": "4.337542999999982",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M6_004": {
+           "number": "M6_004",
+           "name": "Stuyvenbergh",
+           "next": "M6_005",
+           "previous": "M6_003",
+           "latitude": "50.88559",
+           "longitude": "4.342619000000013",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M6_005": {
+           "number": "M6_005",
+           "name": "Bockstael",
+           "next": "M6_006",
+           "previous": "M6_004",
+           "latitude": "50.879333",
+           "longitude": "4.347780000000057",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M6_006": {
+           "number": "M6_006",
+           "name": "Pannenhuis",
+           "next": "M6_007",
+           "previous": "M6_005",
+           "latitude": "50.873741",
+           "longitude": "4.343164999999999",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M6_007": {
+           "number": "M6_007",
+           "name": "Belgica",
+           "next": "M6_008",
+           "previous": "M6_006",
+           "latitude": "50.8687",
+           "longitude": "4.3370",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M6_008": {
+           "number": "M6_008",
+           "name": "Simonis (Leopold II)",
+           "next": "M6_009",
+           "previous": "M6_007",
+           "latitude": "50.86323",
+           "longitude": "4.33057",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_009": {
+           "number": "M6_009",
+           "name": "Osseghem",
+           "next": "M6_010",
+           "previous": "M6_008",
+           "latitude": "50.8571",
+           "longitude": "4.3253",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_010": {
+           "number": "M6_010",
+           "name": "Beekkant",
+           "next": "M6_011",
+           "previous": "M6_009",
+           "latitude": "50.853153",
+           "longitude": "4.323181",
+           "correspondance": [
+               "M1",
+               "M5"
+           ],
+           "memos": ""
+       },
+       "M6_011": {
+           "number": "M6_011",
+           "name": "Gare de l’Ouest",
+           "next": "M6_012",
+           "previous": "M6_010",
+           "latitude": "50.848385",
+           "longitude": "4.320807",
+           "correspondance": [
+               "M1",
+               "M5"
+           ],
+           "memos": ""
+       },
+       "M6_012": {
+           "number": "M6_012",
+           "name": "Delacroix",
+           "next": "M6_013",
+           "previous": "M6_011",
+           "latitude": "50.845247",
+           "longitude": "4.324203",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_013": {
+           "number": "M6_013",
+           "name": "Clemenceau",
+           "next": "M6_014",
+           "previous": "M6_012",
+           "latitude": "50.841072",
+           "longitude": "4.331172000000038",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_014": {
+           "number": "M6_014",
+           "name": "Gare du Midi",
+           "next": "M6_015",
+           "previous": "M6_013",
+           "latitude": "50.836208",
+           "longitude": "4.338068",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_015": {
+           "number": "M6_015",
+           "name": "Porte de Hal",
+           "next": "M6_016",
+           "previous": "M6_014",
+           "latitude": "50.833733",
+           "longitude": "4.342939",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_016": {
+           "number": "M6_016",
+           "name": "Hôtel des Monnaies",
+           "next": "M6_017",
+           "previous": "M6_015",
+           "latitude": "50.832966",
+           "longitude": "4.3488649999999325",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_017": {
+           "number": "M6_017",
+           "name": "Louise",
+           "next": "M6_018",
+           "previous": "M6_016",
+           "latitude": "50.835297",
+           "longitude": "4.35441400000002",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_018": {
+           "number": "M6_018",
+           "name": "Porte de Namur",
+           "next": "M6_019",
+           "previous": "M6_017",
+           "latitude": "50.83828",
+           "longitude": "4.361569000000031",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_019": {
+           "number": "M6_019",
+           "name": "Trône",
+           "next": "M6_020",
+           "previous": "M6_018",
+           "latitude": "50.841236",
+           "longitude": "4.366508999999951",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_020": {
+           "number": "M6_020",
+           "name": "Arts-Loi",
+           "next": "M6_021",
+           "previous": "M6_019",
+           "latitude": "50.84531",
+           "longitude": "4.369633000000022",
+           "correspondance": [
+               "M1",
+               "M5"
+           ],
+           "memos": ""
+       },
+       "M6_021": {
+           "number": "M6_021",
+           "name": "Madou",
+           "next": "M6_022",
+           "previous": "M6_020",
+           "latitude": "50.849895",
+           "longitude": "4.369163999999955",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_022": {
+           "number": "M6_022",
+           "name": "Botanique",
+           "next": "M6_023",
+           "previous": "M6_021",
+           "latitude": "50.853727",
+           "longitude": "4.366218",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_023": {
+           "number": "M6_023",
+           "name": "Rogier",
+           "next": "M6_024",
+           "previous": "M6_022",
+           "latitude": "50.855423",
+           "longitude": "4.358398999999963",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_024": {
+           "number": "M6_024",
+           "name": "Yser",
+           "next": "M6_025",
+           "previous": "M6_023",
+           "latitude": "50.857452",
+           "longitude": "4.351198000000068",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_025": {
+           "number": "M6_025",
+           "name": "Ribaucourt",
+           "next": "M6_026",
+           "previous": "M6_024",
+           "latitude": "50.86058",
+           "longitude": "4.339650000000006",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M6_026": {
+           "number": "M6_026",
+           "name": "Simonis (Elisabeth)",
+           "next": "",
+           "previous": "M6_025",
+           "latitude": "50.863129",
+           "longitude": "4.330670999999938",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "bruessel_m6.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 9997,
+           "stub": true
+       }
+   }
+}

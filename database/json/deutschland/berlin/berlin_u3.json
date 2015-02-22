@@ -1,0 +1,204 @@
+{
+   "_id": "berlin_u3",
+   "_rev": "25-f2045b3feb2009e39a56d16a5abbb1cb",
+   "city": "Berlin",
+   "lineName": "U3",
+   "lineNameShow": "U3",
+   "color": "1DA796",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:16:14.555Z",
+   "stations": {
+       "U3_001": {
+           "number": "U3_001",
+           "name": "Nollendorfplatz",
+           "next": "U3_002",
+           "previous": "",
+           "latitude": "52.499293",
+           "longitude": "13.3547",
+           "correspondance": [
+               "U1",
+               "U2",
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U3_002": {
+           "number": "U3_002",
+           "name": "Wittenbergplatz",
+           "next": "U3_003",
+           "previous": "U3_001",
+           "latitude": "52.501838",
+           "longitude": "13.342976",
+           "correspondance": [
+               "U1",
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U3_003": {
+           "number": "U3_003",
+           "name": "Augsbuger Straße",
+           "next": "U3_004",
+           "previous": "U3_002",
+           "latitude": "52.5014671",
+           "longitude": "13.335410799999977",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_004": {
+           "number": "U3_004",
+           "name": "Spichernstraße",
+           "next": "U3_005",
+           "previous": "U3_003",
+           "latitude": "52.4972022",
+           "longitude": "13.332607100000018",
+           "correspondance": [
+               "U9"
+           ],
+           "memos": ""
+       },
+       "U3_005": {
+           "number": "U3_005",
+           "name": "Hohenzollernplatz",
+           "next": "U3_006",
+           "previous": "U3_004",
+           "latitude": "52.4942",
+           "longitude": "13.3245",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_006": {
+           "number": "U3_006",
+           "name": "Fehrbelliner Platz",
+           "next": "U3_007",
+           "previous": "U3_005",
+           "latitude": "52.4904395",
+           "longitude": "13.314023600000041",
+           "correspondance": [
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U3_007": {
+           "number": "U3_007",
+           "name": "Heidelberger Platz",
+           "next": "U3_008",
+           "previous": "U3_006",
+           "latitude": "52.4791423",
+           "longitude": "13.312106200000017",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_008": {
+           "number": "U3_008",
+           "name": "Rüdesheimer Platz",
+           "next": "U3_009",
+           "previous": "U3_007",
+           "latitude": "52.4727704",
+           "longitude": "13.315671100000031",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_009": {
+           "number": "U3_009",
+           "name": "Breitenbachplatz",
+           "next": "U3_010",
+           "previous": "U3_008",
+           "latitude": "52.467185",
+           "longitude": "13.309123",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_010": {
+           "number": "U3_010",
+           "name": "Podbielskiallee",
+           "next": "U3_011",
+           "previous": "U3_009",
+           "latitude": "52.464585",
+           "longitude": "13.296759000000065",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_011": {
+           "number": "U3_011",
+           "name": "Dahlem-Dorf",
+           "next": "U3_012",
+           "previous": "U3_010",
+           "latitude": "52.456915",
+           "longitude": "13.289464",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_012": {
+           "number": "U3_012",
+           "name": "Thielplatz",
+           "next": "U3_013",
+           "previous": "U3_011",
+           "latitude": "52.451208",
+           "longitude": "13.282084",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_013": {
+           "number": "U3_013",
+           "name": "Oskar-Helene-Heim",
+           "next": "U3_014",
+           "previous": "U3_012",
+           "latitude": "52.4504061",
+           "longitude": "13.269113300000072",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_014": {
+           "number": "U3_014",
+           "name": "Onkel Toms Hütte",
+           "next": "U3_015",
+           "previous": "U3_013",
+           "latitude": "52.449726",
+           "longitude": "13.252639",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_015": {
+           "number": "U3_015",
+           "name": "Krumme Lanke",
+           "next": "",
+           "previous": "U3_014",
+           "latitude": "52.443244",
+           "longitude": "13.241386",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 91962,
+           "stub": true
+       }
+   }
+}

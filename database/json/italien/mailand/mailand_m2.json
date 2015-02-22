@@ -1,0 +1,417 @@
+{
+   "_id": "mailand_m2",
+   "_rev": "41-994cdbf4b9dbbd64a3da937460c952a3",
+   "city": "Mailand",
+   "lineName": "M2",
+   "lineNameShow": "M2",
+   "color": "24B600",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T11:12:17.191Z",
+   "stations": {
+       "M2_001": {
+           "number": "M2_001",
+           "name": "Abbiategrasso Chiesa Rossa",
+           "next": "M2_002",
+           "previous": "",
+           "latitude": "45.430329",
+           "longitude": "9.177759",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_002": {
+           "number": "M2_002",
+           "name": "Famagosta",
+           "next": "M2_003",
+           "previous": "M2_001",
+           "latitude": "45.4377574",
+           "longitude": "9.168691599999988",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_003": {
+           "number": "M2_003",
+           "name": "Romolo",
+           "next": "M2_004",
+           "previous": "M2_002",
+           "latitude": "45.444468",
+           "longitude": "9.167082",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_004": {
+           "number": "M2_004",
+           "name": "Porta Genova FS",
+           "next": "M2_005",
+           "previous": "M2_003",
+           "latitude": "45.45241",
+           "longitude": "9.170019",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_005": {
+           "number": "M2_005",
+           "name": "Sant'Agostino",
+           "next": "M2_006",
+           "previous": "M2_004",
+           "latitude": "45.4585804",
+           "longitude": "9.169764499999928",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_006": {
+           "number": "M2_006",
+           "name": "Sant'Ambrogio",
+           "next": "M2_007",
+           "previous": "M2_005",
+           "latitude": "45.46166",
+           "longitude": "9.173035",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_007": {
+           "number": "M2_007",
+           "name": "Cadorna FNM-Triennale",
+           "next": "M2_008",
+           "previous": "M2_006",
+           "latitude": "45.468464",
+           "longitude": "9.176783",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M2_008": {
+           "number": "M2_008",
+           "name": "Lanza Brera",
+           "next": "M2_009",
+           "previous": "M2_007",
+           "latitude": "45.472168",
+           "longitude": "9.182114",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_009": {
+           "number": "M2_009",
+           "name": "Moscova",
+           "next": "M2_010",
+           "previous": "M2_008",
+           "latitude": "45.478158",
+           "longitude": "9.184369",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_010": {
+           "number": "M2_010",
+           "name": "Garibaldi",
+           "next": "M2_011",
+           "previous": "M2_009",
+           "latitude": "45.484109",
+           "longitude": "9.186448",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_011": {
+           "number": "M2_011",
+           "name": "Gioia",
+           "next": "M2_012",
+           "previous": "M2_010",
+           "latitude": "45.485207",
+           "longitude": "9.19538",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_012": {
+           "number": "M2_012",
+           "name": "Centrale F.S.",
+           "next": "M2_013",
+           "previous": "M2_011",
+           "latitude": "45.4851231",
+           "longitude": "9.203033300000016",
+           "correspondance": [
+               "M3"
+           ],
+           "memos": ""
+       },
+       "M2_013": {
+           "number": "M2_013",
+           "name": "Caiazzo",
+           "next": "M2_014",
+           "previous": "M2_012",
+           "latitude": "45.485416",
+           "longitude": "9.209071",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_014": {
+           "number": "M2_014",
+           "name": "Loreto",
+           "next": "M2_015",
+           "previous": "M2_013",
+           "latitude": "45.486124",
+           "longitude": "9.216904",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M2_015": {
+           "number": "M2_015",
+           "name": "Piola",
+           "next": "M2_016",
+           "previous": "M2_014",
+           "latitude": "45.4803041",
+           "longitude": "9.223689000000036",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_016": {
+           "number": "M2_016",
+           "name": "Lambrate FS",
+           "next": "M2_017",
+           "previous": "M2_015",
+           "latitude": "45.4810511",
+           "longitude": "9.2414943",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_017": {
+           "number": "M2_017",
+           "name": "Udine",
+           "next": "M2_018",
+           "previous": "M2_016",
+           "latitude": "45.4910585",
+           "longitude": "9.23700210000004",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_018": {
+           "number": "M2_018",
+           "name": "Cimiano",
+           "next": "M2_019",
+           "previous": "M2_017",
+           "latitude": "45.4994665",
+           "longitude": "9.240735800000039",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_019": {
+           "number": "M2_019",
+           "name": "Crescenzago",
+           "next": "M2_020",
+           "previous": "M2_018",
+           "latitude": "45.505166",
+           "longitude": "9.248278",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_020": {
+           "number": "M2_020",
+           "name": "Cascina Gobba",
+           "next": "M2_021",
+           "previous": "M2_019",
+           "latitude": "45.5110912",
+           "longitude": "9.260364200000026",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_021": {
+           "number": "M2_021",
+           "name": "Cologno Sud",
+           "next": "M2_022",
+           "previous": "M2_020",
+           "latitude": "45.5200976",
+           "longitude": "9.274794499999985",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_022": {
+           "number": "M2_022",
+           "name": "Cologno Centro",
+           "next": "M2_023",
+           "previous": "M2_021",
+           "latitude": "45.5275167",
+           "longitude": "9.282953700000007",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_023": {
+           "number": "M2_023",
+           "name": "Cologno Nord",
+           "next": "",
+           "previous": "M2_022",
+           "latitude": "45.5340104",
+           "longitude": "9.290775100000019",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_024": {
+           "number": "M2_024",
+           "name": "Vimodrone",
+           "next": "M2_025",
+           "previous": "M2_022",
+           "latitude": "45.515808",
+           "longitude": "9.286382",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_025": {
+           "number": "M2_025",
+           "name": "Cascina Burrona",
+           "next": "M2_026",
+           "previous": "M2_024",
+           "latitude": "45.5172824",
+           "longitude": "9.297308899999962",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_026": {
+           "number": "M2_026",
+           "name": "Cernusco S. N.",
+           "next": "M2_027",
+           "previous": "M2_025",
+           "latitude": "45.5210",
+           "longitude": "9.3309",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_027": {
+           "number": "M2_027",
+           "name": "Villa Fiorita",
+           "next": "M2_028",
+           "previous": "M2_026",
+           "latitude": "45.52056",
+           "longitude": "9.345518900000002",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_028": {
+           "number": "M2_028",
+           "name": "Cassina De' Pecchi",
+           "next": "M2_029",
+           "previous": "M2_027",
+           "latitude": "45.522094",
+           "longitude": "9.363085",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_029": {
+           "number": "M2_029",
+           "name": "Bussero",
+           "next": "M2_030",
+           "previous": "M2_028",
+           "latitude": "45.5252",
+           "longitude": "9.3757",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_030": {
+           "number": "M2_030",
+           "name": "Villa Pompea",
+           "next": "M2_031",
+           "previous": "M2_029",
+           "latitude": "45.527931",
+           "longitude": "9.385479",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_031": {
+           "number": "M2_031",
+           "name": "Gorgonzola",
+           "next": "M2_032",
+           "previous": "M2_030",
+           "latitude": "45.536702",
+           "longitude": "9.403576",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_032": {
+           "number": "M2_032",
+           "name": "Cascina Antonietta",
+           "next": "M2_033",
+           "previous": "M2_031",
+           "latitude": "45.5421",
+           "longitude": "9.4236",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_033": {
+           "number": "M2_033",
+           "name": "Gessate",
+           "next": "",
+           "previous": "M2_032",
+           "latitude": "45.5454",
+           "longitude": "9.4370",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "mailand_m2.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 7570,
+           "stub": true
+       }
+   }
+}

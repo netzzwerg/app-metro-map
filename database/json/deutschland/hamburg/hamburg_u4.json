@@ -1,0 +1,153 @@
+{
+   "_id": "hamburg_u4",
+   "_rev": "19-5e793476d483fd993b6aa0b95afacade",
+   "city": "Hamburg",
+   "lineName": "U4",
+   "color": "14A49C",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T10:43:11.955Z",
+   "stations": {
+       "U4_001": {
+           "number": "U4_001",
+           "name": "HafenCity-Universität",
+           "next": "U4_002",
+           "previous": "",
+           "latitude": "53.544494",
+           "longitude": "10.006628",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U4_002": {
+           "number": "U4_002",
+           "name": "Überseequartier",
+           "next": "U4_003",
+           "previous": "U4_001",
+           "latitude": "53.541701",
+           "longitude": "9.997959",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U4_003": {
+           "number": "U4_003",
+           "name": "Jungfernstieg",
+           "next": "U4_004",
+           "previous": "U4_002",
+           "latitude": "53.5528494",
+           "longitude": "9.99330359999999",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U4_004": {
+           "number": "U4_004",
+           "name": "Hauptbahnhof Nord",
+           "next": "U4_005",
+           "previous": "U4_003",
+           "latitude": "53.5544001",
+           "longitude": "10.00780199999997",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U4_005": {
+           "number": "U4_005",
+           "name": "Berliner Tor",
+           "next": "U4_006",
+           "previous": "U4_004",
+           "latitude": "53.553416",
+           "longitude": "10.022566",
+           "correspondance": [
+               "U2",
+               "U3"
+           ],
+           "memos": ""
+       },
+       "U4_006": {
+           "number": "U4_006",
+           "name": "Burgstraße",
+           "next": "U4_007",
+           "previous": "U4_005",
+           "latitude": "53.555566",
+           "longitude": "10.041705",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U4_007": {
+           "number": "U4_007",
+           "name": "Hammer Kirche",
+           "next": "U4_008",
+           "previous": "U4_006",
+           "latitude": "53.5555553",
+           "longitude": "10.055386999999996",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U4_008": {
+           "number": "U4_008",
+           "name": "Rauhes Haus",
+           "next": "U4_009",
+           "previous": "U4_007",
+           "latitude": "53.5542296",
+           "longitude": "10.066008600000032",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U4_009": {
+           "number": "U4_009",
+           "name": "Horner Rennbahn",
+           "next": "U4_010",
+           "previous": "U4_008",
+           "latitude": "53.553278",
+           "longitude": "10.083114",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U4_010": {
+           "number": "U4_010",
+           "name": "Legienstraße",
+           "next": "U4_011",
+           "previous": "U4_009",
+           "latitude": "53.546959",
+           "longitude": "10.095901",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U4_011": {
+           "number": "U4_011",
+           "name": "Billstedt",
+           "next": "",
+           "previous": "U4_010",
+           "latitude": "53.542532",
+           "longitude": "10.106869",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "hamburg_u4.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 3999,
+           "stub": true
+       }
+   }
+}

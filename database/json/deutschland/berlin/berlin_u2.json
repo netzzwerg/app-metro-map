@@ -1,0 +1,384 @@
+{
+   "_id": "berlin_u2",
+   "_rev": "37-260167de4103a2785320c54f7e028c54",
+   "city": "Berlin",
+   "lineName": "U2",
+   "lineNameShow": "U2",
+   "color": "F15822",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:15:38.890Z",
+   "stations": {
+       "U2_001": {
+           "number": "U2_001",
+           "name": "Pankow",
+           "next": "U2_002",
+           "previous": "",
+           "latitude": "52.5695693",
+           "longitude": "13.40314509999996",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_002": {
+           "number": "U2_002",
+           "name": "Vinetastraße",
+           "next": "U2_003",
+           "previous": "U2_001",
+           "latitude": "52.5587274",
+           "longitude": "13.420753800000057",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_003": {
+           "number": "U2_003",
+           "name": "Schönhauser Allee",
+           "next": "U2_004",
+           "previous": "U2_002",
+           "latitude": "52.549704",
+           "longitude": "13.41305",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_004": {
+           "number": "U2_004",
+           "name": "Eberswalder Straße",
+           "next": "U2_005",
+           "previous": "U2_003",
+           "latitude": "52.5413871",
+           "longitude": "13.408488000000034",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_005": {
+           "number": "U2_005",
+           "name": "Senefelderplatz",
+           "next": "U2_006",
+           "previous": "U2_004",
+           "latitude": "52.5316199",
+           "longitude": "13.411405100000025",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_006": {
+           "number": "U2_006",
+           "name": "Rosa-Luxemburg-Platz",
+           "next": "U2_007",
+           "previous": "U2_005",
+           "latitude": "52.527711",
+           "longitude": "13.410165",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_007": {
+           "number": "U2_007",
+           "name": "Alexanderplatz",
+           "next": "U2_008",
+           "previous": "U2_006",
+           "latitude": "52.5225977",
+           "longitude": "13.41489649999994",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_008": {
+           "number": "U2_008",
+           "name": "Klosterstraße",
+           "next": "U2_009",
+           "previous": "U2_007",
+           "latitude": "52.51744",
+           "longitude": "13.412443",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_009": {
+           "number": "U2_009",
+           "name": "Märkisches Museum",
+           "next": "U2_010",
+           "previous": "U2_008",
+           "latitude": "52.5135107",
+           "longitude": "13.415338799999972",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_010": {
+           "number": "U2_010",
+           "name": "Spittelmarkt",
+           "next": "U2_011",
+           "previous": "U2_009",
+           "latitude": "52.511342",
+           "longitude": "13.404026",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_011": {
+           "number": "U2_011",
+           "name": "Hausvogteiplatz",
+           "next": "U2_012",
+           "previous": "U2_010",
+           "latitude": "52.5129207",
+           "longitude": "13.396331199999963",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_012": {
+           "number": "U2_012",
+           "name": "Stadtmitte",
+           "next": "U2_013",
+           "previous": "U2_011",
+           "latitude": "52.5105273",
+           "longitude": "13.390038000000004",
+           "correspondance": [
+               "U6"
+           ],
+           "memos": ""
+       },
+       "U2_013": {
+           "number": "U2_013",
+           "name": "Mohrenstraße",
+           "next": "U2_014",
+           "previous": "U2_012",
+           "latitude": "52.5121284",
+           "longitude": "13.389821200000029",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_014": {
+           "number": "U2_014",
+           "name": "Potsdamer Platz",
+           "next": "U2_015",
+           "previous": "U2_013",
+           "latitude": "52.5091103",
+           "longitude": "13.375732999999968",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_015": {
+           "number": "U2_015",
+           "name": "Mendelssohn-Bartholdy-Park",
+           "next": "U2_016",
+           "previous": "U2_014",
+           "latitude": "52.5041081",
+           "longitude": "13.375521899999967",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_016": {
+           "number": "U2_016",
+           "name": "Gleisdreieck",
+           "next": "U2_017",
+           "previous": "U2_015",
+           "latitude": "52.4991053",
+           "longitude": "13.375264399999992",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U2_017": {
+           "number": "U2_017",
+           "name": "Bülowstraße",
+           "next": "U2_018",
+           "previous": "U2_016",
+           "latitude": "52.497602",
+           "longitude": "13.362127",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_018": {
+           "number": "U2_018",
+           "name": "Nollendorfplatz",
+           "next": "U2_019",
+           "previous": "U2_017",
+           "latitude": "52.49958",
+           "longitude": "13.353734",
+           "correspondance": [
+               "U1",
+               "U3",
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_019": {
+           "number": "U2_019",
+           "name": "Wittenbergplatz",
+           "next": "U2_020",
+           "previous": "U2_018",
+           "latitude": "52.501805",
+           "longitude": "13.342858",
+           "correspondance": [
+               "U1",
+               "U3"
+           ],
+           "memos": ""
+       },
+       "U2_020": {
+           "number": "U2_020",
+           "name": "Zoologischer Garten",
+           "next": "U2_021",
+           "previous": "U2_019",
+           "latitude": "52.507119",
+           "longitude": "13.332689",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_021": {
+           "number": "U2_021",
+           "name": "Ernst-Reuter-Platz",
+           "next": "U2_022",
+           "previous": "U2_020",
+           "latitude": "52.5127537",
+           "longitude": "13.322975600000063",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_022": {
+           "number": "U2_022",
+           "name": "Deutsche Oper",
+           "next": "U2_023",
+           "previous": "U2_021",
+           "latitude": "52.511709",
+           "longitude": "13.310924",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_023": {
+           "number": "U2_023",
+           "name": "Bismarckstraße",
+           "next": "U2_024",
+           "previous": "U2_022",
+           "latitude": "52.511539",
+           "longitude": "13.305239",
+           "correspondance": [
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U2_024": {
+           "number": "U2_024",
+           "name": "Sophie-Charlotte-Platz",
+           "next": "U2_025",
+           "previous": "U2_023",
+           "latitude": "52.510683",
+           "longitude": "13.295529",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_025": {
+           "number": "U2_025",
+           "name": "Kaiserdamm",
+           "next": "U2_026",
+           "previous": "U2_024",
+           "latitude": "52.509728",
+           "longitude": "13.281382",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_026": {
+           "number": "U2_026",
+           "name": "Theodor-Heuss-Platz",
+           "next": "U2_027",
+           "previous": "U2_025",
+           "latitude": "52.509982",
+           "longitude": "13.272702",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_027": {
+           "number": "U2_027",
+           "name": "Neu-Westend",
+           "next": "U2_028",
+           "previous": "U2_026",
+           "latitude": "52.516216",
+           "longitude": "13.259154",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_028": {
+           "number": "U2_028",
+           "name": "Olympia-Stadion",
+           "next": "U2_029",
+           "previous": "U2_027",
+           "latitude": "52.5169586",
+           "longitude": "13.249425900000006",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_029": {
+           "number": "U2_029",
+           "name": "Ruhleben",
+           "next": "",
+           "previous": "U2_028",
+           "latitude": "52.52412",
+           "longitude": "13.24452199999996",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_016": {
+           "number": "U6_016",
+           "name": "Friedrichstraße",
+           "next": "U6_017",
+           "previous": "U6_015",
+           "latitude": "52.519646",
+           "longitude": "13.388134",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u2.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 120329,
+           "stub": true
+       }
+   }
+}

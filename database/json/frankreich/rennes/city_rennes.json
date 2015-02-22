@@ -1,0 +1,10 @@
+{
+   "_id": "city_rennes",
+   "_rev": "1-31eb82d35e63691f34e83fbfe286f999",
+   "country": "Frankreich",
+   "cityName": "Rennes",
+   "subName": "Métro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-19T18:20:45.563Z"
+}

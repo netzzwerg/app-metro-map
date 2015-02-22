@@ -1,0 +1,196 @@
+{
+   "_id": "nürnberg_u21",
+   "_rev": "4-902734ab1ac1474fc13b7606d67af5b8",
+   "city": "Nürnberg",
+   "lineName": "U21",
+   "lineNameShow": "U21",
+   "color": "FFD400",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-26T17:56:56.504Z",
+   "stations": {
+       "U21_001": {
+           "number": "U21_001",
+           "name": "Ziegelstein",
+           "next": "U21_002",
+           "previous": "",
+           "latitude": 49.485,
+           "longitude": 11.105277777778,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U21_002": {
+           "number": "U21_002",
+           "name": "Herrnhütte",
+           "next": "U21_003",
+           "previous": "U21_001",
+           "latitude": 49.478611111111,
+           "longitude": 11.11,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U21_003": {
+           "number": "U21_003",
+           "name": "Nordostbahnhof",
+           "next": "U21_004",
+           "previous": "U21_002",
+           "latitude": 49.471944444444,
+           "longitude": 11.104444444444,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U21_004": {
+           "number": "U21_004",
+           "name": "Schoppershof",
+           "next": "U21_005",
+           "previous": "U21_003",
+           "latitude": 49.464722222222,
+           "longitude": 11.100555555556,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U21_005": {
+           "number": "U21_005",
+           "name": "Rennweg",
+           "next": "U21_006",
+           "previous": "U21_004",
+           "latitude": 49.461111111111,
+           "longitude": 11.093611111111,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U21_006": {
+           "number": "U21_006",
+           "name": "Rathenauplatz",
+           "next": "U21_007",
+           "previous": "U21_005",
+           "latitude": 49.456944444444,
+           "longitude": 11.089444444444,
+           "correspondance": [
+               "U3",
+               "U2"
+           ]
+       },
+       "U21_007": {
+           "number": "U21_007",
+           "name": "Wöhrder Wiese",
+           "next": "U21_008",
+           "previous": "U21_006",
+           "latitude": 49.4525,
+           "longitude": 11.086944444444,
+           "correspondance": [
+               "U3",
+               "U2"
+           ]
+       },
+       "U21_008": {
+           "number": "U21_008",
+           "name": "Hauptbahnhof",
+           "next": "U21_009",
+           "previous": "U21_007",
+           "latitude": 49.446944444444,
+           "longitude": 11.081666666667,
+           "correspondance": [
+               "U1",
+               "U3",
+               "U11",
+               "U2"
+           ]
+       },
+       "U21_009": {
+           "number": "U21_009",
+           "name": "Opernhaus",
+           "next": "U21_010",
+           "previous": "U21_008",
+           "latitude": 49.446666666667,
+           "longitude": 11.075,
+           "correspondance": [
+               "U3",
+               "U2"
+           ]
+       },
+       "U21_010": {
+           "number": "U21_010",
+           "name": "Plärrer",
+           "next": "U21_011",
+           "previous": "U21_009",
+           "latitude": 49.448333333333,
+           "longitude": 11.065277777778,
+           "correspondance": [
+               "U1",
+               "U11",
+               "U2",
+               "U3"
+           ]
+       },
+       "U21_011": {
+           "number": "U21_011",
+           "name": "Rothenburger Straße",
+           "next": "U21_012",
+           "previous": "U21_010",
+           "latitude": 49.444444444444,
+           "longitude": 11.055277777778,
+           "correspondance": [
+               "U3",
+               "U2"
+           ]
+       },
+       "U21_012": {
+           "number": "U21_012",
+           "name": "St. Leonhard",
+           "next": "U21_013",
+           "previous": "U21_011",
+           "latitude": 49.438888888889,
+           "longitude": 11.05,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U21_013": {
+           "number": "U21_013",
+           "name": "Schweinau",
+           "next": "U21_014",
+           "previous": "U21_012",
+           "latitude": 49.434166666667,
+           "longitude": 11.048333333333,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U21_014": {
+           "number": "U21_014",
+           "name": "Hohe Marter",
+           "next": "U21_015",
+           "previous": "U21_013",
+           "latitude": 49.429166666667,
+           "longitude": 11.044166666667,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U21_015": {
+           "number": "U21_015",
+           "name": "Röthenbach",
+           "next": "",
+           "previous": "U21_014",
+           "latitude": 49.420833333333,
+           "longitude": 11.031666666667,
+           "correspondance": [
+               "U2"
+           ]
+       }
+   },
+   "_attachments": {
+       "nuernberg_u21.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 8999,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,207 @@
+{
+   "_id": "glasgow_t1",
+   "_rev": "19-216c31e6f9bbafe9f03c8639073de523",
+   "city": "Glasgow",
+   "lineName": "T1",
+   "lineNameShow": "T1",
+   "color": "F89829",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T09:40:39.684Z",
+   "stations": {
+       "T1_001": {
+           "number": "T1_001",
+           "name": "Patrick",
+           "next": "T1_002",
+           "previous": "",
+           "latitude": 55.8691,
+           "longitude": -4.3091,
+           "correspondance": ""
+       },
+       "T1_002": {
+           "number": "T1_002",
+           "name": "Kelvinhall",
+           "next": "T1_003",
+           "previous": "T1_001",
+           "latitude": "55.8709",
+           "longitude": "-4.300009999999929",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_003": {
+           "number": "T1_003",
+           "name": "Hillhead",
+           "next": "T1_004",
+           "previous": "T1_002",
+           "latitude": "55.875219",
+           "longitude": "-4.293244",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_004": {
+           "number": "T1_004",
+           "name": "Kelvinbridge",
+           "next": "T1_005",
+           "previous": "T1_003",
+           "latitude": "55.874288",
+           "longitude": "-4.279762",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_005": {
+           "number": "T1_005",
+           "name": "St. George's Cross",
+           "next": "T1_006",
+           "previous": "T1_004",
+           "latitude": "55.8712",
+           "longitude": "-4.269061",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_006": {
+           "number": "T1_006",
+           "name": "Cowcaddens",
+           "next": "T1_007",
+           "previous": "T1_005",
+           "latitude": "55.868056",
+           "longitude": "-4.259933",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_007": {
+           "number": "T1_007",
+           "name": "Buchanan Street",
+           "next": "T1_008",
+           "previous": "T1_006",
+           "latitude": "55.8624",
+           "longitude": "-4.2534",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_008": {
+           "number": "T1_008",
+           "name": "St. Enoch",
+           "next": "T1_009",
+           "previous": "T1_007",
+           "latitude": "55.857232",
+           "longitude": "-4.255273",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_009": {
+           "number": "T1_009",
+           "name": "Bridge Street",
+           "next": "T1_010",
+           "previous": "T1_008",
+           "latitude": "55.85188",
+           "longitude": "-4.258643",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_010": {
+           "number": "T1_010",
+           "name": "West Street",
+           "next": "T1_011",
+           "previous": "T1_009",
+           "latitude": "55.851436",
+           "longitude": "-4.265454699999964",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_011": {
+           "number": "T1_011",
+           "name": "Shields Road",
+           "next": "T1_012",
+           "previous": "T1_010",
+           "latitude": "55.8499",
+           "longitude": "-4.2752",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_012": {
+           "number": "T1_012",
+           "name": "Kinning Park",
+           "next": "T1_013",
+           "previous": "T1_011",
+           "latitude": "55.85062",
+           "longitude": "-4.28762",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_013": {
+           "number": "T1_013",
+           "name": "Cessnock",
+           "next": "T1_014",
+           "previous": "T1_012",
+           "latitude": "55.85207",
+           "longitude": "-4.293985",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_014": {
+           "number": "T1_014",
+           "name": "Ibrox",
+           "next": "T1_015",
+           "previous": "T1_013",
+           "latitude": "55.85458",
+           "longitude": "-4.304691",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_015": {
+           "number": "T1_015",
+           "name": "Govan",
+           "next": "T1_016",
+           "previous": "T1_014",
+           "latitude": "55.862089",
+           "longitude": "-4.310334",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "T1_016": {
+           "number": "T1_016",
+           "name": "Patrick",
+           "next": "",
+           "previous": "T1_015",
+           "latitude": 55.8691,
+           "longitude": -4.3091,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "glasgow_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4753,
+           "stub": true
+       }
+   }
+}

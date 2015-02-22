@@ -1,0 +1,164 @@
+{
+   "_id": "marseille_m2",
+   "_rev": "18-91f96f15f2d0946afe534325a312b17f",
+   "city": "Marseille",
+   "lineName": "M2",
+   "color": "F00000",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-18T08:53:18.025Z",
+   "stations": {
+       "M2_001": {
+           "number": "M2_001",
+           "name": "Bougainville",
+           "next": "M2_002",
+           "previous": "",
+           "latitude": "43.320866",
+           "longitude": "5.37143",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_002": {
+           "number": "M2_002",
+           "name": "National",
+           "next": "M2_003",
+           "previous": "M2_001",
+           "latitude": "43.315293",
+           "longitude": "5.372761",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_003": {
+           "number": "M2_003",
+           "name": "Désirée Clary",
+           "next": "M2_004",
+           "previous": "M2_002",
+           "latitude": "43.309485",
+           "longitude": "5.372246",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_004": {
+           "number": "M2_004",
+           "name": "Joliette - Euroméditerranée",
+           "next": "M2_005",
+           "previous": "M2_003",
+           "latitude": "43.304395",
+           "longitude": "5.367225",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_005": {
+           "number": "M2_005",
+           "name": "Jules Guesde",
+           "next": "M2_006",
+           "previous": "M2_004",
+           "latitude": "43.30149",
+           "longitude": "5.373791",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_006": {
+           "number": "M2_006",
+           "name": "Saint-Charles - Gare SNCF",
+           "next": "M2_007",
+           "previous": "M2_005",
+           "latitude": "43.302427",
+           "longitude": "5.379928",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M2_007": {
+           "number": "M2_007",
+           "name": "Noailles",
+           "next": "M2_008",
+           "previous": "M2_006",
+           "latitude": "43.29718",
+           "longitude": "5.380829",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_008": {
+           "number": "M2_008",
+           "name": "Notre-Dame du Mont - Cours Julien",
+           "next": "M2_009",
+           "previous": "M2_007",
+           "latitude": "43.293026",
+           "longitude": "5.383232",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_009": {
+           "number": "M2_009",
+           "name": "Castellane",
+           "next": "M2_010",
+           "previous": "M2_008",
+           "latitude": "43.28581",
+           "longitude": "5.38379",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M2_010": {
+           "number": "M2_010",
+           "name": "Périer",
+           "next": "M2_011",
+           "previous": "M2_009",
+           "latitude": "43.279559",
+           "longitude": "5.387265",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_011": {
+           "number": "M2_011",
+           "name": "Rond-point du Prado - Stade Vélodrome",
+           "next": "M2_012",
+           "previous": "M2_010",
+           "latitude": "43.27156",
+           "longitude": "5.392072",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_012": {
+           "number": "M2_012",
+           "name": "Sainte-Marguerite Dromel - Stade Vélodrome",
+           "next": "",
+           "previous": "M2_011",
+           "latitude": "43.270716",
+           "longitude": "5.402372",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "marseille_metro2.png": {
+           "content_type": "image/png",
+           "revpos": 4,
+           "length": 5820,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,321 @@
+{
+   "_id": "hamburg_u2",
+   "_rev": "37-b403e79f8f86489d5cfcdd5109c1631c",
+   "city": "Hamburg",
+   "lineName": "U2",
+   "color": "E70014",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T10:43:08.728Z",
+   "stations": {
+       "U2_001": {
+           "number": "U2_001",
+           "name": "Niendorf Nord",
+           "next": "U2_002",
+           "previous": "",
+           "latitude": "53.6411015",
+           "longitude": "9.949858199999994",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_002": {
+           "number": "U2_002",
+           "name": "Schippelsweg",
+           "next": "U2_003",
+           "previous": "U2_001",
+           "latitude": "53.634211",
+           "longitude": "9.952762",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_003": {
+           "number": "U2_003",
+           "name": "Joachim-Mähl-Straße",
+           "next": "U2_004",
+           "previous": "U2_002",
+           "latitude": "53.629035",
+           "longitude": "9.949769",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_004": {
+           "number": "U2_004",
+           "name": "Niendorf Markt",
+           "next": "U2_005",
+           "previous": "U2_003",
+           "latitude": "53.6205776",
+           "longitude": "9.95185379999998",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_005": {
+           "number": "U2_005",
+           "name": "Hagendeel",
+           "next": "U2_006",
+           "previous": "U2_004",
+           "latitude": "53.603696",
+           "longitude": "9.945062",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_006": {
+           "number": "U2_006",
+           "name": "Hagenbecks Tierpark",
+           "next": "U2_007",
+           "previous": "U2_005",
+           "latitude": "53.592976",
+           "longitude": "9.9439",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_007": {
+           "number": "U2_007",
+           "name": "Lutterothstraße",
+           "next": "U2_008",
+           "previous": "U2_006",
+           "latitude": "53.583268",
+           "longitude": "9.948279",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_008": {
+           "number": "U2_008",
+           "name": "Osterstraße",
+           "next": "U2_009",
+           "previous": "U2_007",
+           "latitude": "53.576115",
+           "longitude": "9.951589",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_009": {
+           "number": "U2_009",
+           "name": "Emilienstraße",
+           "next": "U2_010",
+           "previous": "U2_008",
+           "latitude": "53.571706",
+           "longitude": "9.952662",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_010": {
+           "number": "U2_010",
+           "name": "Christuskirche",
+           "next": "U2_011",
+           "previous": "U2_009",
+           "latitude": "53.56954",
+           "longitude": "9.963176",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_011": {
+           "number": "U2_011",
+           "name": "Schlump",
+           "next": "U2_012",
+           "previous": "U2_010",
+           "latitude": "53.5679465",
+           "longitude": "9.969926499999929",
+           "correspondance": [
+               "U3"
+           ],
+           "memos": ""
+       },
+       "U2_012": {
+           "number": "U2_012",
+           "name": "Messehallen",
+           "next": "U2_013",
+           "previous": "U2_011",
+           "latitude": "53.5572697",
+           "longitude": "9.977254300000027",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_013": {
+           "number": "U2_013",
+           "name": "Gänsemarkt",
+           "next": "U2_014",
+           "previous": "U2_012",
+           "latitude": "53.555795",
+           "longitude": "9.986061",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_014": {
+           "number": "U2_014",
+           "name": "Jungfernstieg",
+           "next": "U2_015",
+           "previous": "U2_013",
+           "latitude": "53.552339",
+           "longitude": "9.993904",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_015": {
+           "number": "U2_015",
+           "name": "Hauptbahnhof Nord",
+           "next": "U2_016",
+           "previous": "U2_014",
+           "latitude": "53.5544001",
+           "longitude": "10.00780199999997",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_016": {
+           "number": "U2_016",
+           "name": "Berliner Tor",
+           "next": "U2_017",
+           "previous": "U2_015",
+           "latitude": "53.5555063",
+           "longitude": "10.02235189999999",
+           "correspondance": [
+               "U3",
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_017": {
+           "number": "U2_017",
+           "name": "Burgstraße",
+           "next": "U2_018",
+           "previous": "U2_016",
+           "latitude": "53.5572235",
+           "longitude": "10.039730599999984",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_018": {
+           "number": "U2_018",
+           "name": "Hammer Kirche",
+           "next": "U2_019",
+           "previous": "U2_017",
+           "latitude": "53.5555553",
+           "longitude": "10.055386999999996",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_019": {
+           "number": "U2_019",
+           "name": "Rauhes Haus",
+           "next": "U2_020",
+           "previous": "U2_018",
+           "latitude": "53.5542296",
+           "longitude": "10.066008600000032",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_020": {
+           "number": "U2_020",
+           "name": "Horner Rennbahn",
+           "next": "U2_021",
+           "previous": "U2_019",
+           "latitude": "53.5540303",
+           "longitude": "10.081311400000004",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_021": {
+           "number": "U2_021",
+           "name": "Legienstraße",
+           "next": "U2_022",
+           "previous": "U2_020",
+           "latitude": "53.546985",
+           "longitude": "10.095901",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_022": {
+           "number": "U2_022",
+           "name": "Billstedt",
+           "next": "U2_023",
+           "previous": "U2_021",
+           "latitude": "53.5453876",
+           "longitude": "10.114765900000066",
+           "correspondance": [
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U2_023": {
+           "number": "U2_023",
+           "name": "Merkenstraße",
+           "next": "U2_024",
+           "previous": "U2_022",
+           "latitude": "53.538569",
+           "longitude": "10.123889",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_024": {
+           "number": "U2_024",
+           "name": "Steinfurther Allee",
+           "next": "U2_025",
+           "previous": "U2_023",
+           "latitude": "53.541122",
+           "longitude": "10.139056",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U2_025": {
+           "number": "U2_025",
+           "name": "Mümmelmannsberg",
+           "next": "",
+           "previous": "U2_024",
+           "latitude": "53.527975",
+           "longitude": "10.149902",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "hamburg_u2.png": {
+           "content_type": "image/png",
+           "revpos": 6,
+           "length": 4506,
+           "stub": true
+       }
+   }
+}

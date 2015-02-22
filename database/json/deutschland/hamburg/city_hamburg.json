@@ -1,0 +1,10 @@
+{
+   "_id": "city_hamburg",
+   "_rev": "1-cfccf9cd40004fd11ad9bbb4e7fcbd91",
+   "country": "Deutschland",
+   "cityName": "Hamburg",
+   "subName": "U-Bahn",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-19T10:42:38.394Z"
+}

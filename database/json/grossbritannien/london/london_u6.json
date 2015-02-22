@@ -1,0 +1,264 @@
+{
+   "_id": "london_u6",
+   "_rev": "5-efb2d90dccac46dd5d36ffd2fa6d8de3",
+   "city": "London",
+   "lineName": "U6",
+   "lineNameShow": "Jubilee",
+   "color": "8F989E",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T10:16:30.968Z",
+   "stations": {
+       "U6_001": {
+           "number": "U6_001",
+           "name": "Stanmore",
+           "next": "U6_002",
+           "previous": "",
+           "latitude": 51.61895,
+           "longitude": -0.30241,
+           "correspondance": ""
+       },
+       "U6_002": {
+           "number": "U6_002",
+           "name": "Canons Park",
+           "next": "U6_003",
+           "previous": "U6_001",
+           "latitude": 51.6081,
+           "longitude": -0.29487,
+           "correspondance": ""
+       },
+       "U6_003": {
+           "number": "U6_003",
+           "name": "Queensbury",
+           "next": "U6_004",
+           "previous": "U6_002",
+           "latitude": 51.59437,
+           "longitude": -0.28655,
+           "correspondance": ""
+       },
+       "U6_004": {
+           "number": "U6_004",
+           "name": "Kingsbury",
+           "next": "U6_005",
+           "previous": "U6_003",
+           "latitude": 51.58422,
+           "longitude": -0.2788,
+           "correspondance": ""
+       },
+       "U6_005": {
+           "number": "U6_005",
+           "name": "Wembley Park",
+           "next": "U6_006",
+           "previous": "U6_004",
+           "latitude": 51.56355598,
+           "longitude": -0.279770242,
+           "correspondance": "[U7]"
+       },
+       "U6_006": {
+           "number": "U6_006",
+           "name": "Neasden",
+           "next": "U6_007",
+           "previous": "U6_005",
+           "latitude": 51.55427,
+           "longitude": -0.25042,
+           "correspondance": ""
+       },
+       "U6_007": {
+           "number": "U6_007",
+           "name": "Dollis Hill",
+           "next": "U6_008",
+           "previous": "U6_006",
+           "latitude": 51.5525,
+           "longitude": -0.23884,
+           "correspondance": ""
+       },
+       "U6_008": {
+           "number": "U6_008",
+           "name": "Willesden Green",
+           "next": "U6_009",
+           "previous": "U6_007",
+           "latitude": 51.54919,
+           "longitude": -0.22106,
+           "correspondance": ""
+       },
+       "U6_009": {
+           "number": "U6_009",
+           "name": "Kilburn",
+           "next": "U6_010",
+           "previous": "U6_008",
+           "latitude": 51.5471715,
+           "longitude": -0.205002,
+           "correspondance": ""
+       },
+       "U6_010": {
+           "number": "U6_010",
+           "name": "West Hampstead",
+           "next": "U6_011",
+           "previous": "U6_009",
+           "latitude": 51.54678865,
+           "longitude": -0.191016868,
+           "correspondance": ""
+       },
+       "U6_011": {
+           "number": "U6_011",
+           "name": "Finchley Road",
+           "next": "U6_012",
+           "previous": "U6_010",
+           "latitude": 51.546701,
+           "longitude": -0.179867,
+           "correspondance": "[U7]"
+       },
+       "U6_012": {
+           "number": "U6_012",
+           "name": "Swiss Cottage",
+           "next": "U6_013",
+           "previous": "U6_011",
+           "latitude": 51.54333,
+           "longitude": -0.17436,
+           "correspondance": "[U7]"
+       },
+       "U6_013": {
+           "number": "U6_013",
+           "name": "St. John's Wood",
+           "next": "U6_014",
+           "previous": "U6_012",
+           "latitude": 51.53472,
+           "longitude": -0.17428,
+           "correspondance": ""
+       },
+       "U6_014": {
+           "number": "U6_014",
+           "name": "Baker Street",
+           "next": "U6_015",
+           "previous": "U6_013",
+           "latitude": 51.522236,
+           "longitude": -0.15708,
+           "correspondance": "[U1,U3,U5]"
+       },
+       "U6_015": {
+           "number": "U6_015",
+           "name": "Bond Street",
+           "next": "U6_016",
+           "previous": "U6_014",
+           "latitude": 51.51461,
+           "longitude": -0.14897,
+           "correspondance": "[U2]"
+       },
+       "U6_016": {
+           "number": "U6_016",
+           "name": "Green Park",
+           "next": "U6_017",
+           "previous": "U6_015",
+           "latitude": 51.50674,
+           "longitude": -0.14276,
+           "correspondance": "[U10,U9]"
+       },
+       "U6_017": {
+           "number": "U6_017",
+           "name": "Westminster",
+           "next": "U6_018",
+           "previous": "U6_016",
+           "latitude": 51.50121,
+           "longitude": -0.12489,
+           "correspondance": "[U3,U4]"
+       },
+       "U6_018": {
+           "number": "U6_018",
+           "name": "Waterloo",
+           "next": "U6_019",
+           "previous": "U6_017",
+           "latitude": 51.50322,
+           "longitude": -0.11328,
+           "correspondance": "[U8]"
+       },
+       "U6_019": {
+           "number": "U6_019",
+           "name": "Southwark",
+           "next": "U6_020",
+           "previous": "U6_018",
+           "latitude": 51.50384,
+           "longitude": -0.10478,
+           "correspondance": ""
+       },
+       "U6_020": {
+           "number": "U6_020",
+           "name": "London Bridge",
+           "next": "U6_021",
+           "previous": "U6_019",
+           "latitude": 51.505353,
+           "longitude": -0.084826,
+           "correspondance": "[U8]"
+       },
+       "U6_021": {
+           "number": "U6_021",
+           "name": "Bermondsey",
+           "next": "U6_022",
+           "previous": "U6_020",
+           "latitude": 51.49813,
+           "longitude": -0.0635,
+           "correspondance": ""
+       },
+       "U6_022": {
+           "number": "U6_022",
+           "name": "Canada Water",
+           "next": "U6_023",
+           "previous": "U6_021",
+           "latitude": 51.49787,
+           "longitude": -0.04967,
+           "correspondance": ""
+       },
+       "U6_023": {
+           "number": "U6_023",
+           "name": "Canary Wharf",
+           "next": "U6_024",
+           "previous": "U6_022",
+           "latitude": 51.50362,
+           "longitude": -0.01987,
+           "correspondance": ""
+       },
+       "U6_024": {
+           "number": "U6_024",
+           "name": "North Greenwich",
+           "next": "U6_025",
+           "previous": "U6_023",
+           "latitude": 51.50056,
+           "longitude": 0.0036,
+           "correspondance": ""
+       },
+       "U6_025": {
+           "number": "U6_025",
+           "name": "Canning Town",
+           "next": "U6_026",
+           "previous": "U6_024",
+           "latitude": 51.5139,
+           "longitude": 0.0082,
+           "correspondance": ""
+       },
+       "U6_026": {
+           "number": "U6_026",
+           "name": "West Ham",
+           "next": "U6_027",
+           "previous": "U6_025",
+           "latitude": 51.527917,
+           "longitude": 0.004141,
+           "correspondance": "[U5,U4]"
+       },
+       "U6_027": {
+           "number": "U6_027",
+           "name": "Stratford",
+           "next": "",
+           "previous": "U6_026",
+           "latitude": 51.541146,
+           "longitude": -0.002675,
+           "correspondance": "[U2]"
+       }
+   },
+   "_attachments": {
+       "london_u6.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4005,
+           "stub": true
+       }
+   }
+}

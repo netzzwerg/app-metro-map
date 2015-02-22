@@ -1,0 +1,157 @@
+{
+   "_id": "paris_m11",
+   "_rev": "4-733da9b10b2281366f9c70467eb9bc46",
+   "city": "Paris",
+   "lineName": "M11",
+   "color": "9F794A",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:01:04.422Z",
+   "stations": {
+       "M11_001": {
+           "number": "M11_001",
+           "name": "Mairie des Lilas",
+           "next": "M11_002",
+           "previous": "",
+           "latitude": 48.879788,
+           "longitude": 2.416289,
+           "correspondance": ""
+       },
+       "M11_002": {
+           "number": "M11_002",
+           "name": "Porte des Lilas",
+           "next": "M11_003",
+           "previous": "M11_001",
+           "latitude": 48.877183,
+           "longitude": 2.406655,
+           "correspondance": [
+               "M3bis"
+           ]
+       },
+       "M11_003": {
+           "number": "M11_003",
+           "name": "Télégraphe",
+           "next": "M11_004",
+           "previous": "M11_002",
+           "latitude": 48.875463,
+           "longitude": 2.398434,
+           "correspondance": ""
+       },
+       "M11_004": {
+           "number": "M11_004",
+           "name": "Place des Fêtes",
+           "next": "M11_005",
+           "previous": "M11_003",
+           "latitude": 48.8768404413532,
+           "longitude": 2.39295959472656,
+           "correspondance": [
+               "M7bis"
+           ]
+       },
+       "M11_005": {
+           "number": "M11_005",
+           "name": "Jourdain",
+           "next": "M11_006",
+           "previous": "M11_004",
+           "latitude": 48.8752,
+           "longitude": 2.389508,
+           "correspondance": ""
+       },
+       "M11_006": {
+           "number": "M11_006",
+           "name": "Pyrénées",
+           "next": "M11_007",
+           "previous": "M11_005",
+           "latitude": 48.873875,
+           "longitude": 2.385259,
+           "correspondance": ""
+       },
+       "M11_007": {
+           "number": "M11_007",
+           "name": "Belleville",
+           "next": "M11_008",
+           "previous": "M11_006",
+           "latitude": 48.872083,
+           "longitude": 2.376947,
+           "correspondance": [
+               "M2"
+           ]
+       },
+       "M11_008": {
+           "number": "M11_008",
+           "name": "Goncourt",
+           "next": "M11_009",
+           "previous": "M11_007",
+           "latitude": 48.869831,
+           "longitude": 2.370687,
+           "correspondance": ""
+       },
+       "M11_009": {
+           "number": "M11_009",
+           "name": "République",
+           "next": "M11_010",
+           "previous": "M11_008",
+           "latitude": 48.867503,
+           "longitude": 2.363811,
+           "correspondance": [
+               "M3",
+               "M5",
+               "M8",
+               "M9"
+           ]
+       },
+       "M11_010": {
+           "number": "M11_010",
+           "name": "Arts et Métiers",
+           "next": "M11_011",
+           "previous": "M11_009",
+           "latitude": 48.865285,
+           "longitude": 2.356794,
+           "correspondance": [
+               "M3"
+           ]
+       },
+       "M11_011": {
+           "number": "M11_011",
+           "name": "Rambuteau",
+           "next": "M11_012",
+           "previous": "M11_010",
+           "latitude": 48.861951,
+           "longitude": 2.353905,
+           "correspondance": ""
+       },
+       "M11_012": {
+           "number": "M11_012",
+           "name": "Hôtel de Ville",
+           "next": "M11_013",
+           "previous": "M11_011",
+           "latitude": 48.857487,
+           "longitude": 2.351525,
+           "correspondance": [
+               "M1"
+           ]
+       },
+       "M11_013": {
+           "number": "M11_013",
+           "name": "Châtelet",
+           "next": "",
+           "previous": "M11_012",
+           "latitude": 48.858352,
+           "longitude": 2.347324,
+           "correspondance": [
+               "M1",
+               "M4",
+               "M7",
+               "M14"
+           ]
+       }
+   },
+   "_attachments": {
+       "paris_m11.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 11390,
+           "stub": true
+       }
+   }
+}

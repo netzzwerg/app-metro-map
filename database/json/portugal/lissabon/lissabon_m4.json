@@ -1,0 +1,129 @@
+{
+   "_id": "lissabon_m4",
+   "_rev": "14-62a3f0509e615e8e4ea7b78471c85c4c",
+   "city": "Lissabon",
+   "lineName": "M4",
+   "lineNameShow": "Linha Vermelha",
+   "color": "ED3674",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T11:53:26.242Z",
+   "stations": {
+       "M4_001": {
+           "number": "M4_001",
+           "name": "Oriente",
+           "next": "M4_002",
+           "previous": "",
+           "latitude": "38.767837",
+           "longitude": "-9.099771000000032",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_002": {
+           "number": "M4_002",
+           "name": "Cabo Ruivo",
+           "next": "M4_003",
+           "previous": "M4_001",
+           "latitude": "38.763196",
+           "longitude": "-9.104093000000034",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_003": {
+           "number": "M4_003",
+           "name": "Olivais",
+           "next": "M4_004",
+           "previous": "M4_002",
+           "latitude": "38.761278",
+           "longitude": "-9.112037999999984",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_004": {
+           "number": "M4_004",
+           "name": "Chelas",
+           "next": "M4_005",
+           "previous": "M4_003",
+           "latitude": "38.755284",
+           "longitude": "-9.11413600000003",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_005": {
+           "number": "M4_005",
+           "name": "Bela Vista",
+           "next": "M4_006",
+           "previous": "M4_004",
+           "latitude": "38.747674",
+           "longitude": "-9.118564",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_006": {
+           "number": "M4_006",
+           "name": "Olaias",
+           "next": "M4_007",
+           "previous": "M4_005",
+           "latitude": "38.73919",
+           "longitude": "-9.123692",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_007": {
+           "number": "M4_007",
+           "name": "Alameda",
+           "next": "M4_008",
+           "previous": "M4_006",
+           "latitude": "38.737256",
+           "longitude": "-9.134086000000025",
+           "correspondance": [
+               "M3"
+           ],
+           "memos": ""
+       },
+       "M4_008": {
+           "number": "M4_008",
+           "name": "Saldanha",
+           "next": "M4_009",
+           "previous": "M4_007",
+           "latitude": "38.735276",
+           "longitude": "-9.145576000000005",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M4_009": {
+           "number": "M4_009",
+           "name": "São Sebastião",
+           "next": "",
+           "previous": "M4_008",
+           "latitude": "38.733665",
+           "longitude": "-9.153953",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "lissabon_m4.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 5608,
+           "stub": true
+       }
+   }
+}

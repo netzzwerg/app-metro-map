@@ -1,0 +1,387 @@
+{
+   "_id": "paris_m9",
+   "_rev": "5-fdd697420f076109bd05b3ae7245ed06",
+   "city": "Paris",
+   "lineName": "M9",
+   "color": "D7CF37",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:01:01.552Z",
+   "stations": {
+       "M9_001": {
+           "number": "M9_001",
+           "name": "Pont de Sèvres",
+           "next": "M9_002",
+           "previous": "",
+           "latitude": 48.829747,
+           "longitude": 2.231035,
+           "correspondance": ""
+       },
+       "M9_002": {
+           "number": "M9_002",
+           "name": "Billancourt",
+           "next": "M9_003",
+           "previous": "M9_001",
+           "latitude": 48.83209,
+           "longitude": 2.238177,
+           "correspondance": ""
+       },
+       "M9_003": {
+           "number": "M9_003",
+           "name": "Marcel Sembat",
+           "next": "M9_004",
+           "previous": "M9_002",
+           "latitude": 48.83367,
+           "longitude": 2.243579,
+           "correspondance": ""
+       },
+       "M9_004": {
+           "number": "M9_004",
+           "name": "Porte de Saint-Cloud",
+           "next": "M9_005",
+           "previous": "M9_003",
+           "latitude": 48.838082,
+           "longitude": 2.256956,
+           "correspondance": ""
+       },
+       "M9_005": {
+           "number": "M9_005",
+           "name": "Exelmans",
+           "next": "M9_006",
+           "previous": "M9_004",
+           "latitude": 48.842405,
+           "longitude": 2.259549,
+           "correspondance": ""
+       },
+       "M9_006": {
+           "number": "M9_006",
+           "name": "Michel-Ange - Molitor",
+           "next": "M9_007",
+           "previous": "M9_005",
+           "latitude": 48.84496,
+           "longitude": 2.261194,
+           "correspondance": [
+               "M10"
+           ]
+       },
+       "M9_007": {
+           "number": "M9_007",
+           "name": "Michel-Ange - Auteuil",
+           "next": "M9_008",
+           "previous": "M9_006",
+           "latitude": 48.847771,
+           "longitude": 2.26387,
+           "correspondance": [
+               "M10"
+           ]
+       },
+       "M9_008": {
+           "number": "M9_008",
+           "name": "Jasmin",
+           "next": "M9_009",
+           "previous": "M9_007",
+           "latitude": 48.851898,
+           "longitude": 2.267856,
+           "correspondance": ""
+       },
+       "M9_009": {
+           "number": "M9_009",
+           "name": "Ranelagh",
+           "next": "M9_010",
+           "previous": "M9_008",
+           "latitude": 48.85502,
+           "longitude": 2.269634,
+           "correspondance": ""
+       },
+       "M9_010": {
+           "number": "M9_010",
+           "name": "La Muette",
+           "next": "M9_011",
+           "previous": "M9_009",
+           "latitude": 48.857718,
+           "longitude": 2.273719,
+           "correspondance": ""
+       },
+       "M9_011": {
+           "number": "M9_011",
+           "name": "Rue de la Pompe",
+           "next": "M9_012",
+           "previous": "M9_010",
+           "latitude": 48.863912,
+           "longitude": 2.279052,
+           "correspondance": ""
+       },
+       "M9_012": {
+           "number": "M9_012",
+           "name": "Trocadéro",
+           "next": "M9_013",
+           "previous": "M9_011",
+           "latitude": 48.863301,
+           "longitude": 2.287061,
+           "correspondance": [
+               "M6"
+           ]
+       },
+       "M9_013": {
+           "number": "M9_013",
+           "name": "Iéna",
+           "next": "M9_014",
+           "previous": "M9_012",
+           "latitude": 48.864466,
+           "longitude": 2.29338,
+           "correspondance": ""
+       },
+       "M9_014": {
+           "number": "M9_014",
+           "name": "Alma - Marceau",
+           "next": "M9_015",
+           "previous": "M9_013",
+           "latitude": 48.864904,
+           "longitude": 2.300234,
+           "correspondance": ""
+       },
+       "M9_015": {
+           "number": "M9_015",
+           "name": "Franklin D. Roosevelt",
+           "next": "M9_016",
+           "previous": "M9_014",
+           "latitude": 48.868977,
+           "longitude": 2.30989,
+           "correspondance": [
+               "M1"
+           ]
+       },
+       "M9_016": {
+           "number": "M9_016",
+           "name": "Saint-Philippe du Roule",
+           "next": "M9_017",
+           "previous": "M9_015",
+           "latitude": 48.871941,
+           "longitude": 2.310036,
+           "correspondance": ""
+       },
+       "M9_017": {
+           "number": "M9_017",
+           "name": "Miromesnil",
+           "next": "M9_018",
+           "previous": "M9_016",
+           "latitude": 48.8736668423302,
+           "longitude": 2.31446474790573,
+           "correspondance": [
+               "M13"
+           ]
+       },
+       "M9_018": {
+           "number": "M9_018",
+           "name": "Saint-Augustin",
+           "next": "M9_019",
+           "previous": "M9_017",
+           "latitude": 48.874441,
+           "longitude": 2.322133,
+           "correspondance": ""
+       },
+       "M9_019": {
+           "number": "M9_019",
+           "name": "Havre - Caumartin",
+           "next": "M9_020",
+           "previous": "M9_018",
+           "latitude": 48.8733333333333,
+           "longitude": 2.32805555555556,
+           "correspondance": [
+               "M3"
+           ]
+       },
+       "M9_020": {
+           "number": "M9_020",
+           "name": "Chaussée d'Antin - La Fayette",
+           "next": "M9_021",
+           "previous": "M9_019",
+           "latitude": 48.87307,
+           "longitude": 2.33393,
+           "correspondance": [
+               "M7"
+           ]
+       },
+       "M9_021": {
+           "number": "M9_021",
+           "name": "Richelieu - Drouot",
+           "next": "M9_022",
+           "previous": "M9_020",
+           "latitude": 48.871987,
+           "longitude": 2.338741,
+           "correspondance": [
+               "M8"
+           ]
+       },
+       "M9_022": {
+           "number": "M9_022",
+           "name": "Grands Boulevards",
+           "next": "M9_023",
+           "previous": "M9_021",
+           "latitude": 48.871426,
+           "longitude": 2.344342,
+           "correspondance": [
+               "M8"
+           ]
+       },
+       "M9_023": {
+           "number": "M9_023",
+           "name": "Bonne Nouvelle",
+           "next": "M9_024",
+           "previous": "M9_022",
+           "latitude": 48.870639,
+           "longitude": 2.348875,
+           "correspondance": [
+               "M8"
+           ]
+       },
+       "M9_024": {
+           "number": "M9_024",
+           "name": "Strasbourg - Saint-Denis",
+           "next": "M9_025",
+           "previous": "M9_023",
+           "latitude": 48.8697222222222,
+           "longitude": 2.35388888888889,
+           "correspondance": [
+               "M4",
+               "M8"
+           ]
+       },
+       "M9_025": {
+           "number": "M9_025",
+           "name": "République",
+           "next": "M9_026",
+           "previous": "M9_024",
+           "latitude": 48.867503,
+           "longitude": 2.363811,
+           "correspondance": [
+               "M3",
+               "M5",
+               "M8",
+               "M11"
+           ]
+       },
+       "M9_026": {
+           "number": "M9_026",
+           "name": "Oberkampf",
+           "next": "M9_027",
+           "previous": "M9_025",
+           "latitude": 48.864545,
+           "longitude": 2.368877,
+           "correspondance": [
+               "M5"
+           ]
+       },
+       "M9_027": {
+           "number": "M9_027",
+           "name": "Saint-Ambroise",
+           "next": "M9_028",
+           "previous": "M9_026",
+           "latitude": 48.861295,
+           "longitude": 2.374211,
+           "correspondance": ""
+       },
+       "M9_028": {
+           "number": "M9_028",
+           "name": "Voltaire",
+           "next": "M9_029",
+           "previous": "M9_027",
+           "latitude": 48.857803,
+           "longitude": 2.380106,
+           "correspondance": ""
+       },
+       "M9_029": {
+           "number": "M9_029",
+           "name": "Charonne",
+           "next": "M9_030",
+           "previous": "M9_028",
+           "latitude": 48.855103,
+           "longitude": 2.384639,
+           "correspondance": ""
+       },
+       "M9_030": {
+           "number": "M9_030",
+           "name": "Rue des Boulets",
+           "next": "M9_031",
+           "previous": "M9_029",
+           "latitude": 48.851811,
+           "longitude": 2.390151,
+           "correspondance": ""
+       },
+       "M9_031": {
+           "number": "M9_031",
+           "name": "Nation",
+           "next": "M9_032",
+           "previous": "M9_030",
+           "latitude": 48.848389,
+           "longitude": 2.3958,
+           "correspondance": [
+               "M1",
+               "M2",
+               "M6"
+           ]
+       },
+       "M9_032": {
+           "number": "M9_032",
+           "name": "Buzenval",
+           "next": "M9_033",
+           "previous": "M9_031",
+           "latitude": 48.851976,
+           "longitude": 2.402045,
+           "correspondance": ""
+       },
+       "M9_033": {
+           "number": "M9_033",
+           "name": "Maraîchers",
+           "next": "M9_034",
+           "previous": "M9_032",
+           "latitude": 48.852851,
+           "longitude": 2.40699,
+           "correspondance": ""
+       },
+       "M9_034": {
+           "number": "M9_034",
+           "name": "Porte de Montreuil",
+           "next": "M9_035",
+           "previous": "M9_033",
+           "latitude": 48.853792,
+           "longitude": 2.412245,
+           "correspondance": ""
+       },
+       "M9_035": {
+           "number": "M9_035",
+           "name": "Robespierre",
+           "next": "M9_036",
+           "previous": "M9_034",
+           "latitude": 48.855683,
+           "longitude": 2.423678,
+           "correspondance": ""
+       },
+       "M9_036": {
+           "number": "M9_036",
+           "name": "Croix de Chavaux",
+           "next": "M9_037",
+           "previous": "M9_035",
+           "latitude": 48.858055,
+           "longitude": 2.435764,
+           "correspondance": ""
+       },
+       "M9_037": {
+           "number": "M9_037",
+           "name": "Mairie de Montreuil",
+           "next": "",
+           "previous": "M9_036",
+           "latitude": 48.862283,
+           "longitude": 2.441847,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m9.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 14143,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,206 @@
+{
+   "_id": "münchen_u5",
+   "_rev": "6-28905c5fe46065b973143d040061f7a3",
+   "city": "München",
+   "lineName": "U5",
+   "color": "E9B860",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-08T17:16:15.776Z",
+   "stations": {
+       "U5_001": {
+           "number": "U5_001",
+           "name": "Laimer Platz",
+           "next": "U5_002",
+           "previous": "",
+           "latitude": 48.1353317,
+           "longitude": 11.50073,
+           "correspondance": ""
+       },
+       "U5_002": {
+           "number": "U5_002",
+           "name": "Friedenheimer Straße",
+           "next": "U5_003",
+           "previous": "U5_001",
+           "latitude": 48.13511,
+           "longitude": 11.5107,
+           "correspondance": ""
+       },
+       "U5_003": {
+           "number": "U5_003",
+           "name": "Westendstraße",
+           "next": "U5_004",
+           "previous": "U5_002",
+           "latitude": 48.13477,
+           "longitude": 11.52172,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U5_004": {
+           "number": "U5_004",
+           "name": "Heimeranplatz",
+           "next": "U5_005",
+           "previous": "U5_003",
+           "latitude": 48.133336,
+           "longitude": 11.533072,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U5_005": {
+           "number": "U5_005",
+           "name": "Schwanthaler Höhe",
+           "next": "U5_006",
+           "previous": "U5_004",
+           "latitude": 48.13379,
+           "longitude": 11.5405,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U5_006": {
+           "number": "U5_006",
+           "name": "Theresienwiese",
+           "next": "U5_007",
+           "previous": "U5_005",
+           "latitude": 48.13623,
+           "longitude": 11.55285,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U5_007": {
+           "number": "U5_007",
+           "name": "Hauptbahnhof",
+           "next": "U5_008",
+           "previous": "U5_006",
+           "latitude": 48.14008,
+           "longitude": 11.56082,
+           "correspondance": [
+               "U1",
+               "U2",
+               "U4"
+           ]
+       },
+       "U5_008": {
+           "number": "U5_008",
+           "name": "Karlsplatz - Stachus",
+           "next": "U5_009",
+           "previous": "U5_007",
+           "latitude": 48.13931,
+           "longitude": 11.56592,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U5_009": {
+           "number": "U5_009",
+           "name": "Odeonsplatz",
+           "next": "U5_010",
+           "previous": "U5_008",
+           "latitude": 48.1424,
+           "longitude": 11.57771,
+           "correspondance": [
+               "U3",
+               "U4",
+               "U6"
+           ]
+       },
+       "U5_010": {
+           "number": "U5_010",
+           "name": "Lehel",
+           "next": "U5_011",
+           "previous": "U5_009",
+           "latitude": 48.13981,
+           "longitude": 11.58741,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U5_011": {
+           "number": "U5_011",
+           "name": "Max-Weber-Platz",
+           "next": "U5_012",
+           "previous": "U5_010",
+           "latitude": 48.13546,
+           "longitude": 11.59801,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U5_012": {
+           "number": "U5_012",
+           "name": "Ostbahnhof",
+           "next": "U5_013",
+           "previous": "U5_011",
+           "latitude": 48.12751,
+           "longitude": 11.60424,
+           "correspondance": ""
+       },
+       "U5_013": {
+           "number": "U5_013",
+           "name": "Innsbrucker Ring",
+           "next": "U5_014",
+           "previous": "U5_012",
+           "latitude": 48.12043,
+           "longitude": 11.61905,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U5_014": {
+           "number": "U5_014",
+           "name": "Michaelibad",
+           "next": "U5_015",
+           "previous": "U5_013",
+           "latitude": 48.11837,
+           "longitude": 11.63177,
+           "correspondance": ""
+       },
+       "U5_015": {
+           "number": "U5_015",
+           "name": "Quiddestraße",
+           "next": "U5_016",
+           "previous": "U5_014",
+           "latitude": 48.10775,
+           "longitude": 11.64634,
+           "correspondance": ""
+       },
+       "U5_016": {
+           "number": "U5_016",
+           "name": "Neuperlach-Zentrum",
+           "next": "U5_017",
+           "previous": "U5_015",
+           "latitude": 48.10078,
+           "longitude": 11.64589,
+           "correspondance": ""
+       },
+       "U5_017": {
+           "number": "U5_017",
+           "name": "Therese-Giehse-Allee",
+           "next": "U5_018",
+           "previous": "U5_016",
+           "latitude": 48.09506,
+           "longitude": 11.64292,
+           "correspondance": ""
+       },
+       "U5_018": {
+           "number": "U5_018",
+           "name": "Neuperlach Süd",
+           "next": "",
+           "previous": "U5_017",
+           "latitude": 48.08859,
+           "longitude": 11.64509,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "muenchen_u5.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4489,
+           "stub": true
+       }
+   }
+}

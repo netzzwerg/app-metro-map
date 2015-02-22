@@ -1,0 +1,225 @@
+{
+   "_id": "athen_m3",
+   "_rev": "29-a0de1d0acb50d4927fe965b01615545c",
+   "city": "Athen",
+   "lineName": "M3",
+   "lineNameShow": "M3",
+   "color": "008FCA",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T19:31:20.703Z",
+   "stations": {
+       "M3_001": {
+           "number": "M3_001",
+           "name": "Egaleo",
+           "next": "M3_002",
+           "previous": "",
+           "latitude": "37.991632",
+           "longitude": "23.681729",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_002": {
+           "number": "M3_002",
+           "name": "Elaionas",
+           "next": "M3_003",
+           "previous": "M3_001",
+           "latitude": "37.987842",
+           "longitude": "23.69413499999996",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_003": {
+           "number": "M3_003",
+           "name": "Kerameikos",
+           "next": "M3_004",
+           "previous": "M3_002",
+           "latitude": "37.978714",
+           "longitude": "23.711214",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_004": {
+           "number": "M3_004",
+           "name": "Monastiraki",
+           "next": "M3_005",
+           "previous": "M3_003",
+           "latitude": "37.976549",
+           "longitude": "23.725697",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M3_005": {
+           "number": "M3_005",
+           "name": "Syntagma",
+           "next": "M3_006",
+           "previous": "M3_004",
+           "latitude": "37.97535",
+           "longitude": "23.735474",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M3_006": {
+           "number": "M3_006",
+           "name": "Evangelismos",
+           "next": "M3_007",
+           "previous": "M3_005",
+           "latitude": "37.97601",
+           "longitude": "23.747236",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_007": {
+           "number": "M3_007",
+           "name": "Megaro Musikis",
+           "next": "M3_008",
+           "previous": "M3_006",
+           "latitude": "37.979522",
+           "longitude": "23.753017",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_008": {
+           "number": "M3_008",
+           "name": "Ambelokipi",
+           "next": "M3_009",
+           "previous": "M3_007",
+           "latitude": "37.9866621",
+           "longitude": "23.76173700000004",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_009": {
+           "number": "M3_009",
+           "name": "Panormou",
+           "next": "M3_010",
+           "previous": "M3_008",
+           "latitude": "37.992952",
+           "longitude": "23.763471",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_010": {
+           "number": "M3_010",
+           "name": "Katehaki",
+           "next": "M3_011",
+           "previous": "M3_009",
+           "latitude": "37.993072",
+           "longitude": "23.776873",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_011": {
+           "number": "M3_011",
+           "name": "Ethniki Amyna",
+           "next": "M3_012",
+           "previous": "M3_010",
+           "latitude": "37.99919",
+           "longitude": "23.78506500000003",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_012": {
+           "number": "M3_012",
+           "name": "Halandri",
+           "next": "M3_013",
+           "previous": "M3_011",
+           "latitude": "38.02173",
+           "longitude": "23.821005",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_013": {
+           "number": "M3_013",
+           "name": "Doukissis Plakentias",
+           "next": "M3_014",
+           "previous": "M3_012",
+           "latitude": "38.0247",
+           "longitude": "23.8341",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_014": {
+           "number": "M3_014",
+           "name": "Pallini",
+           "next": "M3_015",
+           "previous": "M3_013",
+           "latitude": "38.005547",
+           "longitude": "23.869718",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_015": {
+           "number": "M3_015",
+           "name": "Peania-Kantza",
+           "next": "M3_016",
+           "previous": "M3_014",
+           "latitude": "37.983945",
+           "longitude": "23.869886",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_016": {
+           "number": "M3_016",
+           "name": "Koropi",
+           "next": "M3_017",
+           "previous": "M3_015",
+           "latitude": "37.9130",
+           "longitude": "23.8957",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M3_017": {
+           "number": "M3_017",
+           "name": "Eleftherios Venizelos",
+           "next": "",
+           "previous": "M3_016",
+           "latitude": "37.937017",
+           "longitude": "23.944818",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "athen_m3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4159,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,269 @@
+{
+   "_id": "paris_m3",
+   "_rev": "7-4eb9071e67632eab448e81ea2519019e",
+   "city": "Paris",
+   "lineName": "M3",
+   "color": "ABA74A",
+   "memos": "Die Linie M3 durschneidet Paris vom West nach Osten.",
+   "type": "line",
+   "created_at": "2011-05-06T19:54:48.197Z",
+   "stations": {
+       "M3_001": {
+           "number": "M3_001",
+           "name": "Pont de Levallois - Bécon",
+           "next": "M3_002",
+           "previous": "",
+           "latitude": 48.897313,
+           "longitude": 2.280787,
+           "correspondance": ""
+       },
+       "M3_002": {
+           "number": "M3_002",
+           "name": "Anatole France",
+           "next": "M3_003",
+           "previous": "M3_001",
+           "latitude": 48.892022,
+           "longitude": 2.285536,
+           "correspondance": ""
+       },
+       "M3_003": {
+           "number": "M3_003",
+           "name": "Louise Michel",
+           "next": "M3_004",
+           "previous": "M3_002",
+           "latitude": 48.889273,
+           "longitude": 2.288073,
+           "correspondance": ""
+       },
+       "M3_004": {
+           "number": "M3_004",
+           "name": "Porte de Champerret",
+           "next": "M3_005",
+           "previous": "M3_003",
+           "latitude": 48.885851,
+           "longitude": 2.293487,
+           "correspondance": ""
+       },
+       "M3_005": {
+           "number": "M3_005",
+           "name": "Pereire",
+           "next": "M3_006",
+           "previous": "M3_004",
+           "latitude": 48.884648,
+           "longitude": 2.299211,
+           "correspondance": ""
+       },
+       "M3_006": {
+           "number": "M3_006",
+           "name": "Wagram",
+           "next": "M3_007",
+           "previous": "M3_005",
+           "latitude": 48.884057,
+           "longitude": 2.303668,
+           "correspondance": ""
+       },
+       "M3_007": {
+           "number": "M3_007",
+           "name": "Malesherbes",
+           "next": "M3_008",
+           "previous": "M3_006",
+           "latitude": 48.882476,
+           "longitude": 2.311002,
+           "correspondance": ""
+       },
+       "M3_008": {
+           "number": "M3_008",
+           "name": "Villiers",
+           "next": "M3_009",
+           "previous": "M3_007",
+           "latitude": 48.88113,
+           "longitude": 2.314867,
+           "correspondance": [
+               "M2"
+           ]
+       },
+       "M3_009": {
+           "number": "M3_009",
+           "name": "Europe",
+           "next": "M3_010",
+           "previous": "M3_008",
+           "latitude": 48.878821,
+           "longitude": 2.32238,
+           "correspondance": ""
+       },
+       "M3_010": {
+           "number": "M3_010",
+           "name": "Saint-Lazare",
+           "next": "M3_011",
+           "previous": "M3_009",
+           "latitude": 48.8761111111111,
+           "longitude": 2.32611111111111,
+           "correspondance": [
+               "M12",
+               "M13",
+               "M14"
+           ]
+       },
+       "M3_011": {
+           "number": "M3_011",
+           "name": "Havre - Caumartin",
+           "next": "M3_012",
+           "previous": "M3_010",
+           "latitude": 48.8733333333333,
+           "longitude": 2.32805555555556,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M3_012": {
+           "number": "M3_012",
+           "name": "Opéra",
+           "next": "M3_013",
+           "previous": "M3_011",
+           "latitude": 48.8706359467089,
+           "longitude": 2.33235239982604,
+           "correspondance": [
+               "M7",
+               "M8"
+           ]
+       },
+       "M3_013": {
+           "number": "M3_013",
+           "name": "Quatre-Septembre",
+           "next": "M3_014",
+           "previous": "M3_012",
+           "latitude": 48.869574,
+           "longitude": 2.336633,
+           "correspondance": ""
+       },
+       "M3_014": {
+           "number": "M3_014",
+           "name": "Bourse",
+           "next": "M3_015",
+           "previous": "M3_013",
+           "latitude": 48.868738,
+           "longitude": 2.34137,
+           "correspondance": ""
+       },
+       "M3_015": {
+           "number": "M3_015",
+           "name": "Sentier",
+           "next": "M3_016",
+           "previous": "M3_014",
+           "latitude": 48.867569,
+           "longitude": 2.346387,
+           "correspondance": ""
+       },
+       "M3_016": {
+           "number": "M3_016",
+           "name": "Réaumur - Sébastopol",
+           "next": "M3_017",
+           "previous": "M3_015",
+           "latitude": 48.8661111111111,
+           "longitude": 2.3525,
+           "correspondance": [
+               "M4"
+           ]
+       },
+       "M3_017": {
+           "number": "M3_017",
+           "name": "Arts et Métiers",
+           "next": "M3_018",
+           "previous": "M3_016",
+           "latitude": 48.865285,
+           "longitude": 2.356794,
+           "correspondance": [
+               "M11"
+           ]
+       },
+       "M3_018": {
+           "number": "M3_018",
+           "name": "Temple",
+           "next": "M3_019",
+           "previous": "M3_017",
+           "latitude": 48.866488,
+           "longitude": 2.360595,
+           "correspondance": ""
+       },
+       "M3_019": {
+           "number": "M3_019",
+           "name": "République",
+           "next": "M3_020",
+           "previous": "M3_018",
+           "latitude": 48.867503,
+           "longitude": 2.363811,
+           "correspondance": [
+               "M5",
+               "M8",
+               "M9",
+               "M11"
+           ]
+       },
+       "M3_020": {
+           "number": "M3_020",
+           "name": "Parmentier",
+           "next": "M3_021",
+           "previous": "M3_019",
+           "latitude": 48.865299,
+           "longitude": 2.374381,
+           "correspondance": ""
+       },
+       "M3_021": {
+           "number": "M3_021",
+           "name": "Rue Saint-Maur",
+           "next": "M3_022",
+           "previous": "M3_020",
+           "latitude": 48.864335,
+           "longitude": 2.379448,
+           "correspondance": ""
+       },
+       "M3_022": {
+           "number": "M3_022",
+           "name": "Père Lachaise",
+           "next": "M3_023",
+           "previous": "M3_021",
+           "latitude": 48.862921,
+           "longitude": 2.387388,
+           "correspondance": [
+               "M2"
+           ]
+       },
+       "M3_023": {
+           "number": "M3_023",
+           "name": "Gambetta",
+           "next": "M3_024",
+           "previous": "M3_022",
+           "latitude": 48.864947,
+           "longitude": 2.398451,
+           "correspondance": [
+               "M3bis"
+           ]
+       },
+       "M3_024": {
+           "number": "M3_024",
+           "name": "Porte de Bagnolet",
+           "next": "M3_025",
+           "previous": "M3_023",
+           "latitude": 48.864565,
+           "longitude": 2.407278,
+           "correspondance": ""
+       },
+       "M3_025": {
+           "number": "M3_025",
+           "name": "Gallieni",
+           "next": "",
+           "previous": "M3_024",
+           "latitude": 48.864936,
+           "longitude": 2.416637,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 13322,
+           "stub": true
+       }
+   }
+}

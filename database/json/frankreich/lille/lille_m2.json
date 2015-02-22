@@ -1,0 +1,501 @@
+{
+   "_id": "lille_m2",
+   "_rev": "52-85de0828b747cc0288cfef95a685c626",
+   "city": "Lille",
+   "lineName": "M2",
+   "lineNameShow": "M2",
+   "color": "F2653F",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-21T16:43:53.527Z",
+   "stations": {
+       "M2_001": {
+           "number": "M2_001",
+           "name": "Lomme Saint-Philibert",
+           "next": "M2_002",
+           "previous": "",
+           "latitude": "50.651409",
+           "longitude": "2.974586",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_002": {
+           "number": "M2_002",
+           "name": "Bourg",
+           "next": "M2_003",
+           "previous": "M2_001",
+           "latitude": "50.645791",
+           "longitude": "2.984993",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_003": {
+           "number": "M2_003",
+           "name": "Maison des Enfants",
+           "next": "M2_004",
+           "previous": "M2_002",
+           "latitude": "50.646379",
+           "longitude": "2.994776",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_004": {
+           "number": "M2_004",
+           "name": "Mitterie",
+           "next": "M2_005",
+           "previous": "M2_003",
+           "latitude": "50.6467283",
+           "longitude": "3.0073029000000133",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_005": {
+           "number": "M2_005",
+           "name": "Pont Supérieur",
+           "next": "M2_006",
+           "previous": "M2_004",
+           "latitude": "50.644087",
+           "longitude": "3.014028",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_006": {
+           "number": "M2_006",
+           "name": "Lomme-Lambersart",
+           "next": "M2_007",
+           "previous": "M2_005",
+           "latitude": "50.640612",
+           "longitude": "3.018585",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_007": {
+           "number": "M2_007",
+           "name": "Canteleu",
+           "next": "M2_008",
+           "previous": "M2_006",
+           "latitude": "50.637178",
+           "longitude": "3.02486",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_008": {
+           "number": "M2_008",
+           "name": "Bois Blancs",
+           "next": "M2_009",
+           "previous": "M2_007",
+           "latitude": "50.634063",
+           "longitude": "3.030525",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_009": {
+           "number": "M2_009",
+           "name": "Port de Lille",
+           "next": "M2_010",
+           "previous": "M2_008",
+           "latitude": "50.6299282",
+           "longitude": "3.0355282000000443",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_010": {
+           "number": "M2_010",
+           "name": "Cormontaigne",
+           "next": "M2_011",
+           "previous": "M2_009",
+           "latitude": "50.6262052",
+           "longitude": "3.0400979999999436",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_011": {
+           "number": "M2_011",
+           "name": "Montebello",
+           "next": "M2_012",
+           "previous": "M2_010",
+           "latitude": "50.622188",
+           "longitude": "3.045521",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_012": {
+           "number": "M2_012",
+           "name": "Porte des Postes",
+           "next": "M2_013",
+           "previous": "M2_011",
+           "latitude": "50.618406",
+           "longitude": "3.050742",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M2_013": {
+           "number": "M2_013",
+           "name": "Porte d'Arras",
+           "next": "M2_014",
+           "previous": "M2_012",
+           "latitude": "50.6175",
+           "longitude": "3.0623",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_014": {
+           "number": "M2_014",
+           "name": "Porte de Douai",
+           "next": "M2_015",
+           "previous": "M2_013",
+           "latitude": "50.618022",
+           "longitude": "3.072309",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_015": {
+           "number": "M2_015",
+           "name": "Porte de Valenciennes",
+           "next": "M2_016",
+           "previous": "M2_014",
+           "latitude": "50.6210567",
+           "longitude": "3.0787742999999637",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_016": {
+           "number": "M2_016",
+           "name": "Lille-Grand Palais",
+           "next": "M2_017",
+           "previous": "M2_015",
+           "latitude": "50.6296006",
+           "longitude": "3.0750467999999955",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_017": {
+           "number": "M2_017",
+           "name": "Mairie de Lille",
+           "next": "M2_018",
+           "previous": "M2_016",
+           "latitude": "50.632658",
+           "longitude": "3.070494",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_018": {
+           "number": "M2_018",
+           "name": "Gare Lille Flandres",
+           "next": "M2_019",
+           "previous": "M2_017",
+           "latitude": "50.63759",
+           "longitude": "3.070891",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M2_019": {
+           "number": "M2_019",
+           "name": "St-Maurice Pellevoisin",
+           "next": "M2_020",
+           "previous": "M2_018",
+           "latitude": "50.6424078",
+           "longitude": "3.0889346999999816",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_020": {
+           "number": "M2_020",
+           "name": "Mons Sarts",
+           "next": "M2_021",
+           "previous": "M2_019",
+           "latitude": "50.642051",
+           "longitude": "3.098985999999968",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_021": {
+           "number": "M2_021",
+           "name": "Mairie de Mons",
+           "next": "M2_022",
+           "previous": "M2_020",
+           "latitude": "50.6423",
+           "longitude": "3.1098",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_022": {
+           "number": "M2_022",
+           "name": "Fort de Mons",
+           "next": "M2_023",
+           "previous": "M2_021",
+           "latitude": "50.64208",
+           "longitude": "3.119398",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_023": {
+           "number": "M2_023",
+           "name": "Les Prés",
+           "next": "M2_024",
+           "previous": "M2_022",
+           "latitude": "50.6500056",
+           "longitude": "3.1265154999999822",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_024": {
+           "number": "M2_024",
+           "name": "Jean Jaurès",
+           "next": "M2_025",
+           "previous": "M2_023",
+           "latitude": "50.658412",
+           "longitude": "3.134775",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_025": {
+           "number": "M2_025",
+           "name": "Wasquehal Pavé de Lille",
+           "next": "M2_026",
+           "previous": "M2_024",
+           "latitude": "50.663932",
+           "longitude": "3.129854",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_026": {
+           "number": "M2_026",
+           "name": "Croix-Centre",
+           "next": "M2_027",
+           "previous": "M2_025",
+           "latitude": "50.6746303",
+           "longitude": "3.1461100000000215",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_027": {
+           "number": "M2_027",
+           "name": "Croix-Mairie",
+           "next": "M2_028",
+           "previous": "M2_026",
+           "latitude": "50.679497",
+           "longitude": "3.155732",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_028": {
+           "number": "M2_028",
+           "name": "Roubaix Charles de Gaulle",
+           "next": "M2_029",
+           "previous": "M2_027",
+           "latitude": "50.686705",
+           "longitude": "3.169796",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_029": {
+           "number": "M2_029",
+           "name": "Eurotéleport",
+           "next": "M2_030",
+           "previous": "M2_028",
+           "latitude": "50.6912",
+           "longitude": "3.1796",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_030": {
+           "number": "M2_030",
+           "name": "Roubaix-Grand Place",
+           "next": "M2_031",
+           "previous": "M2_029",
+           "latitude": "50.691625",
+           "longitude": "3.174486",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_031": {
+           "number": "M2_031",
+           "name": "Gare Jean Lebas",
+           "next": "M2_032",
+           "previous": "M2_030",
+           "latitude": "50.695573",
+           "longitude": "3.163861",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_032": {
+           "number": "M2_032",
+           "name": "Alsace",
+           "next": "M2_033",
+           "previous": "M2_031",
+           "latitude": "50.700673",
+           "longitude": "3.161139",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_033": {
+           "number": "M2_033",
+           "name": "Mercure",
+           "next": "M2_034",
+           "previous": "M2_032",
+           "latitude": "50.704749",
+           "longitude": "3.160518",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_034": {
+           "number": "M2_034",
+           "name": "Carliers",
+           "next": "M2_035",
+           "previous": "M2_033",
+           "latitude": "50.71082",
+           "longitude": "3.160254",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_035": {
+           "number": "M2_035",
+           "name": "Tourcoing-Sébastobol",
+           "next": "M2_036",
+           "previous": "M2_034",
+           "latitude": "50.716567",
+           "longitude": "3.162629",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_036": {
+           "number": "M2_036",
+           "name": "Tourcoing-Centre",
+           "next": "M2_037",
+           "previous": "M2_035",
+           "latitude": "50.721046",
+           "longitude": "3.159836",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_037": {
+           "number": "M2_037",
+           "name": "Colbert",
+           "next": "M2_038",
+           "previous": "M2_036",
+           "latitude": "50.725552",
+           "longitude": "3.156639",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_038": {
+           "number": "M2_038",
+           "name": "Phalempins",
+           "next": "M2_039",
+           "previous": "M2_037",
+           "latitude": "50.7324",
+           "longitude": "3.1578",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_039": {
+           "number": "M2_039",
+           "name": "Pont de Neuville",
+           "next": "M2_040",
+           "previous": "M2_038",
+           "latitude": "50.736815",
+           "longitude": "3.170607",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M2_040": {
+           "number": "M2_040",
+           "name": "Bourgogne",
+           "next": "",
+           "previous": "M2_039",
+           "latitude": "50.7395",
+           "longitude": "3.1796",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "lille_m2.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 6902,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,210 @@
+{
+   "_id": "turin_m1",
+   "_rev": "27-6d753ad0ee55b1d9463212da7a6d8d0e",
+   "city": "Turin",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "FF3418",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T10:35:01.283Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Fermi",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": 45.076033,
+           "longitude": 7.591325,
+           "correspondance": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Paradiso",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": 45.07397,
+           "longitude": 7.602021,
+           "correspondance": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Marche",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": 45.07472,
+           "longitude": 7.61484,
+           "correspondance": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Massaua",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": 45.074723,
+           "longitude": 7.620063,
+           "correspondance": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Pozzo Strada",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": 45.074601,
+           "longitude": 7.628968,
+           "correspondance": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Monte Grappa",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": 45.075391,
+           "longitude": 7.635675,
+           "correspondance": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Rivoli",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": 45.075585,
+           "longitude": 7.643968,
+           "correspondance": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Racconigi",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": 45.0757,
+           "longitude": 7.6482,
+           "correspondance": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Bernini",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": 45.076153,
+           "longitude": 7.655348,
+           "correspondance": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Principi d'Acaja",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": 45.076098,
+           "longitude": 7.664578,
+           "correspondance": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "XVIII Dicembre",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": 45.074,
+           "longitude": 7.66854,
+           "correspondance": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Porta Susa",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": 45.0701,
+           "longitude": 7.664,
+           "correspondance": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Vinzaglio",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": 45.067188,
+           "longitude": 7.665638,
+           "correspondance": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Re Umberto",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": 45.064127,
+           "longitude": 7.67414,
+           "correspondance": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Porta Nuova",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": 45.06276,
+           "longitude": 7.679010000000062,
+           "correspondance": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Marconi",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": 45.057091,
+           "longitude": 7.676473,
+           "correspondance": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Nizza",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": 45.05143,
+           "longitude": 7.674459,
+           "correspondance": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Dante",
+           "next": "M1_019",
+           "previous": "M1_017",
+           "latitude": 45.046871,
+           "longitude": 7.672768,
+           "correspondance": ""
+       },
+       "M1_019": {
+           "number": "M1_019",
+           "name": "Carducci-Molinette",
+           "next": "M1_020",
+           "previous": "M1_018",
+           "latitude": 45.0423,
+           "longitude": 7.6711199999999735,
+           "correspondance": ""
+       },
+       "M1_020": {
+           "number": "M1_020",
+           "name": "Spezia",
+           "next": "M1_021",
+           "previous": "M1_019",
+           "latitude": 45.037832,
+           "longitude": 7.669179,
+           "correspondance": ""
+       },
+       "M1_021": {
+           "number": "M1_021",
+           "name": "Lingotto",
+           "next": "",
+           "previous": "M1_020",
+           "latitude": 45.0308,
+           "longitude": 7.6666,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "turin_m1.png": {
+           "content_type": "image/png",
+           "revpos": 4,
+           "length": 15412,
+           "stub": true
+       }
+   }
+}

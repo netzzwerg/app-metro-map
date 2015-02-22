@@ -1,0 +1,271 @@
+{
+   "_id": "münchen_u3",
+   "_rev": "6-2ea1b56ff368b6e931965b6d21621890",
+   "city": "München",
+   "lineName": "U3",
+   "color": "F1A159",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-08T17:15:54.046Z",
+   "stations": {
+       "U3_001": {
+           "number": "U3_001",
+           "name": "Fürstenried West",
+           "next": "U3_002",
+           "previous": "",
+           "latitude": 48.0883675,
+           "longitude": 11.47975,
+           "correspondance": ""
+       },
+       "U3_002": {
+           "number": "U3_002",
+           "name": "Basler Straße",
+           "next": "U3_003",
+           "previous": "U3_001",
+           "latitude": 48.0911526,
+           "longitude": 11.491141,
+           "correspondance": ""
+       },
+       "U3_003": {
+           "number": "U3_003",
+           "name": "Forstenrieder Allee",
+           "next": "U3_004",
+           "previous": "U3_002",
+           "latitude": 48.095,
+           "longitude": 11.49854,
+           "correspondance": ""
+       },
+       "U3_004": {
+           "number": "U3_004",
+           "name": "Machtlfinger Straße",
+           "next": "U3_005",
+           "previous": "U3_003",
+           "latitude": 48.097124,
+           "longitude": 11.513987,
+           "correspondance": ""
+       },
+       "U3_005": {
+           "number": "U3_005",
+           "name": "Aidenbachstraße",
+           "next": "U3_006",
+           "previous": "U3_004",
+           "latitude": 48.098416,
+           "longitude": 11.524025,
+           "correspondance": ""
+       },
+       "U3_006": {
+           "number": "U3_006",
+           "name": "Obersendling",
+           "next": "U3_007",
+           "previous": "U3_005",
+           "latitude": 48.09829,
+           "longitude": 11.5369,
+           "correspondance": ""
+       },
+       "U3_007": {
+           "number": "U3_007",
+           "name": "Thalkirchen (Tierpark)",
+           "next": "U3_008",
+           "previous": "U3_006",
+           "latitude": 48.10124,
+           "longitude": 11.54673,
+           "correspondance": ""
+       },
+       "U3_008": {
+           "number": "U3_008",
+           "name": "Brudermühlstraße",
+           "next": "U3_009",
+           "previous": "U3_007",
+           "latitude": 48.11194,
+           "longitude": 11.54862,
+           "correspondance": ""
+       },
+       "U3_009": {
+           "number": "U3_009",
+           "name": "Implerstrasse",
+           "next": "U3_010",
+           "previous": "U3_008",
+           "latitude": 48.12017,
+           "longitude": 11.5483,
+           "correspondance": [
+               "U6"
+           ]
+       },
+       "U3_010": {
+           "number": "U3_010",
+           "name": "Poccistrasse",
+           "next": "U3_011",
+           "previous": "U3_009",
+           "latitude": 48.12536,
+           "longitude": 11.55008,
+           "correspondance": [
+               "U6"
+           ]
+       },
+       "U3_011": {
+           "number": "U3_011",
+           "name": "Goetheplatz",
+           "next": "U3_012",
+           "previous": "U3_010",
+           "latitude": 48.12904,
+           "longitude": 11.55743,
+           "correspondance": [
+               "U6"
+           ]
+       },
+       "U3_012": {
+           "number": "U3_012",
+           "name": "Sendlinger Tor",
+           "next": "U3_013",
+           "previous": "U3_011",
+           "latitude": 48.13331,
+           "longitude": 11.56629,
+           "correspondance": [
+               "U1",
+               "U2",
+               "U6"
+           ]
+       },
+       "U3_013": {
+           "number": "U3_013",
+           "name": "Marienplatz",
+           "next": "U3_014",
+           "previous": "U3_012",
+           "latitude": 48.13713,
+           "longitude": 11.57523,
+           "correspondance": [
+               "U6"
+           ]
+       },
+       "U3_014": {
+           "number": "U3_014",
+           "name": "Odeonsplatz",
+           "next": "U3_015",
+           "previous": "U3_013",
+           "latitude": 48.1424,
+           "longitude": 11.57771,
+           "correspondance": [
+               "U4",
+               "U5",
+               "U6"
+           ]
+       },
+       "U3_015": {
+           "number": "U3_015",
+           "name": "Universität",
+           "next": "U3_016",
+           "previous": "U3_014",
+           "latitude": 48.15051,
+           "longitude": 11.58119,
+           "correspondance": [
+               "U6"
+           ]
+       },
+       "U3_016": {
+           "number": "U3_016",
+           "name": "Giselastraße",
+           "next": "U3_017",
+           "previous": "U3_015",
+           "latitude": 48.15662,
+           "longitude": 11.58408,
+           "correspondance": [
+               "U6"
+           ]
+       },
+       "U3_017": {
+           "number": "U3_017",
+           "name": "Münchner Freiheit",
+           "next": "U3_018",
+           "previous": "U3_016",
+           "latitude": 48.16139,
+           "longitude": 11.5862,
+           "correspondance": [
+               "U6"
+           ]
+       },
+       "U3_018": {
+           "number": "U3_018",
+           "name": "Bonner Platz",
+           "next": "U3_019",
+           "previous": "U3_017",
+           "latitude": 48.16666,
+           "longitude": 11.57834,
+           "correspondance": ""
+       },
+       "U3_019": {
+           "number": "U3_019",
+           "name": "Scheidplatz",
+           "next": "U3_020",
+           "previous": "U3_018",
+           "latitude": 48.17078,
+           "longitude": 11.57291,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U3_020": {
+           "number": "U3_020",
+           "name": "Petuelring",
+           "next": "U3_021",
+           "previous": "U3_019",
+           "latitude": 48.17577,
+           "longitude": 11.56616,
+           "correspondance": ""
+       },
+       "U3_021": {
+           "number": "U3_021",
+           "name": "Olympiazentrum",
+           "next": "U3_022",
+           "previous": "U3_020",
+           "latitude": 48.17845,
+           "longitude": 11.55639,
+           "correspondance": ""
+       },
+       "U3_022": {
+           "number": "U3_022",
+           "name": "Oberwiesenfeld",
+           "next": "U3_023",
+           "previous": "U3_021",
+           "latitude": 48.1863,
+           "longitude": 11.54606,
+           "correspondance": ""
+       },
+       "U3_023": {
+           "number": "U3_023",
+           "name": "OEZ",
+           "next": "U3_024",
+           "previous": "U3_022",
+           "latitude": 48.18341,
+           "longitude": 11.53095,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U3_024": {
+           "number": "U3_024",
+           "name": "Moosacher St.-Martins-Platz",
+           "next": "U3_025",
+           "previous": "U3_023",
+           "latitude": 48.181793,
+           "longitude": 11.517684,
+           "correspondance": ""
+       },
+       "U3_025": {
+           "number": "U3_025",
+           "name": "Moosach",
+           "next": "",
+           "previous": "U3_024",
+           "latitude": 48.180926,
+           "longitude": 11.508031,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "muenchen_u3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4642,
+           "stub": true
+       }
+   }
+}

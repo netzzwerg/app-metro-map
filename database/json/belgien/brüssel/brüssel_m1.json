@@ -1,0 +1,276 @@
+{
+   "_id": "brüssel_m1",
+   "_rev": "25-579e35a14ce01a178c137ab8a6b8b811",
+   "city": "Brüssel",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "BB2182",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T17:06:27.978Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Gare de l’Ouest",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "50.848412",
+           "longitude": "4.320785999999998",
+           "correspondance": [
+               "M2",
+               "M5",
+               "M6"
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Beekkant",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "50.853167",
+           "longitude": "4.323202",
+           "correspondance": [
+               "M2",
+               "M6"
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Étangs Noirs",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "50.857287",
+           "longitude": "4.332011",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Comte de Flandre",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "50.854801",
+           "longitude": "4.340533999999934",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Sainte-Catherine",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "50.852329",
+           "longitude": "4.347778000000062",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "De Brouckère",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "50.850104",
+           "longitude": "4.351801",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Gare Centrale",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": "50.846352",
+           "longitude": "4.358633",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Parc",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": "50.845739",
+           "longitude": "4.362416",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Arts-Loi",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": "50.84531",
+           "longitude": "4.369633000000022",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Maelbeek",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": "50.843996",
+           "longitude": "4.377144",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Schuman",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": "50.842805",
+           "longitude": "4.383244",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Merode",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": "50.839382",
+           "longitude": "4.398154999999974",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Montgomery",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": "50.83783",
+           "longitude": "4.407241",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Joséphine-Charlotte",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": "50.840256",
+           "longitude": "4.413215",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Gribaumont",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": "50.842556",
+           "longitude": "4.418361000000004",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Tomberg",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": "50.843499",
+           "longitude": "4.424679",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Roodebeek",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": "50.847486",
+           "longitude": "4.436121",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Vandervelde",
+           "next": "M1_019",
+           "previous": "M1_017",
+           "latitude": "50.847511",
+           "longitude": "4.44723399999998",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_019": {
+           "number": "M1_019",
+           "name": "Alma",
+           "next": "M1_020",
+           "previous": "M1_018",
+           "latitude": "50.849773",
+           "longitude": "4.452917999999954",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_020": {
+           "number": "M1_020",
+           "name": "Crainhem",
+           "next": "M1_021",
+           "previous": "M1_019",
+           "latitude": "50.8485",
+           "longitude": "4.4589",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_021": {
+           "number": "M1_021",
+           "name": "Stockel",
+           "next": "",
+           "previous": "M1_020",
+           "latitude": "50.841888",
+           "longitude": "4.464701999999988",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "bruessel_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 13823,
+           "stub": true
+       }
+   }
+}

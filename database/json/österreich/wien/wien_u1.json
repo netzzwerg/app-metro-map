@@ -1,0 +1,200 @@
+{
+   "_id": "wien_u1",
+   "_rev": "5-7591f5fdff5402979bd2b0ede549976e",
+   "city": "Wien",
+   "lineName": "U1",
+   "color": "FF0000",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-08T17:12:21.589Z",
+   "stations": {
+       "U1_001": {
+           "number": "U1_001",
+           "name": "Reumannplatz",
+           "next": "U1_002",
+           "previous": "",
+           "latitude": 48.173676,
+           "longitude": 16.378325,
+           "correspondance": ""
+       },
+       "U1_002": {
+           "number": "U1_002",
+           "name": "Keplerplatz",
+           "next": "U1_003",
+           "previous": "U1_001",
+           "latitude": 48.179736,
+           "longitude": 16.376066,
+           "correspondance": ""
+       },
+       "U1_003": {
+           "number": "U1_003",
+           "name": "Südtiroler Platz",
+           "next": "U1_004",
+           "previous": "U1_002",
+           "latitude": 48.186446,
+           "longitude": 16.374087,
+           "correspondance": ""
+       },
+       "U1_004": {
+           "number": "U1_004",
+           "name": "Taubstummengasse",
+           "next": "U1_005",
+           "previous": "U1_003",
+           "latitude": 48.194728,
+           "longitude": 16.370053,
+           "correspondance": ""
+       },
+       "U1_005": {
+           "number": "U1_005",
+           "name": "Karlsplatz",
+           "next": "U1_006",
+           "previous": "U1_004",
+           "latitude": 48.200185,
+           "longitude": 16.370337,
+           "correspondance": [
+               "U2",
+               "U4"
+           ]
+       },
+       "U1_006": {
+           "number": "U1_006",
+           "name": "Stephansplatz",
+           "next": "U1_007",
+           "previous": "U1_005",
+           "latitude": 48.208655,
+           "longitude": 16.3723,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U1_007": {
+           "number": "U1_007",
+           "name": "Schwedenplatz",
+           "next": "U1_008",
+           "previous": "U1_006",
+           "latitude": 48.211583,
+           "longitude": 16.377847,
+           "correspondance": [
+               "U4"
+           ]
+       },
+       "U1_008": {
+           "number": "U1_008",
+           "name": "Nestroyplatz",
+           "next": "U1_009",
+           "previous": "U1_007",
+           "latitude": 48.215515,
+           "longitude": 16.385883,
+           "correspondance": ""
+       },
+       "U1_009": {
+           "number": "U1_009",
+           "name": "Praterstern",
+           "next": "U1_010",
+           "previous": "U1_008",
+           "latitude": 48.218853,
+           "longitude": 16.392149,
+           "correspondance": [
+               "U2"
+           ]
+       },
+       "U1_010": {
+           "number": "U1_010",
+           "name": "Vorgartenstraße",
+           "next": "U1_011",
+           "previous": "U1_009",
+           "latitude": 48.224007,
+           "longitude": 16.401772,
+           "correspondance": ""
+       },
+       "U1_011": {
+           "number": "U1_011",
+           "name": "Donauinsel",
+           "next": "U1_012",
+           "previous": "U1_010",
+           "latitude": 48.228682,
+           "longitude": 16.410302,
+           "correspondance": ""
+       },
+       "U1_012": {
+           "number": "U1_012",
+           "name": "Kaisermühlen / Vienna International Centre",
+           "next": "U1_013",
+           "previous": "U1_011",
+           "latitude": 48.232859,
+           "longitude": 16.416498,
+           "correspondance": ""
+       },
+       "U1_013": {
+           "number": "U1_013",
+           "name": "Alte Donau",
+           "next": "U1_014",
+           "previous": "U1_012",
+           "latitude": 48.237893,
+           "longitude": 16.424303,
+           "correspondance": ""
+       },
+       "U1_014": {
+           "number": "U1_014",
+           "name": "Kagran",
+           "next": "U1_015",
+           "previous": "U1_013",
+           "latitude": 48.242866,
+           "longitude": 16.432881,
+           "correspondance": ""
+       },
+       "U1_015": {
+           "number": "U1_015",
+           "name": "Kagraner Platz",
+           "next": "U1_016",
+           "previous": "U1_014",
+           "latitude": 48.250672,
+           "longitude": 16.443722,
+           "correspondance": ""
+       },
+       "U1_016": {
+           "number": "U1_016",
+           "name": "Rennbahnweg",
+           "next": "U1_017",
+           "previous": "U1_015",
+           "latitude": 48.257565,
+           "longitude": 16.449746,
+           "correspondance": ""
+       },
+       "U1_017": {
+           "number": "U1_017",
+           "name": "Aderklaaer Straße",
+           "next": "U1_018",
+           "previous": "U1_016",
+           "latitude": 48.263437,
+           "longitude": 16.451715,
+           "correspondance": ""
+       },
+       "U1_018": {
+           "number": "U1_018",
+           "name": "Großfeldsiedlung",
+           "next": "U1_019",
+           "previous": "U1_017",
+           "latitude": 48.270314,
+           "longitude": 16.448266,
+           "correspondance": ""
+       },
+       "U1_019": {
+           "number": "U1_019",
+           "name": "Leopoldau",
+           "next": "",
+           "previous": "U1_018",
+           "latitude": 48.277805,
+           "longitude": 16.453561,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "wien_u1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 3594,
+           "stub": true
+       }
+   }
+}

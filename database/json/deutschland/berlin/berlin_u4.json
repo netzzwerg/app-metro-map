@@ -1,0 +1,83 @@
+{
+   "_id": "berlin_u4",
+   "_rev": "9-340bb779861a73e2884d48641225a420",
+   "city": "Berlin",
+   "lineName": "U4",
+   "lineNameShow": "U4",
+   "color": "FFD400",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:16:47.750Z",
+   "stations": {
+       "U4_001": {
+           "number": "U4_001",
+           "name": "Nollendorfplatz",
+           "next": "U4_002",
+           "previous": "",
+           "latitude": "52.499423",
+           "longitude": "13.354775",
+           "correspondance": [
+               "U1",
+               "U2",
+               "U3"
+           ],
+           "memos": ""
+       },
+       "U4_002": {
+           "number": "U4_002",
+           "name": "Viktoria-Luise-Platz",
+           "next": "U4_003",
+           "previous": "U4_001",
+           "latitude": "52.4958403",
+           "longitude": "13.34185500000001",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U4_003": {
+           "number": "U4_003",
+           "name": "Bayrischer Platz",
+           "next": "U4_004",
+           "previous": "U4_002",
+           "latitude": "52.4889473",
+           "longitude": "13.339233400000012",
+           "correspondance": [
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U4_004": {
+           "number": "U4_004",
+           "name": "Rathaus Schöneberg",
+           "next": "U4_005",
+           "previous": "U4_003",
+           "latitude": "52.4831069",
+           "longitude": "13.341672399999993",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U4_005": {
+           "number": "U4_005",
+           "name": "Innsbrucker Platz",
+           "next": "",
+           "previous": "U4_004",
+           "latitude": "52.4786464",
+           "longitude": "13.344442500000014",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u4.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 56763,
+           "stub": true
+       }
+   }
+}

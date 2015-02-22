@@ -1,0 +1,287 @@
+{
+   "_id": "berlin_u8",
+   "_rev": "31-364f8696e1e68a76ad7eb5aae54b5ea1",
+   "city": "Berlin",
+   "lineName": "U8",
+   "lineNameShow": "U8",
+   "color": "00619F",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:18:55.794Z",
+   "stations": {
+       "U8_001": {
+           "number": "U8_001",
+           "name": "Karl-Bohnhoeffer-Nervenklinik",
+           "next": "U8_002",
+           "previous": "",
+           "latitude": "52.578495",
+           "longitude": "13.332553",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_002": {
+           "number": "U8_002",
+           "name": "Lindauer Alle",
+           "next": "U8_003",
+           "previous": "U8_001",
+           "latitude": "52.575567",
+           "longitude": "13.339631",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_003": {
+           "number": "U8_003",
+           "name": "Paracelsus-Bad",
+           "next": "U8_004",
+           "previous": "U8_002",
+           "latitude": "52.574387",
+           "longitude": "13.349022",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_004": {
+           "number": "U8_004",
+           "name": "Residenzstraße",
+           "next": "U8_005",
+           "previous": "U8_003",
+           "latitude": "52.5708",
+           "longitude": "13.361059",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_005": {
+           "number": "U8_005",
+           "name": "Franz-Neumann-Platz",
+           "next": "U8_006",
+           "previous": "U8_004",
+           "latitude": "52.5644885",
+           "longitude": "13.364020600000003",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_006": {
+           "number": "U8_006",
+           "name": "Osloer Straße",
+           "next": "U8_007",
+           "previous": "U8_005",
+           "latitude": "52.55704",
+           "longitude": "13.373926",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_007": {
+           "number": "U8_007",
+           "name": "Pankstraße",
+           "next": "U8_008",
+           "previous": "U8_006",
+           "latitude": "52.552366",
+           "longitude": "13.3812",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_008": {
+           "number": "U8_008",
+           "name": "Gesundbrunnen",
+           "next": "U8_009",
+           "previous": "U8_007",
+           "latitude": "52.548924",
+           "longitude": "13.387907",
+           "correspondance": [
+               "U9"
+           ],
+           "memos": ""
+       },
+       "U8_009": {
+           "number": "U8_009",
+           "name": "Voltastraße",
+           "next": "U8_010",
+           "previous": "U8_008",
+           "latitude": "52.542311",
+           "longitude": "13.393069",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_010": {
+           "number": "U8_010",
+           "name": "Bernauer Straße",
+           "next": "U8_011",
+           "previous": "U8_009",
+           "latitude": "52.5377",
+           "longitude": "13.3966",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_011": {
+           "number": "U8_011",
+           "name": "Rosenthaler Platz",
+           "next": "U8_012",
+           "previous": "U8_010",
+           "latitude": "52.529946",
+           "longitude": "13.401127",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_012": {
+           "number": "U8_012",
+           "name": "Weinmeisterstraße",
+           "next": "U8_013",
+           "previous": "U8_011",
+           "latitude": "52.525434",
+           "longitude": "13.405676",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_013": {
+           "number": "U8_013",
+           "name": "Alexanderplatz",
+           "next": "U8_014",
+           "previous": "U8_012",
+           "latitude": "52.521658",
+           "longitude": "13.410948",
+           "correspondance": [
+               "U5"
+           ],
+           "memos": ""
+       },
+       "U8_014": {
+           "number": "U8_014",
+           "name": "Jannowitzbrücke",
+           "next": "U8_015",
+           "previous": "U8_013",
+           "latitude": "52.515679",
+           "longitude": "13.417901",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_015": {
+           "number": "U8_015",
+           "name": "Heinrich-Heine-Straße",
+           "next": "U8_016",
+           "previous": "U8_014",
+           "latitude": "52.510345",
+           "longitude": "13.415693",
+           "correspondance": [
+               "U2",
+               "U5"
+           ],
+           "memos": ""
+       },
+       "U8_016": {
+           "number": "U8_016",
+           "name": "Moritzplatz",
+           "next": "U8_017",
+           "previous": "U8_015",
+           "latitude": "52.503606",
+           "longitude": "13.410683",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_017": {
+           "number": "U8_017",
+           "name": "Kottbusser Tor",
+           "next": "U8_018",
+           "previous": "U8_016",
+           "latitude": "52.499634",
+           "longitude": "13.41862",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U8_018": {
+           "number": "U8_018",
+           "name": "Schönleinstraße",
+           "next": "U8_019",
+           "previous": "U8_017",
+           "latitude": "52.493107",
+           "longitude": "13.421689",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_019": {
+           "number": "U8_019",
+           "name": "Hermannplatz",
+           "next": "U8_020",
+           "previous": "U8_018",
+           "latitude": "52.486595",
+           "longitude": "13.424373",
+           "correspondance": [
+               "U1",
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U8_020": {
+           "number": "U8_020",
+           "name": "Boddinstraße",
+           "next": "U8_021",
+           "previous": "U8_019",
+           "latitude": "52.480293",
+           "longitude": "13.42505",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U8_021": {
+           "number": "U8_021",
+           "name": "Leinestraße",
+           "next": "U8_022",
+           "previous": "U8_020",
+           "latitude": "52.473222",
+           "longitude": "13.428013",
+           "correspondance": [
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U8_022": {
+           "number": "U8_022",
+           "name": "Hermannstraße",
+           "next": "",
+           "previous": "U8_021",
+           "latitude": "52.467963",
+           "longitude": "13.430588",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u8.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 84026,
+           "stub": true
+       }
+   }
+}

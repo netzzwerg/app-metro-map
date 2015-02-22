@@ -1,0 +1,60 @@
+{
+   "_id": "paris_m3bis",
+   "_rev": "5-1ce3a407fa10e7b49f44a13cef200b73",
+   "city": "Paris",
+   "lineName": "M3bis",
+   "color": "99DAE4",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T19:57:38.463Z",
+   "stations": {
+       "M3bis_001": {
+           "number": "M3bis_001",
+           "name": "Porte des Lilas",
+           "next": "M3bis_002",
+           "previous": "",
+           "latitude": 48.877183,
+           "longitude": 2.406655,
+           "correspondance": [
+               "M11"
+           ]
+       },
+       "M3bis_002": {
+           "number": "M3bis_002",
+           "name": "Saint-Fargeau",
+           "next": "M3bis_003",
+           "previous": "M3bis_001",
+           "latitude": 48.872083,
+           "longitude": 2.40452,
+           "correspondance": ""
+       },
+       "M3bis_003": {
+           "number": "M3bis_003",
+           "name": "Pelleport",
+           "next": "M3bis_004",
+           "previous": "M3bis_002",
+           "latitude": 48.868671,
+           "longitude": 2.401752,
+           "correspondance": ""
+       },
+       "M3bis_004": {
+           "number": "M3bis_004",
+           "name": "Gambetta",
+           "next": "",
+           "previous": "M3bis_003",
+           "latitude": 48.864947,
+           "longitude": 2.398451,
+           "correspondance": [
+               "M3"
+           ]
+       }
+   },
+   "_attachments": {
+       "paris_m3bis.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 15215,
+           "stub": true
+       }
+   }
+}

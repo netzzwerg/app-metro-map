@@ -1,0 +1,10 @@
+{
+   "_id": "city_sofia",
+   "_rev": "1-c3807122eab5b33fcd5f9be8ba16a39f",
+   "country": "Bulgarien",
+   "cityName": "Sofia",
+   "subName": "Metro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-20T19:00:45.364Z"
+}

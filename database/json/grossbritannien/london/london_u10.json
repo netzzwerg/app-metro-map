@@ -1,0 +1,165 @@
+{
+   "_id": "london_u10",
+   "_rev": "4-cbd33404bc506b1edbdffddd78efaa07",
+   "city": "London",
+   "lineName": "U10",
+   "lineNameShow": "Victoria",
+   "color": "009FE0",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T16:20:22.541Z",
+   "stations": {
+       "U10_001": {
+           "number": "U10_001",
+           "name": "Walthamstow Central",
+           "next": "U10_002",
+           "previous": "",
+           "latitude": 51.58293,
+           "longitude": -0.01996,
+           "correspondance": ""
+       },
+       "U10_002": {
+           "number": "U10_002",
+           "name": "Blackhorse Road",
+           "next": "U10_003",
+           "previous": "U10_001",
+           "latitude": 51.58698,
+           "longitude": -0.04104,
+           "correspondance": ""
+       },
+       "U10_003": {
+           "number": "U10_003",
+           "name": "Tottenham Hale",
+           "next": "U10_004",
+           "previous": "U10_002",
+           "latitude": 51.588878,
+           "longitude": -0.059808,
+           "correspondance": ""
+       },
+       "U10_004": {
+           "number": "U10_004",
+           "name": "Seven Sisters",
+           "next": "U10_005",
+           "previous": "U10_003",
+           "latitude": 51.58318,
+           "longitude": -0.07495,
+           "correspondance": ""
+       },
+       "U10_005": {
+           "number": "U10_005",
+           "name": "Finsbury Park",
+           "next": "U10_006",
+           "previous": "U10_004",
+           "latitude": 51.56498,
+           "longitude": -0.10543,
+           "correspondance": "[U9]"
+       },
+       "U10_006": {
+           "number": "U10_006",
+           "name": "Highbury & Islington",
+           "next": "U10_007",
+           "previous": "U10_005",
+           "latitude": 51.54502,
+           "longitude": -0.10752,
+           "correspondance": "[U8]"
+       },
+       "U10_007": {
+           "number": "U10_007",
+           "name": "King's Cross St.Pancras",
+           "next": "U10_008",
+           "previous": "U10_006",
+           "latitude": 51.53057,
+           "longitude": -0.12399,
+           "correspondance": "[U8,U7,U5,U9,U3]"
+       },
+       "U10_008": {
+           "number": "U10_008",
+           "name": "Euston",
+           "next": "U10_009",
+           "previous": "U10_007",
+           "latitude": 51.52774,
+           "longitude": -0.13303,
+           "correspondance": "[U8]"
+       },
+       "U10_009": {
+           "number": "U10_009",
+           "name": "Warren Street",
+           "next": "U10_010",
+           "previous": "U10_008",
+           "latitude": 51.5245,
+           "longitude": -0.1381,
+           "correspondance": "[U8]"
+       },
+       "U10_010": {
+           "number": "U10_010",
+           "name": "Oxford Circus",
+           "next": "U10_011",
+           "previous": "U10_009",
+           "latitude": 51.51517,
+           "longitude": -0.14119,
+           "correspondance": ""
+       },
+       "U10_011": {
+           "number": "U10_011",
+           "name": "Green Park",
+           "next": "U10_012",
+           "previous": "U10_010",
+           "latitude": 51.50674,
+           "longitude": -0.14276,
+           "correspondance": "[U6,U9]"
+       },
+       "U10_012": {
+           "number": "U10_012",
+           "name": "Victoria",
+           "next": "U10_013",
+           "previous": "U10_011",
+           "latitude": 51.49662869,
+           "longitude": -0.14400853,
+           "correspondance": "[U3,U4]"
+       },
+       "U10_013": {
+           "number": "U10_013",
+           "name": "Pimlico",
+           "next": "U10_014",
+           "previous": "U10_012",
+           "latitude": 51.489081,
+           "longitude": -0.133037,
+           "correspondance": ""
+       },
+       "U10_014": {
+           "number": "U10_014",
+           "name": "Vauxhall",
+           "next": "U10_015",
+           "previous": "U10_013",
+           "latitude": 51.48603,
+           "longitude": -0.12369,
+           "correspondance": ""
+       },
+       "U10_015": {
+           "number": "U10_015",
+           "name": "Stockwell",
+           "next": "U10_016",
+           "previous": "U10_014",
+           "latitude": 51.47224,
+           "longitude": -0.1227,
+           "correspondance": "[U8]"
+       },
+       "U10_016": {
+           "number": "U10_016",
+           "name": "Brixton",
+           "next": "",
+           "previous": "U10_015",
+           "latitude": 51.46239,
+           "longitude": -0.115421,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "london_u10.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4072,
+           "stub": true
+       }
+   }
+}

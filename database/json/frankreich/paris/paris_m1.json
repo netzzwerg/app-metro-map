@@ -1,0 +1,276 @@
+{
+   "_id": "paris_m1",
+   "_rev": "64-f9b675bef2539e57305142594fd937c2",
+   "city": "Paris",
+   "lineName": "M1",
+   "color": "FFD400",
+   "memos": "Wird bis Ende Juli 2011 komplett automatisiert, wie die M14.",
+   "type": "line",
+   "created_at": "2011-05-06T17:53:13.736Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "La Défense - Grande Arche",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": 48.8913888888889,
+           "longitude": 2.24,
+           "correspondance": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Esplanade de la Défense",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": 48.8883333333333,
+           "longitude": 2.25,
+           "correspondance": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Pont de Neuilly",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": 48.885,
+           "longitude": 2.25972222222222,
+           "correspondance": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Les Sablons",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": 48.8808333333333,
+           "longitude": 2.27222222222222,
+           "correspondance": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Porte Maillot",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": 48.8780555555556,
+           "longitude": 2.28194444444444,
+           "correspondance": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Argentine",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": 48.8753388888889,
+           "longitude": 2.29011388888889,
+           "correspondance": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Charles de Gaulle - Étoile",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": 48.8736111111111,
+           "longitude": 2.29444444444444,
+           "correspondance": [
+               "M2",
+               "M6"
+           ]
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "George V",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": 48.8719444444444,
+           "longitude": 2.30055555555556,
+           "correspondance": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Franklin D. Roosevelt",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": 48.868977,
+           "longitude": 2.30989,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Champs-Élysées - Clemenceau",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": 48.867531,
+           "longitude": 2.313542,
+           "correspondance": [
+               "M13",
+               "M14"
+           ]
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Concorde",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": 48.866176,
+           "longitude": 2.322397,
+           "correspondance": [
+               "M8",
+               "M12"
+           ]
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Tuileries",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": 48.864531,
+           "longitude": 2.329617,
+           "correspondance": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Palais Royal - Musée du Louvre",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": 48.862644,
+           "longitude": 2.336578,
+           "correspondance": [
+               "M7"
+           ]
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Louvre - Rivoli",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": 48.86108,
+           "longitude": 2.340283,
+           "correspondance": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Châtelet",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": 48.858352,
+           "longitude": 2.347324,
+           "correspondance": [
+               "M4",
+               "M7",
+               "M11",
+               "M14"
+           ]
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Hôtel de Ville",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": 48.857487,
+           "longitude": 2.351525,
+           "correspondance": [
+               "M11"
+           ]
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Saint-Paul",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": 48.855214,
+           "longitude": 2.360859,
+           "correspondance": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Bastille",
+           "next": "M1_019",
+           "previous": "M1_017",
+           "latitude": 48.853082,
+           "longitude": 2.369077,
+           "correspondance": [
+               "M5",
+               "M8"
+           ]
+       },
+       "M1_019": {
+           "number": "M1_019",
+           "name": "Gare de Lyon",
+           "next": "M1_020",
+           "previous": "M1_018",
+           "latitude": 48.8447277777778,
+           "longitude": 2.37393055555556,
+           "correspondance": [
+               "M14"
+           ]
+       },
+       "M1_020": {
+           "number": "M1_020",
+           "name": "Reuilly - Diderot",
+           "next": "M1_021",
+           "previous": "M1_019",
+           "latitude": 48.8469444444444,
+           "longitude": 2.38638888888889,
+           "correspondance": [
+               "M8"
+           ]
+       },
+       "M1_021": {
+           "number": "M1_021",
+           "name": "Nation",
+           "next": "M1_022",
+           "previous": "M1_020",
+           "latitude": 48.848389,
+           "longitude": 2.3958,
+           "correspondance": [
+               "M2",
+               "M6",
+               "M9"
+           ]
+       },
+       "M1_022": {
+           "number": "M1_022",
+           "name": "Porte de Vincennes",
+           "next": "M1_023",
+           "previous": "M1_021",
+           "latitude": 48.847326,
+           "longitude": 2.407759,
+           "correspondance": ""
+       },
+       "M1_023": {
+           "number": "M1_023",
+           "name": "Saint-Mandé - Tourelles",
+           "next": "M1_024",
+           "previous": "M1_022",
+           "latitude": 48.8461111111111,
+           "longitude": 2.41888888888889,
+           "correspondance": ""
+       },
+       "M1_024": {
+           "number": "M1_024",
+           "name": "Bérault",
+           "next": "M1_025",
+           "previous": "M1_023",
+           "latitude": 48.8452777777778,
+           "longitude": 2.42833333333333,
+           "correspondance": ""
+       },
+       "M1_025": {
+           "number": "M1_025",
+           "name": "Château de Vincennes",
+           "next": "",
+           "previous": "M1_024",
+           "latitude": 48.8443833333333,
+           "longitude": 2.44013611111111,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m1.png": {
+           "content_type": "image/png",
+           "revpos": 51,
+           "length": 11218,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,237 @@
+{
+   "_id": "lille_m1",
+   "_rev": "23-0efc3d906cd2367839d6f5f3f45c2a4b",
+   "city": "Lille",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "FFCF29",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-21T16:42:38.859Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "C.H.R. B-Calmette",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "50.6080235",
+           "longitude": "3.0390691999999717",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "C.H.R. Oscar Lambret",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "50.6131139",
+           "longitude": "3.0365048999999544",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Porte des Postes",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "50.618412",
+           "longitude": "3.050753",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Wazemmes",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "50.623342",
+           "longitude": "3.051489",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Gambetta",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "50.6265659",
+           "longitude": "3.0524339999999484",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "République Beaux Arts",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "50.6316861",
+           "longitude": "3.060672199999999",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Rihour",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": "50.6355191",
+           "longitude": "3.0628381000000218",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Gare Lille Flandres",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": "50.637528",
+           "longitude": "3.070751",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Caulier",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": "50.636647",
+           "longitude": "3.086893",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Fives",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": "50.633022",
+           "longitude": "3.090622",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Marbrerie",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": "50.629843",
+           "longitude": "3.097738",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Hellemmes",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": "50.627058",
+           "longitude": "3.109217",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Lezennes",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": "50.6253",
+           "longitude": "3.1159",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Pont de Bois",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": "50.624279",
+           "longitude": "3.128058",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "Villeneuve d'Ascq Hôtel de Ville",
+           "next": "M1_016",
+           "previous": "M1_014",
+           "latitude": "50.619197",
+           "longitude": "3.130611",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_016": {
+           "number": "M1_016",
+           "name": "Triolo",
+           "next": "M1_017",
+           "previous": "M1_015",
+           "latitude": "50.6168903",
+           "longitude": "3.140717900000027",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_017": {
+           "number": "M1_017",
+           "name": "Cité Scientifique",
+           "next": "M1_018",
+           "previous": "M1_016",
+           "latitude": "50.6116",
+           "longitude": "3.142479",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_018": {
+           "number": "M1_018",
+           "name": "Villeneuve d'Ascq Quatre Cantons",
+           "next": "",
+           "previous": "M1_017",
+           "latitude": "50.6053891",
+           "longitude": "3.138950799999975",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "lille_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 6296,
+           "stub": true
+       }
+   }
+}

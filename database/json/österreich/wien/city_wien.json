@@ -1,0 +1,10 @@
+{
+   "_id": "city_wien",
+   "_rev": "3-b0afa7e551951e12838828aada18b06b",
+   "country": "Österreich",
+   "cityName": "Wien",
+   "subName": "U-Bahn",
+   "memos": "Hat nicht sehr viele Linien",
+   "type": "city",
+   "created_at": "2011-05-08T17:10:39.911Z"
+}

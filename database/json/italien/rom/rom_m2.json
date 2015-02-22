@@ -1,0 +1,221 @@
+{
+   "_id": "rom_m2",
+   "_rev": "32-bd2f98218a8bc7329aa5475fc96edf26",
+   "city": "Rom",
+   "lineName": "M2",
+   "lineNameShow": "MB",
+   "color": "0071BE",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-22T10:07:16.030Z",
+   "stations": {
+       "M2_001": {
+           "number": "M2_001",
+           "name": "Laurentina",
+           "next": "M2_002",
+           "previous": "",
+           "latitude": 41.82704,
+           "longitude": 12.48034,
+           "correspondance": ""
+       },
+       "M2_002": {
+           "number": "M2_002",
+           "name": "EUR Fermi",
+           "next": "M2_003",
+           "previous": "M2_001",
+           "latitude": 41.8289851,
+           "longitude": 12.470580899999959,
+           "correspondance": ""
+       },
+       "M2_003": {
+           "number": "M2_003",
+           "name": "EUR Palasport",
+           "next": "M2_004",
+           "previous": "M2_002",
+           "latitude": 41.8299767,
+           "longitude": 12.46720890000006,
+           "correspondance": ""
+       },
+       "M2_004": {
+           "number": "M2_004",
+           "name": "EUR Magliana",
+           "next": "M2_005",
+           "previous": "M2_003",
+           "latitude": 41.839477,
+           "longitude": 12.463183,
+           "correspondance": ""
+       },
+       "M2_005": {
+           "number": "M2_005",
+           "name": "Marconi",
+           "next": "M2_006",
+           "previous": "M2_004",
+           "latitude": 41.8493344,
+           "longitude": 12.475588399999992,
+           "correspondance": ""
+       },
+       "M2_006": {
+           "number": "M2_006",
+           "name": "Basilica San Paolo",
+           "next": "M2_007",
+           "previous": "M2_005",
+           "latitude": 41.855805,
+           "longitude": 12.47805,
+           "correspondance": ""
+       },
+       "M2_007": {
+           "number": "M2_007",
+           "name": "Garbatella",
+           "next": "M2_008",
+           "previous": "M2_006",
+           "latitude": 41.866584,
+           "longitude": 12.483161,
+           "correspondance": ""
+       },
+       "M2_008": {
+           "number": "M2_008",
+           "name": "Piramide",
+           "next": "M2_009",
+           "previous": "M2_007",
+           "latitude": 41.8748,
+           "longitude": 12.4825,
+           "correspondance": ""
+       },
+       "M2_009": {
+           "number": "M2_009",
+           "name": "Circo Massimo",
+           "next": "M2_010",
+           "previous": "M2_008",
+           "latitude": 41.883564,
+           "longitude": 12.487378,
+           "correspondance": ""
+       },
+       "M2_010": {
+           "number": "M2_010",
+           "name": "Colosseo",
+           "next": "M2_011",
+           "previous": "M2_009",
+           "latitude": 41.8916631,
+           "longitude": 12.491548200000011,
+           "correspondance": ""
+       },
+       "M2_011": {
+           "number": "M2_011",
+           "name": "Cavour",
+           "next": "M2_012",
+           "previous": "M2_010",
+           "latitude": 41.8948885,
+           "longitude": 12.493545199999971,
+           "correspondance": ""
+       },
+       "M2_012": {
+           "number": "M2_012",
+           "name": "Termini",
+           "next": "M2_013",
+           "previous": "M2_011",
+           "latitude": 41.9013687,
+           "longitude": 12.500536399999987,
+           "correspondance": [
+               "M1"
+           ]
+       },
+       "M2_013": {
+           "number": "M2_013",
+           "name": "Castro Pretorio",
+           "next": "M2_014",
+           "previous": "M2_012",
+           "latitude": 41.906399,
+           "longitude": 12.506395,
+           "correspondance": ""
+       },
+       "M2_014": {
+           "number": "M2_014",
+           "name": "Policlinico",
+           "next": "M2_015",
+           "previous": "M2_013",
+           "latitude": 41.909232,
+           "longitude": 12.510904,
+           "correspondance": ""
+       },
+       "M2_015": {
+           "number": "M2_015",
+           "name": "Bologna",
+           "next": "M2_016",
+           "previous": "M2_014",
+           "latitude": 41.9135609,
+           "longitude": 12.520659499999965,
+           "correspondance": ""
+       },
+       "M2_016": {
+           "number": "M2_016",
+           "name": "Tiburtina",
+           "next": "M2_017",
+           "previous": "M2_015",
+           "latitude": 41.910933,
+           "longitude": 12.529293,
+           "correspondance": ""
+       },
+       "M2_017": {
+           "number": "M2_017",
+           "name": "Quinttiliani",
+           "next": "M2_018",
+           "previous": "M2_016",
+           "latitude": 41.915546,
+           "longitude": 12.538014,
+           "correspondance": ""
+       },
+       "M2_018": {
+           "number": "M2_018",
+           "name": "Monti Tiburtini",
+           "next": "M2_019",
+           "previous": "M2_017",
+           "latitude": 41.915832,
+           "longitude": 12.547593,
+           "correspondance": ""
+       },
+       "M2_019": {
+           "number": "M2_019",
+           "name": "Pietralata",
+           "next": "M2_020",
+           "previous": "M2_018",
+           "latitude": 41.914704,
+           "longitude": 12.555093,
+           "correspondance": ""
+       },
+       "M2_020": {
+           "number": "M2_020",
+           "name": "Santa Maria del Soccorso",
+           "next": "M2_021",
+           "previous": "M2_019",
+           "latitude": 41.915557,
+           "longitude": 12.560891,
+           "correspondance": ""
+       },
+       "M2_021": {
+           "number": "M2_021",
+           "name": "Ponte Mammolo",
+           "next": "M2_022",
+           "previous": "M2_020",
+           "latitude": 41.920794,
+           "longitude": 12.565189,
+           "correspondance": ""
+       },
+       "M2_022": {
+           "number": "M2_022",
+           "name": "Rebibbia",
+           "next": "",
+           "previous": "M2_021",
+           "latitude": 41.92585,
+           "longitude": 12.573144,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "rom_mb.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 23747,
+           "stub": true
+       }
+   }
+}

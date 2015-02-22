@@ -1,0 +1,333 @@
+{
+   "_id": "hamburg_u3",
+   "_rev": "31-2d30b43ba1958de96adc16f16db3379e",
+   "city": "Hamburg",
+   "lineName": "U3",
+   "color": "FFDD00",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T10:43:09.722Z",
+   "stations": {
+       "U3_001": {
+           "number": "U3_001",
+           "name": "Barmbek",
+           "next": "U3_002",
+           "previous": "",
+           "latitude": "53.587566",
+           "longitude": "10.044591",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_002": {
+           "number": "U3_002",
+           "name": "Saarlandstraße",
+           "next": "U3_003",
+           "previous": "U3_001",
+           "latitude": "53.589145",
+           "longitude": "10.031931",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_003": {
+           "number": "U3_003",
+           "name": "Borgweg",
+           "next": "U3_004",
+           "previous": "U3_002",
+           "latitude": "53.590744",
+           "longitude": "10.014588",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_004": {
+           "number": "U3_004",
+           "name": "Sierichstraße",
+           "next": "U3_005",
+           "previous": "U3_003",
+           "latitude": "53.590397",
+           "longitude": "10.001212",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_005": {
+           "number": "U3_005",
+           "name": "Kellinghusenstraße",
+           "next": "U3_006",
+           "previous": "U3_004",
+           "latitude": "53.588773",
+           "longitude": "9.990783",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U3_006": {
+           "number": "U3_006",
+           "name": "Eppendorfer Baum",
+           "next": "U3_007",
+           "previous": "U3_005",
+           "latitude": "53.583773",
+           "longitude": "9.985159",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_007": {
+           "number": "U3_007",
+           "name": "Hoheluftbrücke",
+           "next": "U3_008",
+           "previous": "U3_006",
+           "latitude": "53.577488",
+           "longitude": "9.976006",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_008": {
+           "number": "U3_008",
+           "name": "Schlump",
+           "next": "U3_009",
+           "previous": "U3_007",
+           "latitude": "53.5679465",
+           "longitude": "9.969926499999929",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U3_009": {
+           "number": "U3_009",
+           "name": "Sternschanze",
+           "next": "U3_010",
+           "previous": "U3_008",
+           "latitude": "53.564291",
+           "longitude": "9.968975",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_010": {
+           "number": "U3_010",
+           "name": "Feldstraße",
+           "next": "U3_011",
+           "previous": "U3_009",
+           "latitude": "53.556921",
+           "longitude": "9.968617",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_011": {
+           "number": "U3_011",
+           "name": "St.Pauli",
+           "next": "U3_012",
+           "previous": "U3_010",
+           "latitude": "53.550313",
+           "longitude": "9.970096",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_012": {
+           "number": "U3_012",
+           "name": "Landungsbrücken",
+           "next": "U3_013",
+           "previous": "U3_011",
+           "latitude": "53.546045",
+           "longitude": "9.970651",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_013": {
+           "number": "U3_013",
+           "name": "Baumwall",
+           "next": "U3_014",
+           "previous": "U3_012",
+           "latitude": "53.544221",
+           "longitude": "9.981456",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_014": {
+           "number": "U3_014",
+           "name": "Rödingsmarkt",
+           "next": "U3_015",
+           "previous": "U3_013",
+           "latitude": "53.548309",
+           "longitude": "9.986877",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_015": {
+           "number": "U3_015",
+           "name": "Rathaus",
+           "next": "U3_016",
+           "previous": "U3_014",
+           "latitude": "53.5501886",
+           "longitude": "9.9935246",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_016": {
+           "number": "U3_016",
+           "name": "Mönckebergstraße",
+           "next": "U3_017",
+           "previous": "U3_015",
+           "latitude": "53.551306",
+           "longitude": "10.001304",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_017": {
+           "number": "U3_017",
+           "name": "Hauptbahnhof Süd",
+           "next": "U3_018",
+           "previous": "U3_016",
+           "latitude": "53.552292",
+           "longitude": "10.00983240000005",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U3_018": {
+           "number": "U3_018",
+           "name": "Berliner Tor",
+           "next": "U3_019",
+           "previous": "U3_017",
+           "latitude": "53.55339",
+           "longitude": "10.022566",
+           "correspondance": [
+               "U2",
+               "U4"
+           ],
+           "memos": ""
+       },
+       "U3_019": {
+           "number": "U3_019",
+           "name": "Lübecker Straße",
+           "next": "U3_020",
+           "previous": "U3_018",
+           "latitude": "53.559801",
+           "longitude": "10.028727",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U3_020": {
+           "number": "U3_020",
+           "name": "Uhlandstraße",
+           "next": "U3_021",
+           "previous": "U3_019",
+           "latitude": "53.564702",
+           "longitude": "10.026669",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_021": {
+           "number": "U3_021",
+           "name": "Mundsburg",
+           "next": "U3_022",
+           "previous": "U3_020",
+           "latitude": "53.5696",
+           "longitude": "10.027149",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_022": {
+           "number": "U3_022",
+           "name": "Hamburger Straße",
+           "next": "U3_023",
+           "previous": "U3_021",
+           "latitude": "53.574507",
+           "longitude": "10.037111",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_023": {
+           "number": "U3_023",
+           "name": "Dehnhaide",
+           "next": "U3_024",
+           "previous": "U3_022",
+           "latitude": "53.57921",
+           "longitude": "10.040853",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_024": {
+           "number": "U3_024",
+           "name": "Barmbek",
+           "next": "U3_025",
+           "previous": "U3_023",
+           "latitude": "53.587565",
+           "longitude": "10.044635",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_025": {
+           "number": "U3_025",
+           "name": "Habichtstraße",
+           "next": "U3_026",
+           "previous": "U3_024",
+           "latitude": "53.593656",
+           "longitude": "10.052524",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U3_026": {
+           "number": "U3_026",
+           "name": "Wandsbek Gartenstadt",
+           "next": "",
+           "previous": "U3_025",
+           "latitude": "53.5924348",
+           "longitude": "10.07462380000004",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "hamburg_u3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 5702,
+           "stub": true
+       }
+   }
+}

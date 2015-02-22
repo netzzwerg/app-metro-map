@@ -1,0 +1,10 @@
+{
+   "_id": "city_genua",
+   "_rev": "1-519964132e94c413cca661938fbaa568",
+   "country": "Italien",
+   "cityName": "Genua",
+   "subName": "Metropolitana",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-20T10:11:13.478Z"
+}

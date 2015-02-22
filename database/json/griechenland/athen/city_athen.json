@@ -1,0 +1,10 @@
+{
+   "_id": "city_athen",
+   "_rev": "1-e9b6cd218b333cef34ab0b4a2c586b91",
+   "country": "Griechenland",
+   "cityName": "Athen",
+   "subName": "Metro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-19T19:29:19.308Z"
+}

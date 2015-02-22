@@ -1,0 +1,105 @@
+{
+   "_id": "genua_m1",
+   "_rev": "15-580660aa7eff341d13f734b10b96b7fc",
+   "city": "Genua",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "E60321",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T10:11:36.568Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "Brin",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": "44.428604",
+           "longitude": "8.894928",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Dinegro",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": "44.413786",
+           "longitude": "8.911733",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Principe",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": "44.416892",
+           "longitude": "8.918998",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Darsena",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": "44.413366",
+           "longitude": "8.926662",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "San Giorgio",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": "44.408894",
+           "longitude": "8.92863",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "Sarzano/S.Agostino",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": "44.404215",
+           "longitude": "8.931837",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "De Ferrari",
+           "next": "",
+           "previous": "M1_006",
+           "latitude": "44.40771",
+           "longitude": "8.934187",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "genua_m1.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 6519,
+           "stub": true
+       }
+   }
+}

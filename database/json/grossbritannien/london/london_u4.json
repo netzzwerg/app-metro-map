@@ -1,0 +1,579 @@
+{
+   "_id": "london_u4",
+   "_rev": "10-8a0fd54e1e9c6a963c0339f112fbb2cf",
+   "city": "London",
+   "lineName": "U4",
+   "lineNameShow": "District",
+   "color": "00A575",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T09:20:56.432Z",
+   "stations": {
+       "U4_001": {
+           "number": "U4_001",
+           "name": "Upminster",
+           "next": "U4_002",
+           "previous": "",
+           "latitude": 51.55925,
+           "longitude": 0.25177,
+           "correspondance": ""
+       },
+       "U4_002": {
+           "number": "U4_002",
+           "name": "Upminster Bridge",
+           "next": "U4_003",
+           "previous": "U4_001",
+           "latitude": 51.55847,
+           "longitude": 0.23509,
+           "correspondance": ""
+       },
+       "U4_003": {
+           "number": "U4_003",
+           "name": "Hornchurch",
+           "next": "U4_004",
+           "previous": "U4_002",
+           "latitude": 51.55387,
+           "longitude": 0.21797,
+           "correspondance": ""
+       },
+       "U4_004": {
+           "number": "U4_004",
+           "name": "Elm Park",
+           "next": "U4_005",
+           "previous": "U4_003",
+           "latitude": 51.54969,
+           "longitude": 0.19779,
+           "correspondance": ""
+       },
+       "U4_005": {
+           "number": "U4_005",
+           "name": "Dagenham East",
+           "next": "U4_006",
+           "previous": "U4_004",
+           "latitude": 51.54396,
+           "longitude": 0.16439,
+           "correspondance": ""
+       },
+       "U4_006": {
+           "number": "U4_006",
+           "name": "Dagenham Heathway",
+           "next": "U4_007",
+           "previous": "U4_005",
+           "latitude": 51.54173,
+           "longitude": 0.14543,
+           "correspondance": ""
+       },
+       "U4_007": {
+           "number": "U4_007",
+           "name": "Becontree",
+           "next": "U4_008",
+           "previous": "U4_006",
+           "latitude": 51.54029,
+           "longitude": 0.1262,
+           "correspondance": ""
+       },
+       "U4_008": {
+           "number": "U4_008",
+           "name": "Upney",
+           "next": "U4_009",
+           "previous": "U4_007",
+           "latitude": 51.53824,
+           "longitude": 0.09998,
+           "correspondance": ""
+       },
+       "U4_009": {
+           "number": "U4_009",
+           "name": "Barking",
+           "next": "U4_010",
+           "previous": "U4_008",
+           "latitude": 51.54079,
+           "longitude": 0.08018,
+           "correspondance": ""
+       },
+       "U4_010": {
+           "number": "U4_010",
+           "name": "East Ham",
+           "next": "U4_011",
+           "previous": "U4_009",
+           "latitude": 51.53931,
+           "longitude": 0.0526,
+           "correspondance": "[U5]"
+       },
+       "U4_011": {
+           "number": "U4_011",
+           "name": "Upton Park",
+           "next": "U4_012",
+           "previous": "U4_010",
+           "latitude": 51.53514,
+           "longitude": 0.03373,
+           "correspondance": "[U5]"
+       },
+       "U4_012": {
+           "number": "U4_012",
+           "name": "Plaistow",
+           "next": "U4_013",
+           "previous": "U4_011",
+           "latitude": 51.53122,
+           "longitude": 0.01659,
+           "correspondance": "[U5]"
+       },
+       "U4_013": {
+           "number": "U4_013",
+           "name": "West Ham",
+           "next": "U4_014",
+           "previous": "U4_012",
+           "latitude": 51.527917,
+           "longitude": 0.004141,
+           "correspondance": "[U5,U6]"
+       },
+       "U4_014": {
+           "number": "U4_014",
+           "name": "Bromley-by-Bow",
+           "next": "U4_015",
+           "previous": "U4_013",
+           "latitude": 51.52466,
+           "longitude": -0.01282,
+           "correspondance": "[U5]"
+       },
+       "U4_015": {
+           "number": "U4_015",
+           "name": "Bow Road",
+           "next": "U4_016",
+           "previous": "U4_014",
+           "latitude": 51.52709,
+           "longitude": -0.02482,
+           "correspondance": "[U5]"
+       },
+       "U4_016": {
+           "number": "U4_016",
+           "name": "Mile End",
+           "next": "U4_017",
+           "previous": "U4_015",
+           "latitude": 51.525306,
+           "longitude": -0.033471,
+           "correspondance": "[U2,U5]"
+       },
+       "U4_017": {
+           "number": "U4_017",
+           "name": "Stepney Green",
+           "next": "U4_018",
+           "previous": "U4_016",
+           "latitude": 51.521884,
+           "longitude": -0.046546,
+           "correspondance": "[U5]"
+       },
+       "U4_018": {
+           "number": "U4_018",
+           "name": "Whitechapel",
+           "next": "U4_019",
+           "previous": "U4_017",
+           "latitude": 51.51946,
+           "longitude": -0.05951,
+           "correspondance": "[U5]"
+       },
+       "U4_019": {
+           "number": "U4_019",
+           "name": "Aldgate East",
+           "next": "U4_020",
+           "previous": "U4_018",
+           "latitude": 51.51514,
+           "longitude": -0.07178,
+           "correspondance": "[U5]"
+       },
+       "U4_020": {
+           "number": "U4_020",
+           "name": "Tower Hill",
+           "next": "U4_021",
+           "previous": "U4_019",
+           "latitude": 51.50991,
+           "longitude": -0.076813,
+           "correspondance": "[U3]"
+       },
+       "U4_021": {
+           "number": "U4_021",
+           "name": "Monument",
+           "next": "U4_022",
+           "previous": "U4_020",
+           "latitude": 51.510165,
+           "longitude": -0.085991,
+           "correspondance": "[U3]"
+       },
+       "U4_022": {
+           "number": "U4_022",
+           "name": "Cannon Street",
+           "next": "U4_023",
+           "previous": "U4_021",
+           "latitude": 51.51141,
+           "longitude": -0.09047,
+           "correspondance": "[U3]"
+       },
+       "U4_023": {
+           "number": "U4_023",
+           "name": "Mansion House",
+           "next": "U4_024",
+           "previous": "U4_022",
+           "latitude": 51.51256,
+           "longitude": -0.09397,
+           "correspondance": "[U3]"
+       },
+       "U4_024": {
+           "number": "U4_024",
+           "name": "Blackfriars",
+           "next": "U4_025",
+           "previous": "U4_023",
+           "latitude": 51.5114403,
+           "longitude": -0.1041905,
+           "correspondance": "[U3]"
+       },
+       "U4_025": {
+           "number": "U4_025",
+           "name": "Temple",
+           "next": "U4_026",
+           "previous": "U4_024",
+           "latitude": 51.51114,
+           "longitude": -0.11341,
+           "correspondance": "[U3]"
+       },
+       "U4_026": {
+           "number": "U4_026",
+           "name": "Embankment",
+           "next": "U4_027",
+           "previous": "U4_025",
+           "latitude": 51.50717,
+           "longitude": -0.12195,
+           "correspondance": ""
+       },
+       "U4_027": {
+           "number": "U4_027",
+           "name": "Westminster",
+           "next": "U4_028",
+           "previous": "U4_026",
+           "latitude": 51.50121,
+           "longitude": -0.12489,
+           "correspondance": "[U6,U3]"
+       },
+       "U4_028": {
+           "number": "U4_028",
+           "name": "St. James's Park",
+           "next": "U4_029",
+           "previous": "U4_027",
+           "latitude": 51.49971,
+           "longitude": -0.13394,
+           "correspondance": "[U3]"
+       },
+       "U4_029": {
+           "number": "U4_029",
+           "name": "Victoria",
+           "next": "U4_030",
+           "previous": "U4_028",
+           "latitude": 51.49662869,
+           "longitude": -0.14400853,
+           "correspondance": "[U3,U10]"
+       },
+       "U4_030": {
+           "number": "U4_030",
+           "name": "Sloane Square",
+           "next": "U4_031",
+           "previous": "U4_029",
+           "latitude": 51.49258474,
+           "longitude": -0.156090904,
+           "correspondance": "[U2]"
+       },
+       "U4_031": {
+           "number": "U4_031",
+           "name": "South Kensington",
+           "next": "U4_032",
+           "previous": "U4_030",
+           "latitude": 51.494066,
+           "longitude": -0.172791,
+           "correspondance": "[U9,U3]"
+       },
+       "U4_032": {
+           "number": "U4_032",
+           "name": "Gloucester Road",
+           "next": "U4_033",
+           "previous": "U4_031",
+           "latitude": 51.49408266,
+           "longitude": -0.17295341,
+           "correspondance": "[U3,U9]"
+       },
+       "U4_033": {
+           "number": "U4_033",
+           "name": "Earl's Court",
+           "next": "U4_034",
+           "previous": "U4_032",
+           "latitude": 51.491521,
+           "longitude": -0.193906,
+           "correspondance": "[U9]"
+       },
+       "U4_034": {
+           "number": "U4_034",
+           "name": "West Kensington",
+           "next": "U4_035",
+           "previous": "U4_033",
+           "latitude": 51.49085,
+           "longitude": -0.20532,
+           "correspondance": ""
+       },
+       "U4_035": {
+           "number": "U4_035",
+           "name": "Barons Court",
+           "next": "U4_036",
+           "previous": "U4_034",
+           "latitude": 51.490281,
+           "longitude": -0.21434,
+           "correspondance": "[U9,U3]"
+       },
+       "U4_036": {
+           "number": "U4_036",
+           "name": "Hammersmith",
+           "next": "U4_037",
+           "previous": "U4_035",
+           "latitude": 51.492328,
+           "longitude": -0.222825,
+           "correspondance": "[U9]"
+       },
+       "U4_037": {
+           "number": "U4_037",
+           "name": "Ravenscourt Park",
+           "next": "U4_038",
+           "previous": "U4_036",
+           "latitude": 51.49419,
+           "longitude": -0.2356,
+           "correspondance": ""
+       },
+       "U4_038": {
+           "number": "U4_038",
+           "name": "Stamford Brook",
+           "next": "U4_039",
+           "previous": "U4_037",
+           "latitude": 51.494935,
+           "longitude": -0.24619,
+           "correspondance": ""
+       },
+       "U4_039": {
+           "number": "U4_039",
+           "name": "Turnham Green",
+           "next": "U4_040",
+           "previous": "U4_038",
+           "latitude": 51.495143,
+           "longitude": -0.25406,
+           "correspondance": "[U9]"
+       },
+       "U4_040": {
+           "number": "U4_040",
+           "name": "Chiswick Park",
+           "next": "U4_041",
+           "previous": "U4_039",
+           "latitude": 51.49466,
+           "longitude": -0.26866,
+           "correspondance": ""
+       },
+       "U4_041": {
+           "number": "U4_041",
+           "name": "Acton Town",
+           "next": "U4_042",
+           "previous": "U4_040",
+           "latitude": 51.5025,
+           "longitude": -0.278126,
+           "correspondance": "[U9]"
+       },
+       "U4_042": {
+           "number": "U4_042",
+           "name": "Ealing Common",
+           "next": "U4_043",
+           "previous": "U4_041",
+           "latitude": 51.50997,
+           "longitude": -0.28825,
+           "correspondance": "[U9]"
+       },
+       "U4_043": {
+           "number": "U4_043",
+           "name": "Ealing Broadway",
+           "next": "",
+           "previous": "U4_042",
+           "latitude": 51.51482,
+           "longitude": -0.30118,
+           "correspondance": ""
+       },
+       "U4_044": {
+           "number": "U4_044",
+           "name": "Wimbledon",
+           "next": "U4_045",
+           "previous": "",
+           "latitude": 51.422,
+           "longitude": -0.20544,
+           "correspondance": ""
+       },
+       "U4_045": {
+           "number": "U4_045",
+           "name": "Wimbledon Park",
+           "next": "U4_046",
+           "previous": "U4_044",
+           "latitude": 51.43391,
+           "longitude": -0.19864,
+           "correspondance": ""
+       },
+       "U4_046": {
+           "number": "U4_046",
+           "name": "Southfields",
+           "next": "U4_047",
+           "previous": "U4_045",
+           "latitude": 51.444941,
+           "longitude": -0.206466,
+           "correspondance": ""
+       },
+       "U4_047": {
+           "number": "U4_047",
+           "name": "East Putney",
+           "next": "U4_048",
+           "previous": "U4_046",
+           "latitude": 51.459015,
+           "longitude": -0.211138,
+           "correspondance": ""
+       },
+       "U4_048": {
+           "number": "U4_048",
+           "name": "Putney Bridge",
+           "next": "U4_049",
+           "previous": "U4_047",
+           "latitude": 51.46868,
+           "longitude": -0.2088141,
+           "correspondance": ""
+       },
+       "U4_049": {
+           "number": "U4_049",
+           "name": "Parsons Green",
+           "next": "U4_050",
+           "previous": "U4_048",
+           "latitude": 51.47488,
+           "longitude": -0.20205,
+           "correspondance": ""
+       },
+       "U4_050": {
+           "number": "U4_050",
+           "name": "Fulham Broadway",
+           "next": "U4_051",
+           "previous": "U4_049",
+           "latitude": 51.48033,
+           "longitude": -0.19488,
+           "correspondance": ""
+       },
+       "U4_051": {
+           "number": "U4_051",
+           "name": "West Brompton",
+           "next": "U4_053",
+           "previous": "U4_050",
+           "latitude": 51.48681,
+           "longitude": -0.19475,
+           "correspondance": ""
+       },
+       "U4_052": {
+           "number": "U4_052",
+           "name": "Earl's Court",
+           "next": "U4_053",
+           "previous": "U4_051",
+           "latitude": 51.491521,
+           "longitude": -0.193906,
+           "correspondance": "[U9]"
+       },
+       "U4_053": {
+           "number": "U4_053",
+           "name": "High Street Kensington",
+           "next": "U4_054",
+           "previous": "U4_052",
+           "latitude": 51.5003459144,
+           "longitude": -0.192351664,
+           "correspondance": "[U3]"
+       },
+       "U4_054": {
+           "number": "U4_054",
+           "name": "Notting Hill Gate",
+           "next": "U4_055",
+           "previous": "U4_053",
+           "latitude": 51.509028,
+           "longitude": -0.1962847,
+           "correspondance": ""
+       },
+       "U4_055": {
+           "number": "U4_055",
+           "name": "Bayswater",
+           "next": "U4_056",
+           "previous": "U4_054",
+           "latitude": 51.51224,
+           "longitude": -0.187569,
+           "correspondance": "[U3]"
+       },
+       "U4_056": {
+           "number": "U4_056",
+           "name": "Paddington",
+           "next": "U4_057",
+           "previous": "U4_055",
+           "latitude": 51.5151846554,
+           "longitude": -0.17553880792,
+           "correspondance": "[U3,U5]"
+       },
+       "U4_057": {
+           "number": "U4_057",
+           "name": "Edgware Road",
+           "next": "",
+           "previous": "U4_056",
+           "latitude": 51.520195,
+           "longitude": -0.166986,
+           "correspondance": "[U3,U5]"
+       },
+       "U4_058": {
+           "number": "U4_058",
+           "name": "Richmond",
+           "next": "U4_059",
+           "previous": "",
+           "latitude": 51.46343247,
+           "longitude": -0.302033247,
+           "correspondance": ""
+       },
+       "U4_059": {
+           "number": "U4_059",
+           "name": "Kew Gardens",
+           "next": "U4_060",
+           "previous": "U4_058",
+           "latitude": 51.47725641,
+           "longitude": -0.284980014,
+           "correspondance": ""
+       },
+       "U4_060": {
+           "number": "U4_060",
+           "name": "Gunnersbury",
+           "next": "U4_061",
+           "previous": "U4_059",
+           "latitude": 51.49126844,
+           "longitude": -0.275554312,
+           "correspondance": ""
+       },
+       "U4_061": {
+           "number": "U4_061",
+           "name": "Turnham Green",
+           "next": "",
+           "previous": "U4_060",
+           "latitude": 51.495143,
+           "longitude": -0.25406,
+           "correspondance": "[U9]"
+       },
+       "U4_062": {
+           "number": "U4_062",
+           "name": "Kensington (Olympia)",
+           "next": "",
+           "previous": "U4_033",
+           "latitude": 51.49675,
+           "longitude": -0.20931,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "london_u4.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4006,
+           "stub": true
+       }
+   }
+}

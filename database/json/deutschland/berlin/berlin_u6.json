@@ -1,0 +1,369 @@
+{
+   "_id": "berlin_u6",
+   "_rev": "41-3a76d8b71292f4e417100820b0e2f75d",
+   "city": "Berlin",
+   "lineName": "U6",
+   "lineNameShow": "U6",
+   "color": "8172AD",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:18:04.000Z",
+   "stations": {
+       "U6_001": {
+           "number": "U6_001",
+           "name": "Alt-Tegel",
+           "next": "U6_002",
+           "previous": "",
+           "latitude": "52.5890",
+           "longitude": "13.2846",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_002": {
+           "number": "U6_002",
+           "name": "Borsigwerke",
+           "next": "U6_003",
+           "previous": "U6_001",
+           "latitude": "52.581885",
+           "longitude": "13.290774800000008",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_003": {
+           "number": "U6_003",
+           "name": "Holzhauser Straße",
+           "next": "U6_004",
+           "previous": "U6_002",
+           "latitude": "52.575311",
+           "longitude": "13.295651",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_004": {
+           "number": "U6_004",
+           "name": "Otisstraße",
+           "next": "U6_005",
+           "previous": "U6_003",
+           "latitude": "52.570963",
+           "longitude": "13.303053",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_005": {
+           "number": "U6_005",
+           "name": "Scharnweberstraße",
+           "next": "U6_006",
+           "previous": "U6_004",
+           "latitude": "52.567608",
+           "longitude": "13.312348",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_006": {
+           "number": "U6_006",
+           "name": "Kurt-Schumacher-Platz",
+           "next": "U6_007",
+           "previous": "U6_005",
+           "latitude": "52.563993",
+           "longitude": "13.327344",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_007": {
+           "number": "U6_007",
+           "name": "Afrikanische Straße",
+           "next": "U6_008",
+           "previous": "U6_006",
+           "latitude": "52.560535",
+           "longitude": "13.33358",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_008": {
+           "number": "U6_008",
+           "name": "Rehberge",
+           "next": "U6_009",
+           "previous": "U6_007",
+           "latitude": "52.5568",
+           "longitude": "13.3412",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_009": {
+           "number": "U6_009",
+           "name": "Seestraße",
+           "next": "U6_010",
+           "previous": "U6_008",
+           "latitude": "52.549993",
+           "longitude": "13.352157",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_010": {
+           "number": "U6_010",
+           "name": "Leopoldplatz",
+           "next": "U6_011",
+           "previous": "U6_009",
+           "latitude": "52.546434",
+           "longitude": "13.359719",
+           "correspondance": [
+               "U9"
+           ],
+           "memos": ""
+       },
+       "U6_011": {
+           "number": "U6_011",
+           "name": "Wedding",
+           "next": "U6_012",
+           "previous": "U6_010",
+           "latitude": "52.542224",
+           "longitude": "13.365877",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_012": {
+           "number": "U6_012",
+           "name": "Reinickendorfer Straße",
+           "next": "U6_013",
+           "previous": "U6_011",
+           "latitude": "52.539929",
+           "longitude": "13.369899",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_013": {
+           "number": "U6_013",
+           "name": "Schwartzkopffstraße",
+           "next": "U6_014",
+           "previous": "U6_012",
+           "latitude": "52.535002",
+           "longitude": "13.377322",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_014": {
+           "number": "U6_014",
+           "name": "Naturkundemuseum",
+           "next": "U6_015",
+           "previous": "U6_013",
+           "latitude": "52.531265",
+           "longitude": "13.381911",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_015": {
+           "number": "U6_015",
+           "name": "Oranienburger Tor",
+           "next": "U6_016",
+           "previous": "U6_014",
+           "latitude": "52.5253",
+           "longitude": "13.3870",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_016": {
+           "number": "U6_016",
+           "name": "Friedrichstraße",
+           "next": "U6_017",
+           "previous": "U6_015",
+           "latitude": "52.519646",
+           "longitude": "13.388134",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_017": {
+           "number": "U6_017",
+           "name": "Französische Straße",
+           "next": "U6_018",
+           "previous": "U6_016",
+           "latitude": "52.51466",
+           "longitude": "13.389049",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_018": {
+           "number": "U6_018",
+           "name": "Stadtmitte",
+           "next": "U6_019",
+           "previous": "U6_017",
+           "latitude": "52.510527",
+           "longitude": "13.390017",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U6_019": {
+           "number": "U6_019",
+           "name": "Kochstraße",
+           "next": "U6_020",
+           "previous": "U6_018",
+           "latitude": "52.506147",
+           "longitude": "13.390741",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_020": {
+           "number": "U6_020",
+           "name": "Hallesches Tor",
+           "next": "U6_021",
+           "previous": "U6_019",
+           "latitude": "52.4977076",
+           "longitude": "13.390703199999962",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U6_021": {
+           "number": "U6_021",
+           "name": "Mehringdamm",
+           "next": "U6_022",
+           "previous": "U6_020",
+           "latitude": "52.494124",
+           "longitude": "13.388884",
+           "correspondance": [
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U6_022": {
+           "number": "U6_022",
+           "name": "Platz der Luftbrücke",
+           "next": "U6_023",
+           "previous": "U6_021",
+           "latitude": "52.485112",
+           "longitude": "13.386185",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_023": {
+           "number": "U6_023",
+           "name": "Paradestraße",
+           "next": "U6_024",
+           "previous": "U6_022",
+           "latitude": "52.478263",
+           "longitude": "13.385597",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_024": {
+           "number": "U6_024",
+           "name": "Tempelhof",
+           "next": "U6_025",
+           "previous": "U6_023",
+           "latitude": "52.469965",
+           "longitude": "13.385879",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_025": {
+           "number": "U6_025",
+           "name": "Alt-Tempelhof",
+           "next": "U6_026",
+           "previous": "U6_024",
+           "latitude": "52.466033",
+           "longitude": "13.385887",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_026": {
+           "number": "U6_026",
+           "name": "Kauserin-Augusta-Straße",
+           "next": "U6_027",
+           "previous": "U6_025",
+           "latitude": "52.459811",
+           "longitude": "13.379001000000017",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_027": {
+           "number": "U6_027",
+           "name": "Ullsteinstraße",
+           "next": "U6_028",
+           "previous": "U6_026",
+           "latitude": "52.452915",
+           "longitude": "13.384732",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_028": {
+           "number": "U6_028",
+           "name": "Westphalweg",
+           "next": "U6_029",
+           "previous": "U6_027",
+           "latitude": "52.446385",
+           "longitude": "13.386086",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U6_029": {
+           "number": "U6_029",
+           "name": "Alt-Mariendorf",
+           "next": "",
+           "previous": "U6_028",
+           "latitude": "52.439588",
+           "longitude": "13.387854",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u6.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 84352,
+           "stub": true
+       }
+   }
+}

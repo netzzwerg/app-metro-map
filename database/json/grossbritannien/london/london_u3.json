@@ -1,0 +1,336 @@
+{
+   "_id": "london_u3",
+   "_rev": "4-e9f381bb1427696beb229a7d5d3f00f0",
+   "city": "London",
+   "lineName": "U3",
+   "lineNameShow": "Circle",
+   "color": "F8D42D",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T09:11:34.754Z",
+   "stations": {
+       "U3_001": {
+           "number": "U3_001",
+           "name": "Edgware Road",
+           "next": "U3_002",
+           "previous": "",
+           "latitude": 51.520195,
+           "longitude": -0.166986,
+           "correspondance": "[U5,U4]"
+       },
+       "U3_002": {
+           "number": "U3_002",
+           "name": "Baker Street",
+           "next": "U3_003",
+           "previous": "U3_001",
+           "latitude": 51.52265,
+           "longitude": -0.15704,
+           "correspondance": "[U1,U5,U6]"
+       },
+       "U3_003": {
+           "number": "U3_003",
+           "name": "Great Portland Street",
+           "next": "U3_004",
+           "previous": "U3_002",
+           "latitude": 51.52391,
+           "longitude": -0.14397,
+           "correspondance": "[U7,U5]"
+       },
+       "U3_004": {
+           "number": "U3_004",
+           "name": "Euston Square",
+           "next": "U3_005",
+           "previous": "U3_003",
+           "latitude": 51.52584,
+           "longitude": -0.1357,
+           "correspondance": "[U7,U5]"
+       },
+       "U3_005": {
+           "number": "U3_005",
+           "name": "King's Cross St.Pancras",
+           "next": "U3_006",
+           "previous": "U3_004",
+           "latitude": 51.53057,
+           "longitude": -0.12399,
+           "correspondance": "[U10,U8,U7,U5,U9]"
+       },
+       "U3_006": {
+           "number": "U3_006",
+           "name": "Farringdon",
+           "next": "U3_007",
+           "previous": "U3_005",
+           "latitude": 51.520362948,
+           "longitude": -0.105126482,
+           "correspondance": "[U7,U5]"
+       },
+       "U3_007": {
+           "number": "U3_007",
+           "name": "Barbican",
+           "next": "U3_008",
+           "previous": "U3_006",
+           "latitude": 51.520865,
+           "longitude": -0.097758,
+           "correspondance": "[U5,U7]"
+       },
+       "U3_008": {
+           "number": "U3_008",
+           "name": "Moorgate",
+           "next": "U3_009",
+           "previous": "U3_007",
+           "latitude": 51.51817,
+           "longitude": -0.08859,
+           "correspondance": "[U5,U7,U12,U8]"
+       },
+       "U3_009": {
+           "number": "U3_009",
+           "name": "Liverpool Street",
+           "next": "U3_010",
+           "previous": "U3_008",
+           "latitude": 51.517675,
+           "longitude": -0.082458,
+           "correspondance": ""
+       },
+       "U3_010": {
+           "number": "U3_010",
+           "name": "Aldgate",
+           "next": "U3_011",
+           "previous": "U3_009",
+           "latitude": 51.51394,
+           "longitude": -0.07537,
+           "correspondance": ""
+       },
+       "U3_011": {
+           "number": "U3_011",
+           "name": "Tower Hill",
+           "next": "U3_012",
+           "previous": "U3_010",
+           "latitude": 51.50991,
+           "longitude": -0.076813,
+           "correspondance": "[U4]"
+       },
+       "U3_012": {
+           "number": "U3_012",
+           "name": "Monument",
+           "next": "U3_013",
+           "previous": "U3_011",
+           "latitude": 51.510165,
+           "longitude": -0.085991,
+           "correspondance": "[U4]"
+       },
+       "U3_013": {
+           "number": "U3_013",
+           "name": "Cannon Street",
+           "next": "U3_014",
+           "previous": "U3_012",
+           "latitude": 51.51141,
+           "longitude": -0.09047,
+           "correspondance": "[U4]"
+       },
+       "U3_014": {
+           "number": "U3_014",
+           "name": "Mansion House",
+           "next": "U3_015",
+           "previous": "U3_013",
+           "latitude": 51.51256,
+           "longitude": -0.09397,
+           "correspondance": "[U4]"
+       },
+       "U3_015": {
+           "number": "U3_015",
+           "name": "Blackfriars",
+           "next": "U3_016",
+           "previous": "U3_014",
+           "latitude": 51.5114403,
+           "longitude": -0.1041905,
+           "correspondance": "[U4]"
+       },
+       "U3_016": {
+           "number": "U3_016",
+           "name": "Temple",
+           "next": "U3_017",
+           "previous": "U3_015",
+           "latitude": 51.51114,
+           "longitude": -0.11341,
+           "correspondance": "[U4]"
+       },
+       "U3_017": {
+           "number": "U3_017",
+           "name": "Embankment",
+           "next": "U3_018",
+           "previous": "U3_016",
+           "latitude": 51.50717,
+           "longitude": -0.12195,
+           "correspondance": ""
+       },
+       "U3_018": {
+           "number": "U3_018",
+           "name": "Westminster",
+           "next": "U3_019",
+           "previous": "U3_017",
+           "latitude": 51.50121,
+           "longitude": -0.12489,
+           "correspondance": "[U6,U4]"
+       },
+       "U3_019": {
+           "number": "U3_019",
+           "name": "St. James's Park",
+           "next": "U3_020",
+           "previous": "U3_018",
+           "latitude": 51.49971,
+           "longitude": -0.13394,
+           "correspondance": "[U4]"
+       },
+       "U3_020": {
+           "number": "U3_020",
+           "name": "Victoria",
+           "next": "U3_021",
+           "previous": "U3_019",
+           "latitude": 51.49662869,
+           "longitude": -0.14400853,
+           "correspondance": "[U4,U10]"
+       },
+       "U3_021": {
+           "number": "U3_021",
+           "name": "South Kensington",
+           "next": "U3_022",
+           "previous": "U3_020",
+           "latitude": 51.494066,
+           "longitude": -0.172791,
+           "correspondance": "[U4,U9]"
+       },
+       "U3_022": {
+           "number": "U3_022",
+           "name": "Gloucester Road",
+           "next": "U3_023",
+           "previous": "U3_021",
+           "latitude": 51.49408266,
+           "longitude": -0.17295341,
+           "correspondance": "[U4,U9]"
+       },
+       "U3_023": {
+           "number": "U3_023",
+           "name": "High Street Kensington",
+           "next": "U3_024",
+           "previous": "U3_022",
+           "latitude": 51.5003459144,
+           "longitude": -0.192351664,
+           "correspondance": "[U4]"
+       },
+       "U3_024": {
+           "number": "U3_024",
+           "name": "Notting Hill Gate",
+           "next": "U3_025",
+           "previous": "U3_023",
+           "latitude": 51.509028,
+           "longitude": -0.1962847,
+           "correspondance": ""
+       },
+       "U3_025": {
+           "number": "U3_025",
+           "name": "Bayswater",
+           "next": "U3_026",
+           "previous": "U3_024",
+           "latitude": 51.51224,
+           "longitude": -0.187569,
+           "correspondance": "[U4]"
+       },
+       "U3_026": {
+           "number": "U3_026",
+           "name": "Paddington",
+           "next": "U3_027",
+           "previous": "U3_025",
+           "latitude": 51.5151846554,
+           "longitude": -0.17553880792,
+           "correspondance": "[U4]"
+       },
+       "U3_027": {
+           "number": "U3_027",
+           "name": "Edgware Road",
+           "next": "",
+           "previous": "U3_026",
+           "latitude": 51.520195,
+           "longitude": -0.166986,
+           "correspondance": ""
+       },
+       "U3_028": {
+           "number": "U3_028",
+           "name": "Royal Oak",
+           "next": "U3_029",
+           "previous": "U3_027",
+           "latitude": 51.519383,
+           "longitude": -0.187785,
+           "correspondance": "[U5]"
+       },
+       "U3_029": {
+           "number": "U3_029",
+           "name": "Westbourne Park",
+           "next": "U3_030",
+           "previous": "U3_028",
+           "latitude": 51.520995,
+           "longitude": -0.201778,
+           "correspondance": "[U5]"
+       },
+       "U3_030": {
+           "number": "U3_030",
+           "name": "Ladbroke Grove",
+           "next": "U3_031",
+           "previous": "U3_029",
+           "latitude": 51.5173,
+           "longitude": -0.21114,
+           "correspondance": "[U5]"
+       },
+       "U3_031": {
+           "number": "U3_031",
+           "name": "Latimer Road",
+           "next": "U3_032",
+           "previous": "U3_030",
+           "latitude": 51.513125,
+           "longitude": -0.218428,
+           "correspondance": "[U5]"
+       },
+       "U3_032": {
+           "number": "U3_032",
+           "name": "Wood Lane",
+           "next": "U3_033",
+           "previous": "U3_031",
+           "latitude": 51.5097,
+           "longitude": -0.2244,
+           "correspondance": ""
+       },
+       "U3_033": {
+           "number": "U3_033",
+           "name": "Shepherd's Bush Market",
+           "next": "U3_034",
+           "previous": "U3_032",
+           "latitude": 51.5059,
+           "longitude": -0.2264,
+           "correspondance": ""
+       },
+       "U3_034": {
+           "number": "U3_034",
+           "name": "Goldhawk Road",
+           "next": "U3_035",
+           "previous": "U3_033",
+           "latitude": 51.501248,
+           "longitude": -0.226776,
+           "correspondance": "[U5]"
+       },
+       "U3_035": {
+           "number": "U3_035",
+           "name": "Hammersmith",
+           "next": "",
+           "previous": "U3_034",
+           "latitude": 51.492328,
+           "longitude": -0.222825,
+           "correspondance": "[U4]"
+       }
+   },
+   "_attachments": {
+       "london_u3.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 3964,
+           "stub": true
+       }
+   }
+}

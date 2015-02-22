@@ -1,0 +1,181 @@
+{
+   "_id": "nürnberg_u11",
+   "_rev": "4-640f865b450071a258fcbbfb37ca748d",
+   "city": "Nürnberg",
+   "lineName": "U11",
+   "lineNameShow": "U11",
+   "color": "F1953F",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-26T17:56:29.330Z",
+   "stations": {
+       "U11_001": {
+           "number": "U11_001",
+           "name": "Eberhardshof",
+           "next": "U11_002",
+           "previous": "",
+           "latitude": 49.458194444444,
+           "longitude": 11.033333333333,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_002": {
+           "number": "U11_002",
+           "name": "Maximilianstraße",
+           "next": "U11_003",
+           "previous": "U11_001",
+           "latitude": 49.455277777778,
+           "longitude": 11.042222222222,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_003": {
+           "number": "U11_003",
+           "name": "Bärenschanze",
+           "next": "U11_004",
+           "previous": "U11_002",
+           "latitude": 49.4525,
+           "longitude": 11.050833333333,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_004": {
+           "number": "U11_004",
+           "name": "Gostenhof",
+           "next": "U11_005",
+           "previous": "U11_003",
+           "latitude": 49.450555555556,
+           "longitude": 11.056944444444,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_005": {
+           "number": "U11_005",
+           "name": "Plärrer",
+           "next": "U11_006",
+           "previous": "U11_004",
+           "latitude": 49.448333333333,
+           "longitude": 11.065277777778,
+           "correspondance": [
+               "U1",
+               "U2",
+               "U21",
+               "U3"
+           ]
+       },
+       "U11_006": {
+           "number": "U11_006",
+           "name": "Weißer Turm",
+           "next": "U11_007",
+           "previous": "U11_005",
+           "latitude": 49.45,
+           "longitude": 11.07,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_007": {
+           "number": "U11_007",
+           "name": "Lorenzkirche",
+           "next": "U11_008",
+           "previous": "U11_006",
+           "latitude": 49.451111111111,
+           "longitude": 11.077777777778,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_008": {
+           "number": "U11_008",
+           "name": "Hauptbahnhof",
+           "next": "U11_009",
+           "previous": "U11_007",
+           "latitude": 49.446944444444,
+           "longitude": 11.081666666667,
+           "correspondance": [
+               "U2",
+               "U3",
+               "U1",
+               "U21"
+           ]
+       },
+       "U11_009": {
+           "number": "U11_009",
+           "name": "Aufseßplatz",
+           "next": "U11_010",
+           "previous": "U11_008",
+           "latitude": 49.440555555556,
+           "longitude": 11.080277777778,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_010": {
+           "number": "U11_010",
+           "name": "Maffeiplatz",
+           "next": "U11_011",
+           "previous": "U11_009",
+           "latitude": 49.435555555556,
+           "longitude": 11.084722222222,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_011": {
+           "number": "U11_011",
+           "name": "Frankenstraße",
+           "next": "U11_012",
+           "previous": "U11_010",
+           "latitude": 49.43,
+           "longitude": 11.086388888889,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_012": {
+           "number": "U11_012",
+           "name": "Hasenbuck",
+           "next": "U11_013",
+           "previous": "U11_011",
+           "latitude": 49.424166666667,
+           "longitude": 11.09,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_013": {
+           "number": "U11_013",
+           "name": "Bauernfeindstraße",
+           "next": "U11_014",
+           "previous": "U11_012",
+           "latitude": 49.417222222222,
+           "longitude": 11.108055555556,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U11_014": {
+           "number": "U11_014",
+           "name": "Messe",
+           "next": "",
+           "previous": "U11_013",
+           "latitude": 49.415833333333,
+           "longitude": 11.114166666667,
+           "correspondance": [
+               "U1"
+           ]
+       }
+   },
+   "_attachments": {
+       "nuernberg_u11.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 8396,
+           "stub": true
+       }
+   }
+}

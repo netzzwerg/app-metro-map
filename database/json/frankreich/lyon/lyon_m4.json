@@ -1,0 +1,201 @@
+{
+   "_id": "lyon_m4",
+   "_rev": "20-a3561bc0f8242ef9a4bd5d2a335181ec",
+   "city": "Lyon",
+   "lineName": "M4",
+   "lineNameShow": "MD",
+   "color": "08AF63",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T17:32:09.391Z",
+   "stations": {
+       "M4_001": {
+           "number": "M4_001",
+           "name": "Gare de Vaise",
+           "next": "M4_002",
+           "previous": "",
+           "latitude": "45.779994",
+           "longitude": "4.803667",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_002": {
+           "number": "M4_002",
+           "name": "Valmy",
+           "next": "M4_003",
+           "previous": "M4_001",
+           "latitude": "45.7750328",
+           "longitude": "4.805536899999993",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_003": {
+           "number": "M4_003",
+           "name": "Gorge de Loup",
+           "next": "M4_004",
+           "previous": "M4_002",
+           "latitude": "45.76655",
+           "longitude": "4.80531689999998",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_004": {
+           "number": "M4_004",
+           "name": "Vieux Lyon - Cathédrale Saint-Jean",
+           "next": "M4_005",
+           "previous": "M4_003",
+           "latitude": "45.75994",
+           "longitude": "4.8260",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_005": {
+           "number": "M4_005",
+           "name": "Bellecour",
+           "next": "M4_006",
+           "previous": "M4_004",
+           "latitude": "45.7580622",
+           "longitude": "4.833195799999999",
+           "correspondance": [
+               "M1"
+           ],
+           "memos": ""
+       },
+       "M4_006": {
+           "number": "M4_006",
+           "name": "Guillotière",
+           "next": "M4_007",
+           "previous": "M4_005",
+           "latitude": "45.7555658",
+           "longitude": "4.842835700000023",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_007": {
+           "number": "M4_007",
+           "name": "Saxe - Gambetta",
+           "next": "M4_008",
+           "previous": "M4_006",
+           "latitude": "45.7542221",
+           "longitude": "4.846344000000045",
+           "correspondance": [
+               "M2"
+           ],
+           "memos": ""
+       },
+       "M4_008": {
+           "number": "M4_008",
+           "name": "Garibaldi",
+           "next": "M4_009",
+           "previous": "M4_007",
+           "latitude": "45.751572",
+           "longitude": "4.854004400000008",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_009": {
+           "number": "M4_009",
+           "name": "Sans Souci",
+           "next": "M4_010",
+           "previous": "M4_008",
+           "latitude": "45.7477688",
+           "longitude": "4.865055100000063",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_010": {
+           "number": "M4_010",
+           "name": "Monplaisir - Lumière",
+           "next": "M4_011",
+           "previous": "M4_009",
+           "latitude": "45.7456051",
+           "longitude": "4.871470899999963",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_011": {
+           "number": "M4_011",
+           "name": "Grange Blanche",
+           "next": "M4_012",
+           "previous": "M4_010",
+           "latitude": "45.743074",
+           "longitude": "4.878395",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_012": {
+           "number": "M4_012",
+           "name": "Laënnec",
+           "next": "M4_013",
+           "previous": "M4_011",
+           "latitude": "45.7383796",
+           "longitude": "4.88684539999997",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_013": {
+           "number": "M4_013",
+           "name": "Mermoz - Pinel",
+           "next": "M4_014",
+           "previous": "M4_012",
+           "latitude": "45.730015",
+           "longitude": "4.88721",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_014": {
+           "number": "M4_014",
+           "name": "Parilly",
+           "next": "M4_015",
+           "previous": "M4_013",
+           "latitude": "45.7200909",
+           "longitude": "4.888089900000068",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "M4_015": {
+           "number": "M4_015",
+           "name": "Gare de Vénissieux",
+           "next": "",
+           "previous": "M4_014",
+           "latitude": "45.7059695",
+           "longitude": "4.887961099999984",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "lyon_md.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 12085,
+           "stub": true
+       }
+   }
+}

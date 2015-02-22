@@ -1,0 +1,148 @@
+{
+   "_id": "rennes_m1",
+   "_rev": "25-f6cbf9b6fcfe611ca54e3af13d827a9b",
+   "city": "Rennes",
+   "lineName": "M1",
+   "lineNameShow": "M1",
+   "color": "ED1C24",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T18:21:05.922Z",
+   "stations": {
+       "M1_001": {
+           "number": "M1_001",
+           "name": "J. F. Kennedy",
+           "next": "M1_002",
+           "previous": "",
+           "latitude": 48.121485,
+           "longitude": -1.711775,
+           "correspondance": ""
+       },
+       "M1_002": {
+           "number": "M1_002",
+           "name": "Villejean - Université",
+           "next": "M1_003",
+           "previous": "M1_001",
+           "latitude": 48.121623,
+           "longitude": -1.703959,
+           "correspondance": ""
+       },
+       "M1_003": {
+           "number": "M1_003",
+           "name": "Pontchaillou",
+           "next": "M1_004",
+           "previous": "M1_002",
+           "latitude": 48.1213795,
+           "longitude": -1.6916611999999986,
+           "correspondance": ""
+       },
+       "M1_004": {
+           "number": "M1_004",
+           "name": "Anatole France",
+           "next": "M1_005",
+           "previous": "M1_003",
+           "latitude": 48.1181224,
+           "longitude": -1.6875654000000395,
+           "correspondance": ""
+       },
+       "M1_005": {
+           "number": "M1_005",
+           "name": "Sainte Anne",
+           "next": "M1_006",
+           "previous": "M1_004",
+           "latitude": 48.114432,
+           "longitude": -1.68033,
+           "correspondance": ""
+       },
+       "M1_006": {
+           "number": "M1_006",
+           "name": "République",
+           "next": "M1_007",
+           "previous": "M1_005",
+           "latitude": 48.1097021,
+           "longitude": -1.6793202999999721,
+           "correspondance": ""
+       },
+       "M1_007": {
+           "number": "M1_007",
+           "name": "Charles de Gaulle",
+           "next": "M1_008",
+           "previous": "M1_006",
+           "latitude": 48.1050097,
+           "longitude": -1.6773783999999523,
+           "correspondance": ""
+       },
+       "M1_008": {
+           "number": "M1_008",
+           "name": "Gares SNCF",
+           "next": "M1_009",
+           "previous": "M1_007",
+           "latitude": 48.1041,
+           "longitude": -1.672,
+           "correspondance": ""
+       },
+       "M1_009": {
+           "number": "M1_009",
+           "name": "Jacques Cartier",
+           "next": "M1_010",
+           "previous": "M1_008",
+           "latitude": 48.104044,
+           "longitude": -1.672024,
+           "correspondance": ""
+       },
+       "M1_010": {
+           "number": "M1_010",
+           "name": "Clemenceau",
+           "next": "M1_011",
+           "previous": "M1_009",
+           "latitude": 48.0936672,
+           "longitude": -1.674610400000006,
+           "correspondance": ""
+       },
+       "M1_011": {
+           "number": "M1_011",
+           "name": "Henri Fréville",
+           "next": "M1_012",
+           "previous": "M1_010",
+           "latitude": 48.087139,
+           "longitude": -1.67431,
+           "correspondance": ""
+       },
+       "M1_012": {
+           "number": "M1_012",
+           "name": "Italie",
+           "next": "M1_013",
+           "previous": "M1_011",
+           "latitude": 48.0864435,
+           "longitude": -1.6680764999999838,
+           "correspondance": ""
+       },
+       "M1_013": {
+           "number": "M1_013",
+           "name": "Triangle",
+           "next": "M1_014",
+           "previous": "M1_012",
+           "latitude": 48.0866155,
+           "longitude": -1.660437600000023,
+           "correspondance": ""
+       },
+       "M1_014": {
+           "number": "M1_014",
+           "name": "Le Blosne",
+           "next": "M1_015",
+           "previous": "M1_013",
+           "latitude": 48.0877532,
+           "longitude": -1.6541075999999748,
+           "correspondance": ""
+       },
+       "M1_015": {
+           "number": "M1_015",
+           "name": "La Poterie",
+           "next": "",
+           "previous": "M1_014",
+           "latitude": 48.0874612,
+           "longitude": -1.644644699999958,
+           "correspondance": ""
+       }
+   }
+}

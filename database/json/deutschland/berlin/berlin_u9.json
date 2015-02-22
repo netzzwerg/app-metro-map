@@ -1,0 +1,213 @@
+{
+   "_id": "berlin_u9",
+   "_rev": "22-9da9ff29740a897e6b7bdb850770b96e",
+   "city": "Berlin",
+   "lineName": "U9",
+   "lineNameShow": "U9",
+   "color": "EA851C",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:19:32.853Z",
+   "stations": {
+       "U9_001": {
+           "number": "U9_001",
+           "name": "Leopoldplatz",
+           "next": "U9_002",
+           "previous": "",
+           "latitude": "52.546408",
+           "longitude": "13.359698",
+           "correspondance": [
+               "U8"
+           ],
+           "memos": ""
+       },
+       "U9_002": {
+           "number": "U9_002",
+           "name": "Amrumer Straße",
+           "next": "U9_003",
+           "previous": "U9_001",
+           "latitude": "52.542467",
+           "longitude": "13.349591",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U9_003": {
+           "number": "U9_003",
+           "name": "Westhafen",
+           "next": "U9_004",
+           "previous": "U9_002",
+           "latitude": "52.537095",
+           "longitude": "13.343679",
+           "correspondance": [
+               "U6"
+           ],
+           "memos": ""
+       },
+       "U9_004": {
+           "number": "U9_004",
+           "name": "Birkenstraße",
+           "next": "U9_005",
+           "previous": "U9_003",
+           "latitude": "52.532221",
+           "longitude": "13.341041",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U9_005": {
+           "number": "U9_005",
+           "name": "Turmstraße",
+           "next": "U9_006",
+           "previous": "U9_004",
+           "latitude": "52.525902",
+           "longitude": "13.343372",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U9_006": {
+           "number": "U9_006",
+           "name": "Hansaplatz",
+           "next": "U9_007",
+           "previous": "U9_005",
+           "latitude": "52.5179053",
+           "longitude": "13.342273200000022",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U9_007": {
+           "number": "U9_007",
+           "name": "Zoologischer Garten",
+           "next": "U9_008",
+           "previous": "U9_006",
+           "latitude": "52.507251",
+           "longitude": "13.332826",
+           "correspondance": [
+               "U2"
+           ],
+           "memos": ""
+       },
+       "U9_008": {
+           "number": "U9_008",
+           "name": "Kurfürstendamm",
+           "next": "U9_009",
+           "previous": "U9_007",
+           "latitude": "52.50301",
+           "longitude": "13.327282",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U9_009": {
+           "number": "U9_009",
+           "name": "Spichernstraße",
+           "next": "U9_010",
+           "previous": "U9_008",
+           "latitude": "52.496706",
+           "longitude": "13.330654",
+           "correspondance": [
+               "U2",
+               "U3"
+           ],
+           "memos": ""
+       },
+       "U9_010": {
+           "number": "U9_010",
+           "name": "Güntzelstraße",
+           "next": "U9_011",
+           "previous": "U9_009",
+           "latitude": "52.490671",
+           "longitude": "13.331292",
+           "correspondance": [
+               "U1"
+           ],
+           "memos": ""
+       },
+       "U9_011": {
+           "number": "U9_011",
+           "name": "Berliner Straße",
+           "next": "U9_012",
+           "previous": "U9_010",
+           "latitude": "52.4873",
+           "longitude": "13.3310",
+           "correspondance": [
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U9_012": {
+           "number": "U9_012",
+           "name": "Bundesplatz",
+           "next": "U9_013",
+           "previous": "U9_011",
+           "latitude": "52.478599",
+           "longitude": "13.328658",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U9_013": {
+           "number": "U9_013",
+           "name": "Friedrich-Wilhelm-Platz",
+           "next": "U9_014",
+           "previous": "U9_012",
+           "latitude": "52.472386",
+           "longitude": "13.328191",
+           "correspondance": [
+               "U7"
+           ],
+           "memos": ""
+       },
+       "U9_014": {
+           "number": "U9_014",
+           "name": "Walther-Schreiber-Platz",
+           "next": "U9_015",
+           "previous": "U9_013",
+           "latitude": "52.464779",
+           "longitude": "13.328241",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U9_015": {
+           "number": "U9_015",
+           "name": "Schloßstraße",
+           "next": "U9_016",
+           "previous": "U9_014",
+           "latitude": "52.460995",
+           "longitude": "13.325165",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U9_016": {
+           "number": "U9_016",
+           "name": "Rathaus Steglitz",
+           "next": "",
+           "previous": "U9_015",
+           "latitude": "52.454963",
+           "longitude": "13.319356",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+   "_attachments": {
+       "berlin_u9.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 112342,
+           "stub": true
+       }
+   }
+}

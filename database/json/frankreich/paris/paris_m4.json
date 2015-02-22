@@ -1,0 +1,283 @@
+{
+   "_id": "paris_m4",
+   "_rev": "5-ea80948a922c703364013d66ce936c87",
+   "city": "Paris",
+   "lineName": "M4",
+   "color": "C964AC",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T19:57:32.434Z",
+   "stations": {
+       "M4_001": {
+           "number": "M4_001",
+           "name": "Porte de Clignancourt",
+           "next": "M4_002",
+           "previous": "",
+           "latitude": 48.8969444444444,
+           "longitude": 2.345,
+           "correspondance": ""
+       },
+       "M4_002": {
+           "number": "M4_002",
+           "name": "Simplon",
+           "next": "M4_003",
+           "previous": "M4_001",
+           "latitude": 48.8933333333333,
+           "longitude": 2.34833333333333,
+           "correspondance": ""
+       },
+       "M4_003": {
+           "number": "M4_003",
+           "name": "Marcadet - Poissonniers",
+           "next": "M4_004",
+           "previous": "M4_002",
+           "latitude": 48.8902777777778,
+           "longitude": 2.35,
+           "correspondance": [
+               "M12"
+           ]
+       },
+       "M4_004": {
+           "number": "M4_004",
+           "name": "Château Rouge",
+           "next": "M4_005",
+           "previous": "M4_003",
+           "latitude": 48.8866666666667,
+           "longitude": 2.34944444444444,
+           "correspondance": ""
+       },
+       "M4_005": {
+           "number": "M4_005",
+           "name": "Barbès - Rochechouart",
+           "next": "M4_006",
+           "previous": "M4_004",
+           "latitude": 48.8836111111111,
+           "longitude": 2.35055555555556,
+           "correspondance": [
+               "M2"
+           ]
+       },
+       "M4_006": {
+           "number": "M4_006",
+           "name": "Gare du Nord",
+           "next": "M4_007",
+           "previous": "M4_005",
+           "latitude": 48.880575,
+           "longitude": 2.35493055555556,
+           "correspondance": [
+               "M5"
+           ]
+       },
+       "M4_007": {
+           "number": "M4_007",
+           "name": "Gare de l'Est",
+           "next": "M4_008",
+           "previous": "M4_006",
+           "latitude": 48.8761111111111,
+           "longitude": 2.35833333333333,
+           "correspondance": [
+               "M5",
+               "M7"
+           ]
+       },
+       "M4_008": {
+           "number": "M4_008",
+           "name": "Château d'Eau",
+           "next": "M4_009",
+           "previous": "M4_007",
+           "latitude": 48.8727777777778,
+           "longitude": 2.35611111111111,
+           "correspondance": ""
+       },
+       "M4_009": {
+           "number": "M4_009",
+           "name": "Strasbourg - Saint-Denis",
+           "next": "M4_010",
+           "previous": "M4_008",
+           "latitude": 48.8697222222222,
+           "longitude": 2.35388888888889,
+           "correspondance": [
+               "M8",
+               "M9"
+           ]
+       },
+       "M4_010": {
+           "number": "M4_010",
+           "name": "Réaumur - Sébastopol",
+           "next": "M4_011",
+           "previous": "M4_009",
+           "latitude": 48.8661111111111,
+           "longitude": 2.3525,
+           "correspondance": [
+               "M3"
+           ]
+       },
+       "M4_011": {
+           "number": "M4_011",
+           "name": "Étienne Marcel",
+           "next": "M4_012",
+           "previous": "M4_010",
+           "latitude": 48.8641666666667,
+           "longitude": 2.35055555555556,
+           "correspondance": ""
+       },
+       "M4_012": {
+           "number": "M4_012",
+           "name": "Les Halles",
+           "next": "M4_013",
+           "previous": "M4_011",
+           "latitude": 48.8625,
+           "longitude": 2.34611111111111,
+           "correspondance": ""
+       },
+       "M4_013": {
+           "number": "M4_013",
+           "name": "Châtelet",
+           "next": "M4_014",
+           "previous": "M4_012",
+           "latitude": 48.858352,
+           "longitude": 2.347324,
+           "correspondance": [
+               "M1",
+               "M7",
+               "M11",
+               "M14"
+           ]
+       },
+       "M4_014": {
+           "number": "M4_014",
+           "name": "Cité",
+           "next": "M4_015",
+           "previous": "M4_013",
+           "latitude": 48.8552777777778,
+           "longitude": 2.34638888888889,
+           "correspondance": ""
+       },
+       "M4_015": {
+           "number": "M4_015",
+           "name": "Saint-Michel",
+           "next": "M4_016",
+           "previous": "M4_014",
+           "latitude": 48.8536111111111,
+           "longitude": 2.34388888888889,
+           "correspondance": ""
+       },
+       "M4_016": {
+           "number": "M4_016",
+           "name": "Odéon",
+           "next": "M4_017",
+           "previous": "M4_015",
+           "latitude": 48.8519444444444,
+           "longitude": 2.33888888888889,
+           "correspondance": [
+               "M10"
+           ]
+       },
+       "M4_017": {
+           "number": "M4_017",
+           "name": "Saint-Germain-des-Prés",
+           "next": "M4_018",
+           "previous": "M4_016",
+           "latitude": 48.8538888888889,
+           "longitude": 2.33333333333333,
+           "correspondance": ""
+       },
+       "M4_018": {
+           "number": "M4_018",
+           "name": "Saint-Sulpice",
+           "next": "M4_019",
+           "previous": "M4_017",
+           "latitude": 48.850909,
+           "longitude": 2.330652,
+           "correspondance": ""
+       },
+       "M4_019": {
+           "number": "M4_019",
+           "name": "Saint-Placide",
+           "next": "M4_020",
+           "previous": "M4_018",
+           "latitude": 48.8468444444445,
+           "longitude": 2.32691388888889,
+           "correspondance": ""
+       },
+       "M4_020": {
+           "number": "M4_020",
+           "name": "Montparnasse - Bienvenüe",
+           "next": "M4_021",
+           "previous": "M4_019",
+           "latitude": 48.843466,
+           "longitude": 2.323072,
+           "correspondance": [
+               "M6",
+               "M12",
+               "M13"
+           ]
+       },
+       "M4_021": {
+           "number": "M4_021",
+           "name": "Vavin",
+           "next": "M4_022",
+           "previous": "M4_020",
+           "latitude": 48.8422333333333,
+           "longitude": 2.32895,
+           "correspondance": ""
+       },
+       "M4_022": {
+           "number": "M4_022",
+           "name": "Raspail",
+           "next": "M4_023",
+           "previous": "M4_021",
+           "latitude": 48.839194,
+           "longitude": 2.330606,
+           "correspondance": [
+               "M6"
+           ]
+       },
+       "M4_023": {
+           "number": "M4_023",
+           "name": "Denfert-Rochereau",
+           "next": "M4_024",
+           "previous": "M4_022",
+           "latitude": 48.833901,
+           "longitude": 2.332728,
+           "correspondance": [
+               "M6"
+           ]
+       },
+       "M4_024": {
+           "number": "M4_024",
+           "name": "Mouton-Duvernet",
+           "next": "M4_025",
+           "previous": "M4_023",
+           "latitude": 48.832139,
+           "longitude": 2.330325,
+           "correspondance": ""
+       },
+       "M4_025": {
+           "number": "M4_025",
+           "name": "Alésia",
+           "next": "M4_026",
+           "previous": "M4_024",
+           "latitude": 48.8283333333333,
+           "longitude": 2.32666666666667,
+           "correspondance": ""
+       },
+       "M4_026": {
+           "number": "M4_026",
+           "name": "Porte d'Orléans",
+           "next": "",
+           "previous": "M4_025",
+           "latitude": 48.8231888888889,
+           "longitude": 2.32536388888889,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m4.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 12302,
+           "stub": true
+       }
+   }
+}

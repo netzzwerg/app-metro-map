@@ -1,0 +1,388 @@
+{
+   "_id": "paris_m8",
+   "_rev": "5-530e07f7d7831b9457fa99fa286205d4",
+   "city": "Paris",
+   "lineName": "M8",
+   "color": "D1B4D6",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:00:59.764Z",
+   "stations": {
+       "M8_001": {
+           "number": "M8_001",
+           "name": "Balard",
+           "next": "M8_002",
+           "previous": "",
+           "latitude": 48.83597,
+           "longitude": 2.278212,
+           "correspondance": ""
+       },
+       "M8_002": {
+           "number": "M8_002",
+           "name": "Lourmel",
+           "next": "M8_003",
+           "previous": "M8_001",
+           "latitude": 48.838604,
+           "longitude": 2.281817,
+           "correspondance": ""
+       },
+       "M8_003": {
+           "number": "M8_003",
+           "name": "Boucicaut",
+           "next": "M8_004",
+           "previous": "M8_002",
+           "latitude": 48.840578,
+           "longitude": 2.286621,
+           "correspondance": ""
+       },
+       "M8_004": {
+           "number": "M8_004",
+           "name": "Félix Faure",
+           "next": "M8_005",
+           "previous": "M8_003",
+           "latitude": 48.842351,
+           "longitude": 2.291004,
+           "correspondance": ""
+       },
+       "M8_005": {
+           "number": "M8_005",
+           "name": "Commerce",
+           "next": "M8_006",
+           "previous": "M8_004",
+           "latitude": 48.845093,
+           "longitude": 2.294215,
+           "correspondance": ""
+       },
+       "M8_006": {
+           "number": "M8_006",
+           "name": "La Motte-Picquet - Grenelle",
+           "next": "M8_007",
+           "previous": "M8_005",
+           "latitude": 48.849143,
+           "longitude": 2.29809,
+           "correspondance": [
+               "M6",
+               "M10"
+           ]
+       },
+       "M8_007": {
+           "number": "M8_007",
+           "name": "École Militaire",
+           "next": "M8_008",
+           "previous": "M8_006",
+           "latitude": 48.85511,
+           "longitude": 2.306737,
+           "correspondance": ""
+       },
+       "M8_008": {
+           "number": "M8_008",
+           "name": "La Tour-Maubourg",
+           "next": "M8_009",
+           "previous": "M8_007",
+           "latitude": 48.857667,
+           "longitude": 2.310399,
+           "correspondance": ""
+       },
+       "M8_009": {
+           "number": "M8_009",
+           "name": "Invalides",
+           "next": "M8_010",
+           "previous": "M8_008",
+           "latitude": 48.860764,
+           "longitude": 2.314658,
+           "correspondance": [
+               "M13"
+           ]
+       },
+       "M8_010": {
+           "number": "M8_010",
+           "name": "Concorde",
+           "next": "M8_011",
+           "previous": "M8_009",
+           "latitude": 48.866176,
+           "longitude": 2.322397,
+           "correspondance": [
+               "M1",
+               "M12"
+           ]
+       },
+       "M8_011": {
+           "number": "M8_011",
+           "name": "Madeleine",
+           "next": "M8_012",
+           "previous": "M8_010",
+           "latitude": 48.8704824564233,
+           "longitude": 2.32500046491622,
+           "correspondance": [
+               "M12",
+               "M14"
+           ]
+       },
+       "M8_012": {
+           "number": "M8_012",
+           "name": "Opéra",
+           "next": "M8_013",
+           "previous": "M8_011",
+           "latitude": 48.8706359467089,
+           "longitude": 2.33235239982604,
+           "correspondance": [
+               "M3",
+               "M7"
+           ]
+       },
+       "M8_013": {
+           "number": "M8_013",
+           "name": "Richelieu - Drouot",
+           "next": "M8_014",
+           "previous": "M8_012",
+           "latitude": 48.871987,
+           "longitude": 2.338741,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M8_014": {
+           "number": "M8_014",
+           "name": "Grands Boulevards",
+           "next": "M8_015",
+           "previous": "M8_013",
+           "latitude": 48.871426,
+           "longitude": 2.344342,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M8_015": {
+           "number": "M8_015",
+           "name": "Bonne Nouvelle",
+           "next": "M8_016",
+           "previous": "M8_014",
+           "latitude": 48.870639,
+           "longitude": 2.348875,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M8_016": {
+           "number": "M8_016",
+           "name": "Strasbourg - Saint-Denis",
+           "next": "M8_017",
+           "previous": "M8_015",
+           "latitude": 48.8697222222222,
+           "longitude": 2.35388888888889,
+           "correspondance": [
+               "M4",
+               "M9"
+           ]
+       },
+       "M8_017": {
+           "number": "M8_017",
+           "name": "République",
+           "next": "M8_018",
+           "previous": "M8_016",
+           "latitude": 48.867503,
+           "longitude": 2.363811,
+           "correspondance": [
+               "M3",
+               "M5",
+               "M9",
+               "M11"
+           ]
+       },
+       "M8_018": {
+           "number": "M8_018",
+           "name": "Filles du Calvaire",
+           "next": "M8_019",
+           "previous": "M8_017",
+           "latitude": 48.8640722222222,
+           "longitude": 2.36612222222222,
+           "correspondance": ""
+       },
+       "M8_019": {
+           "number": "M8_019",
+           "name": "Saint-Sébastien - Froissart",
+           "next": "M8_020",
+           "previous": "M8_018",
+           "latitude": 48.86048,
+           "longitude": 2.367358,
+           "correspondance": ""
+       },
+       "M8_020": {
+           "number": "M8_020",
+           "name": "Chemin Vert",
+           "next": "M8_021",
+           "previous": "M8_019",
+           "latitude": 48.856778,
+           "longitude": 2.368348,
+           "correspondance": ""
+       },
+       "M8_021": {
+           "number": "M8_021",
+           "name": "Bastille",
+           "next": "M8_022",
+           "previous": "M8_020",
+           "latitude": 48.853082,
+           "longitude": 2.369077,
+           "correspondance": [
+               "M1",
+               "M5"
+           ]
+       },
+       "M8_022": {
+           "number": "M8_022",
+           "name": "Ledru-Rollin",
+           "next": "M8_023",
+           "previous": "M8_021",
+           "latitude": 48.851529,
+           "longitude": 2.37516,
+           "correspondance": ""
+       },
+       "M8_023": {
+           "number": "M8_023",
+           "name": "Faidherbe - Chaligny",
+           "next": "M8_024",
+           "previous": "M8_022",
+           "latitude": 48.850158,
+           "longitude": 2.383398,
+           "correspondance": ""
+       },
+       "M8_024": {
+           "number": "M8_024",
+           "name": "Reuilly - Diderot",
+           "next": "M8_025",
+           "previous": "M8_023",
+           "latitude": 48.8469444444444,
+           "longitude": 2.38638888888889,
+           "correspondance": [
+               "M1"
+           ]
+       },
+       "M8_025": {
+           "number": "M8_025",
+           "name": "Montgallet",
+           "next": "M8_026",
+           "previous": "M8_024",
+           "latitude": 48.844276,
+           "longitude": 2.389974,
+           "correspondance": ""
+       },
+       "M8_026": {
+           "number": "M8_026",
+           "name": "Daumesnil",
+           "next": "M8_027",
+           "previous": "M8_025",
+           "latitude": 48.839644,
+           "longitude": 2.395792,
+           "correspondance": [
+               "M6"
+           ]
+       },
+       "M8_027": {
+           "number": "M8_027",
+           "name": "Michel Bizot",
+           "next": "M8_028",
+           "previous": "M8_026",
+           "latitude": 48.837485,
+           "longitude": 2.401234,
+           "correspondance": ""
+       },
+       "M8_028": {
+           "number": "M8_028",
+           "name": "Porte Dorée",
+           "next": "M8_029",
+           "previous": "M8_027",
+           "latitude": 48.835481,
+           "longitude": 2.4061,
+           "correspondance": ""
+       },
+       "M8_029": {
+           "number": "M8_029",
+           "name": "Porte de Charenton",
+           "next": "M8_030",
+           "previous": "M8_028",
+           "latitude": 48.8327801635719,
+           "longitude": 2.40040004253387,
+           "correspondance": ""
+       },
+       "M8_030": {
+           "number": "M8_030",
+           "name": "Liberté",
+           "next": "M8_031",
+           "previous": "M8_029",
+           "latitude": 48.825882,
+           "longitude": 2.407022,
+           "correspondance": ""
+       },
+       "M8_031": {
+           "number": "M8_031",
+           "name": "Charenton - Écoles",
+           "next": "M8_032",
+           "previous": "M8_030",
+           "latitude": 48.82149,
+           "longitude": 2.41386,
+           "correspondance": ""
+       },
+       "M8_032": {
+           "number": "M8_032",
+           "name": "École Vétérinaire de Maisons-Alfort",
+           "next": "M8_033",
+           "previous": "M8_031",
+           "latitude": 48.81519,
+           "longitude": 2.421882,
+           "correspondance": ""
+       },
+       "M8_033": {
+           "number": "M8_033",
+           "name": "Maisons-Alfort - Stade",
+           "next": "M8_034",
+           "previous": "M8_032",
+           "latitude": 48.808681,
+           "longitude": 2.436073,
+           "correspondance": ""
+       },
+       "M8_034": {
+           "number": "M8_034",
+           "name": "Maisons-Alfort - Les Juilliottes",
+           "next": "M8_035",
+           "previous": "M8_033",
+           "latitude": 48.802567,
+           "longitude": 2.446432,
+           "correspondance": ""
+       },
+       "M8_035": {
+           "number": "M8_035",
+           "name": "Créteil - L'Échat",
+           "next": "M8_036",
+           "previous": "M8_034",
+           "latitude": 48.795963,
+           "longitude": 2.449356,
+           "correspondance": ""
+       },
+       "M8_036": {
+           "number": "M8_036",
+           "name": "Créteil - Université",
+           "next": "M8_037",
+           "previous": "M8_035",
+           "latitude": 48.789754,
+           "longitude": 2.450785,
+           "correspondance": ""
+       },
+       "M8_037": {
+           "number": "M8_037",
+           "name": "Créteil - Préfecture",
+           "next": "",
+           "previous": "M8_036",
+           "latitude": 48.779772,
+           "longitude": 2.459317,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m8.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 15617,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "_id": "city_serfaus",
+   "_rev": "1-845a045859f23bd28064543ff3babe09",
+   "country": "Österreich",
+   "cityName": "Serfaus",
+   "subName": "Dorfbahn",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-22T15:30:38.799Z"
+}

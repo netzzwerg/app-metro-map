@@ -1,0 +1,167 @@
+{
+   "_id": "kopenhagen_m2",
+   "_rev": "5-6f935678dbfef7c512228003bb9652ab",
+   "city": "Kopenhagen",
+   "lineName": "M2",
+   "color": "EBD043",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-19T10:16:16.036Z",
+   "stations": {
+       "M2_001": {
+           "number": "M2_001",
+           "name": "Lufthavnen",
+           "next": "M2_002",
+           "previous": "",
+           "latitude": 55.6305,
+           "longitude": 12.6487,
+           "correspondance": ""
+       },
+       "M2_002": {
+           "number": "M2_002",
+           "name": "Kastrup",
+           "next": "M2_003",
+           "previous": "M2_001",
+           "latitude": 55.6357,
+           "longitude": 12.6467,
+           "correspondance": ""
+       },
+       "M2_003": {
+           "number": "M2_003",
+           "name": "Femøren",
+           "next": "M2_004",
+           "previous": "M2_002",
+           "latitude": 55.6454,
+           "longitude": 12.6383,
+           "correspondance": ""
+       },
+       "M2_004": {
+           "number": "M2_004",
+           "name": "Amager Strand",
+           "next": "M2_005",
+           "previous": "M2_003",
+           "latitude": 55.6565,
+           "longitude": 12.6316,
+           "correspondance": ""
+       },
+       "M2_005": {
+           "number": "M2_005",
+           "name": "Bahnhof Øresund",
+           "next": "M2_006",
+           "previous": "M2_004",
+           "latitude": 55.6617,
+           "longitude": 12.6285,
+           "correspondance": ""
+       },
+       "M2_006": {
+           "number": "M2_006",
+           "name": "Lergravsparken",
+           "next": "M2_007",
+           "previous": "M2_005",
+           "latitude": 55.6623,
+           "longitude": 12.617,
+           "correspondance": ""
+       },
+       "M2_007": {
+           "number": "M2_007",
+           "name": "Amagerbro",
+           "next": "M2_008",
+           "previous": "M2_006",
+           "latitude": 55.6633,
+           "longitude": 12.6029,
+           "correspondance": ""
+       },
+       "M2_008": {
+           "number": "M2_008",
+           "name": "Christianshavn",
+           "next": "M2_009",
+           "previous": "M2_007",
+           "latitude": 55.6722,
+           "longitude": 12.5913,
+           "correspondance": "[M1]"
+       },
+       "M2_009": {
+           "number": "M2_009",
+           "name": "Kongens Nytorv",
+           "next": "M2_010",
+           "previous": "M2_008",
+           "latitude": 55.6792,
+           "longitude": 12.5851,
+           "correspondance": "[M1]"
+       },
+       "M2_010": {
+           "number": "M2_010",
+           "name": "Nørreport",
+           "next": "M2_011",
+           "previous": "M2_009",
+           "latitude": 55.6838,
+           "longitude": 12.5711,
+           "correspondance": "[M1]"
+       },
+       "M2_011": {
+           "number": "M2_011",
+           "name": "Forum",
+           "next": "M2_012",
+           "previous": "M2_010",
+           "latitude": 55.6817,
+           "longitude": 12.5526,
+           "correspondance": "[M1]"
+       },
+       "M2_012": {
+           "number": "M2_012",
+           "name": "Frederiksberg",
+           "next": "M2_013",
+           "previous": "M2_011",
+           "latitude": 55.6814,
+           "longitude": 12.5339,
+           "correspondance": "[M1]"
+       },
+       "M2_013": {
+           "number": "M2_013",
+           "name": "Fasanvej",
+           "next": "M2_014",
+           "previous": "M2_012",
+           "latitude": 55.6818,
+           "longitude": 12.5216,
+           "correspondance": "[M1]"
+       },
+       "M2_014": {
+           "number": "M2_014",
+           "name": "Lindevang",
+           "next": "M2_015",
+           "previous": "M2_013",
+           "latitude": 55.6835,
+           "longitude": 12.5127,
+           "correspondance": "[M1]"
+       },
+       "M2_015": {
+           "number": "M2_015",
+           "name": "Flintholm",
+           "next": "M2_016",
+           "previous": "M2_014",
+           "latitude": "55.6859",
+           "longitude": "12.4994",
+           "correspondance": [
+               "[M1]"
+           ],
+           "memos": ""
+       },
+       "M2_016": {
+           "number": "M2_016",
+           "name": "Vanløse",
+           "next": "",
+           "previous": "M2_015",
+           "latitude": 55.6874,
+           "longitude": 12.4917,
+           "correspondance": "[M1]"
+       }
+   },
+   "_attachments": {
+       "kopenhagen_m2.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 5514,
+           "stub": true
+       }
+   }
+}

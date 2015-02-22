@@ -1,0 +1,389 @@
+{
+   "_id": "paris_m7",
+   "_rev": "12-49c591eaa65881b0ee6f602b4ad49b64",
+   "city": "Paris",
+   "lineName": "M7",
+   "color": "F9B1C0",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:00:51.216Z",
+   "stations": {
+       "M7_001": {
+           "number": "M7_001",
+           "name": "La Courneuve - 8 Mai 1945",
+           "next": "M7_002",
+           "previous": "",
+           "latitude": 48.920777,
+           "longitude": 2.410668,
+           "correspondance": ""
+       },
+       "M7_002": {
+           "number": "M7_002",
+           "name": "Fort d'Aubervilliers",
+           "next": "M7_003",
+           "previous": "M7_001",
+           "latitude": 48.91424,
+           "longitude": 2.403785,
+           "correspondance": ""
+       },
+       "M7_003": {
+           "number": "M7_003",
+           "name": "Aubervilliers - Pantin - Quatre Chemins",
+           "next": "M7_004",
+           "previous": "M7_002",
+           "latitude": 48.9039,
+           "longitude": 2.3925,
+           "correspondance": ""
+       },
+       "M7_004": {
+           "number": "M7_004",
+           "name": "Porte de la Villette",
+           "next": "M7_005",
+           "previous": "M7_003",
+           "latitude": 48.8970892235476,
+           "longitude": 2.38587588071823,
+           "correspondance": ""
+       },
+       "M7_005": {
+           "number": "M7_005",
+           "name": "Corentin Cariou",
+           "next": "M7_006",
+           "previous": "M7_004",
+           "latitude": 48.89434,
+           "longitude": 2.381745,
+           "correspondance": ""
+       },
+       "M7_006": {
+           "number": "M7_006",
+           "name": "Crimée",
+           "next": "M7_007",
+           "previous": "M7_005",
+           "latitude": 48.89158,
+           "longitude": 2.37707,
+           "correspondance": ""
+       },
+       "M7_007": {
+           "number": "M7_007",
+           "name": "Riquet",
+           "next": "M7_008",
+           "previous": "M7_006",
+           "latitude": 48.88788,
+           "longitude": 2.373578,
+           "correspondance": ""
+       },
+       "M7_008": {
+           "number": "M7_008",
+           "name": "Stalingrad",
+           "next": "M7_009",
+           "previous": "M7_007",
+           "latitude": 48.884263,
+           "longitude": 2.365824,
+           "correspondance": [
+               "M2",
+               "M5"
+           ]
+       },
+       "M7_009": {
+           "number": "M7_009",
+           "name": "Louis Blanc",
+           "next": "M7_010",
+           "previous": "M7_008",
+           "latitude": 48.881137,
+           "longitude": 2.364839,
+           "correspondance": [
+               "M7bis"
+           ]
+       },
+       "M7_010": {
+           "number": "M7_010",
+           "name": "Château-Landon",
+           "next": "M7_011",
+           "previous": "M7_009",
+           "latitude": 48.87846,
+           "longitude": 2.362071,
+           "correspondance": ""
+       },
+       "M7_011": {
+           "number": "M7_011",
+           "name": "Gare de l'Est",
+           "next": "M7_012",
+           "previous": "M7_010",
+           "latitude": 48.8761111111111,
+           "longitude": 2.35833333333333,
+           "correspondance": [
+               "M4",
+               "M5"
+           ]
+       },
+       "M7_012": {
+           "number": "M7_012",
+           "name": "Poissonnière",
+           "next": "M7_013",
+           "previous": "M7_011",
+           "latitude": 48.8770750574131,
+           "longitude": 2.3484456539154,
+           "correspondance": ""
+       },
+       "M7_013": {
+           "number": "M7_013",
+           "name": "Cadet",
+           "next": "M7_014",
+           "previous": "M7_012",
+           "latitude": 48.876135,
+           "longitude": 2.344876,
+           "correspondance": ""
+       },
+       "M7_014": {
+           "number": "M7_014",
+           "name": "Le Peletier",
+           "next": "M7_015",
+           "previous": "M7_013",
+           "latitude": 48.8747200267497,
+           "longitude": 2.339548766613,
+           "correspondance": ""
+       },
+       "M7_015": {
+           "number": "M7_015",
+           "name": "Chaussée d'Antin - La Fayette",
+           "next": "M7_016",
+           "previous": "M7_014",
+           "latitude": 48.87307,
+           "longitude": 2.33393,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M7_016": {
+           "number": "M7_016",
+           "name": "Opéra",
+           "next": "M7_017",
+           "previous": "M7_015",
+           "latitude": 48.8706359467089,
+           "longitude": 2.33235239982604,
+           "correspondance": [
+               "M3",
+               "M8"
+           ]
+       },
+       "M7_017": {
+           "number": "M7_017",
+           "name": "Pyramides",
+           "next": "M7_018",
+           "previous": "M7_016",
+           "latitude": 48.8658722356385,
+           "longitude": 2.33466982841491,
+           "correspondance": [
+               "M14"
+           ]
+       },
+       "M7_018": {
+           "number": "M7_018",
+           "name": "Palais Royal - Musée du Louvre",
+           "next": "M7_019",
+           "previous": "M7_017",
+           "latitude": 48.862644,
+           "longitude": 2.336578,
+           "correspondance": [
+               "M1"
+           ]
+       },
+       "M7_019": {
+           "number": "M7_019",
+           "name": "Pont Neuf",
+           "next": "M7_020",
+           "previous": "M7_018",
+           "latitude": 48.8586764078058,
+           "longitude": 2.34148800373077,
+           "correspondance": ""
+       },
+       "M7_020": {
+           "number": "M7_020",
+           "name": "Châtelet",
+           "next": "M7_021",
+           "previous": "M7_019",
+           "latitude": 48.858352,
+           "longitude": 2.347324,
+           "correspondance": [
+               "M1",
+               "M4",
+               "M11",
+               "M14"
+           ]
+       },
+       "M7_021": {
+           "number": "M7_021",
+           "name": "Pont Marie",
+           "next": "M7_022",
+           "previous": "M7_020",
+           "latitude": 48.8532867998659,
+           "longitude": 2.35761612653732,
+           "correspondance": ""
+       },
+       "M7_022": {
+           "number": "M7_022",
+           "name": "Sully - Morland",
+           "next": "M7_023",
+           "previous": "M7_021",
+           "latitude": 48.851425,
+           "longitude": 2.361894,
+           "correspondance": ""
+       },
+       "M7_023": {
+           "number": "M7_023",
+           "name": "Jussieu",
+           "next": "M7_024",
+           "previous": "M7_022",
+           "latitude": 48.846052,
+           "longitude": 2.355738,
+           "correspondance": [
+               "M10"
+           ]
+       },
+       "M7_024": {
+           "number": "M7_024",
+           "name": "Place Monge",
+           "next": "M7_025",
+           "previous": "M7_023",
+           "latitude": 48.84359,
+           "longitude": 2.352279,
+           "correspondance": ""
+       },
+       "M7_025": {
+           "number": "M7_025",
+           "name": "Censier - Daubenton",
+           "next": "M7_026",
+           "previous": "M7_024",
+           "latitude": 48.840597,
+           "longitude": 2.351774,
+           "correspondance": ""
+       },
+       "M7_026": {
+           "number": "M7_026",
+           "name": "Les Gobelins",
+           "next": "M7_027",
+           "previous": "M7_025",
+           "latitude": 48.8364,
+           "longitude": 2.35225,
+           "correspondance": ""
+       },
+       "M7_027": {
+           "number": "M7_027",
+           "name": "Place d'Italie",
+           "next": "M7_028",
+           "previous": "M7_026",
+           "latitude": 48.831483,
+           "longitude": 2.355692,
+           "correspondance": [
+               "M5",
+               "M6"
+           ]
+       },
+       "M7_028": {
+           "number": "M7_028",
+           "name": "Tolbiac",
+           "next": "M7_029",
+           "previous": "M7_027",
+           "latitude": 48.826665,
+           "longitude": 2.357678,
+           "correspondance": ""
+       },
+       "M7_029": {
+           "number": "M7_029",
+           "name": "Maison Blanche",
+           "next": "M7_030",
+           "previous": "M7_028",
+           "latitude": 48.822155,
+           "longitude": 2.358531,
+           "correspondance": ""
+       },
+       "M7_030": {
+           "number": "M7_030",
+           "name": "Porte d'Italie",
+           "next": "M7_031",
+           "previous": "M7_029",
+           "latitude": 48.819196,
+           "longitude": 2.360805,
+           "correspondance": ""
+       },
+       "M7_031": {
+           "number": "M7_031",
+           "name": "Porte de Choisy",
+           "next": "M7_032",
+           "previous": "M7_030",
+           "latitude": 48.8203153283429,
+           "longitude": 2.36529260873794,
+           "correspondance": ""
+       },
+       "M7_032": {
+           "number": "M7_032",
+           "name": "Porte d'Ivry",
+           "next": "M7_033",
+           "previous": "M7_031",
+           "latitude": 48.8209599240998,
+           "longitude": 2.37043976783752,
+           "correspondance": ""
+       },
+       "M7_033": {
+           "number": "M7_033",
+           "name": "Pierre et Marie Curie",
+           "next": "M7_034",
+           "previous": "M7_032",
+           "latitude": 48.8159177278937,
+           "longitude": 2.37789362668991,
+           "correspondance": ""
+       },
+       "M7_034": {
+           "number": "M7_034",
+           "name": "Mairie d'Ivry",
+           "next": "",
+           "previous": "M7_033",
+           "latitude": 48.8111240805884,
+           "longitude": 2.38338679075241,
+           "correspondance": ""
+       },
+       "M7_035": {
+           "number": "M7_035",
+           "name": "Le Kremlin-Bicêtre",
+           "next": "M7_036",
+           "previous": "M7_029",
+           "latitude": 48.810388,
+           "longitude": 2.361849,
+           "correspondance": ""
+       },
+       "M7_036": {
+           "number": "M7_036",
+           "name": "Villejuif - Léo Lagrange",
+           "next": "M7_037",
+           "previous": "M7_035",
+           "latitude": 48.803768,
+           "longitude": 2.363927,
+           "correspondance": ""
+       },
+       "M7_037": {
+           "number": "M7_037",
+           "name": "Villejuif - Paul Vaillant-Couturier",
+           "next": "M7_038",
+           "previous": "M7_036",
+           "latitude": 48.795991,
+           "longitude": 2.368248,
+           "correspondance": ""
+       },
+       "M7_038": {
+           "number": "M7_038",
+           "name": "Villejuif - Louis Aragon",
+           "next": "",
+           "previous": "M7_037",
+           "latitude": 48.787175,
+           "longitude": 2.367564,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m7.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 14291,
+           "stub": true
+       }
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "_id": "city_toulouse",
+   "_rev": "1-17651cc51b0bf4190e70c22da46c4d92",
+   "country": "Frankreich",
+   "cityName": "Toulouse",
+   "subName": "Métro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-19T18:32:46.869Z"
+}

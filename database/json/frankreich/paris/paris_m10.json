@@ -1,0 +1,253 @@
+{
+   "_id": "paris_m10",
+   "_rev": "14-e5d99a8ef88ce8ae433fd2ce6f48f715",
+   "city": "Paris",
+   "lineName": "M10",
+   "color": "E7BC49",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:01:03.064Z",
+   "stations": {
+       "M10_001": {
+           "number": "M10_001",
+           "name": "Boulogne - Pont de Saint-Cloud",
+           "next": "M10_002",
+           "previous": "",
+           "latitude": 48.840684,
+           "longitude": 2.228331,
+           "correspondance": ""
+       },
+       "M10_002": {
+           "number": "M10_002",
+           "name": "Boulogne - Jean Jaurès",
+           "next": "M10_003",
+           "previous": "M10_001",
+           "latitude": 48.842278,
+           "longitude": 2.238877,
+           "correspondance": ""
+       },
+       "M10_003": {
+           "number": "M10_003",
+           "name": "Michel-Ange - Molitor",
+           "next": "M10_004",
+           "previous": "M10_002",
+           "latitude": 48.84496,
+           "longitude": 2.261194,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M10_004": {
+           "number": "M10_004",
+           "name": "Chardon Lagache",
+           "next": "M10_005",
+           "previous": "M10_003",
+           "latitude": 48.845138,
+           "longitude": 2.266214,
+           "correspondance": ""
+       },
+       "M10_005": {
+           "number": "M10_005",
+           "name": "Mirabeau",
+           "next": "M10_006",
+           "previous": "M10_004",
+           "latitude": 48.846838,
+           "longitude": 2.272888,
+           "correspondance": ""
+       },
+       "M10_006": {
+           "number": "M10_006",
+           "name": "Javel - André Citroën",
+           "next": "M10_007",
+           "previous": "M10_005",
+           "latitude": 48.846165,
+           "longitude": 2.278716,
+           "correspondance": ""
+       },
+       "M10_007": {
+           "number": "M10_007",
+           "name": "Charles Michels",
+           "next": "M10_008",
+           "previous": "M10_006",
+           "latitude": 48.846499,
+           "longitude": 2.285805,
+           "correspondance": ""
+       },
+       "M10_008": {
+           "number": "M10_008",
+           "name": "Avenue Émile Zola",
+           "next": "M10_009",
+           "previous": "M10_007",
+           "latitude": 48.846949,
+           "longitude": 2.29574,
+           "correspondance": ""
+       },
+       "M10_009": {
+           "number": "M10_009",
+           "name": "La Motte-Picquet - Grenelle",
+           "next": "M10_010",
+           "previous": "M10_008",
+           "latitude": 48.848966,
+           "longitude": 2.298407,
+           "correspondance": [
+               "M6",
+               "M8"
+           ]
+       },
+       "M10_010": {
+           "number": "M10_010",
+           "name": "Ségur",
+           "next": "M10_011",
+           "previous": "M10_009",
+           "latitude": 48.847434,
+           "longitude": 2.306853,
+           "correspondance": ""
+       },
+       "M10_011": {
+           "number": "M10_011",
+           "name": "Duroc",
+           "next": "M10_012",
+           "previous": "M10_010",
+           "latitude": 48.846829,
+           "longitude": 2.316479,
+           "correspondance": [
+               "M13"
+           ]
+       },
+       "M10_012": {
+           "number": "M10_012",
+           "name": "Vaneau",
+           "next": "M10_013",
+           "previous": "M10_011",
+           "latitude": 48.848947,
+           "longitude": 2.321557,
+           "correspondance": ""
+       },
+       "M10_013": {
+           "number": "M10_013",
+           "name": "Sèvres - Babylone",
+           "next": "M10_014",
+           "previous": "M10_012",
+           "latitude": 48.85151,
+           "longitude": 2.326655,
+           "correspondance": [
+               "M12"
+           ]
+       },
+       "M10_014": {
+           "number": "M10_014",
+           "name": "Mabillon",
+           "next": "M10_015",
+           "previous": "M10_013",
+           "latitude": 48.852775,
+           "longitude": 2.335322,
+           "correspondance": ""
+       },
+       "M10_015": {
+           "number": "M10_015",
+           "name": "Odéon",
+           "next": "M10_016",
+           "previous": "M10_014",
+           "latitude": 48.8519444444444,
+           "longitude": 2.33888888888889,
+           "correspondance": [
+               "M4"
+           ]
+       },
+       "M10_016": {
+           "number": "M10_016",
+           "name": "Cluny - La Sorbonne",
+           "next": "M10_017",
+           "previous": "M10_015",
+           "latitude": 48.851019,
+           "longitude": 2.344583,
+           "correspondance": ""
+       },
+       "M10_017": {
+           "number": "M10_017",
+           "name": "Maubert - Mutualité",
+           "next": "M10_018",
+           "previous": "M10_016",
+           "latitude": 48.850193,
+           "longitude": 2.347936,
+           "correspondance": ""
+       },
+       "M10_018": {
+           "number": "M10_018",
+           "name": "Cardinal Lemoine",
+           "next": "M10_019",
+           "previous": "M10_017",
+           "latitude": 48.847139,
+           "longitude": 2.351203,
+           "correspondance": ""
+       },
+       "M10_019": {
+           "number": "M10_019",
+           "name": "Jussieu",
+           "next": "M10_020",
+           "previous": "M10_018",
+           "latitude": 48.846052,
+           "longitude": 2.355738,
+           "correspondance": [
+               "M7"
+           ]
+       },
+       "M10_020": {
+           "number": "M10_020",
+           "name": "Gare d'Austerlitz",
+           "next": "",
+           "previous": "M10_019",
+           "latitude": 48.842626,
+           "longitude": 2.364971,
+           "correspondance": [
+               "M5"
+           ]
+       },
+       "M10_021": {
+           "number": "M10_021",
+           "name": "Porte d'Auteuil",
+           "next": "M10_022",
+           "previous": "M10_002",
+           "latitude": 48.848025,
+           "longitude": 2.25875,
+           "correspondance": ""
+       },
+       "M10_022": {
+           "number": "M10_022",
+           "name": "Michel-Ange - Auteuil",
+           "next": "M10_023",
+           "previous": "M10_021",
+           "latitude": 48.847771,
+           "longitude": 2.26387,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M10_023": {
+           "number": "M10_023",
+           "name": "Église d'Auteuil",
+           "next": "M10_024",
+           "previous": "M10_022",
+           "latitude": 48.847903,
+           "longitude": 2.269964,
+           "correspondance": ""
+       },
+       "M10_024": {
+           "number": "M10_024",
+           "name": "Javel - André Citroën",
+           "next": "",
+           "previous": "M10_023",
+           "latitude": 48.846165,
+           "longitude": 2.278716,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "paris_m10.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 15188,
+           "stub": true
+       }
+   }
+}

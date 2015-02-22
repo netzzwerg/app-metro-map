@@ -1,0 +1,273 @@
+{
+   "_id": "london_u5",
+   "_rev": "6-cbfbf3e11d80c0b45d29a1f8c8af3f9d",
+   "city": "London",
+   "lineName": "U5",
+   "lineNameShow": "Hammersmith & City",
+   "color": "E899A8",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-25T10:07:08.925Z",
+   "stations": {
+       "U5_001": {
+           "number": "U5_001",
+           "name": "Hammersmith",
+           "next": "U5_002",
+           "previous": "",
+           "latitude": 51.494190748,
+           "longitude": -0.225964953,
+           "correspondance": ""
+       },
+       "U5_002": {
+           "number": "U5_002",
+           "name": "Goldhawk Road",
+           "next": "U5_003",
+           "previous": "U5_001",
+           "latitude": 51.501248,
+           "longitude": -0.226776,
+           "correspondance": ""
+       },
+       "U5_003": {
+           "number": "U5_003",
+           "name": "Shepherd's Bush",
+           "next": "U5_004",
+           "previous": "U5_002",
+           "latitude": 51.506063,
+           "longitude": -0.226231,
+           "correspondance": ""
+       },
+       "U5_004": {
+           "number": "U5_004",
+           "name": "Latimer Road",
+           "next": "U5_005",
+           "previous": "U5_003",
+           "latitude": 51.513125,
+           "longitude": -0.218428,
+           "correspondance": "[U3]"
+       },
+       "U5_005": {
+           "number": "U5_005",
+           "name": "Ladbroke Grove",
+           "next": "U5_006",
+           "previous": "U5_004",
+           "latitude": 51.5173,
+           "longitude": -0.21114,
+           "correspondance": "[U3]"
+       },
+       "U5_006": {
+           "number": "U5_006",
+           "name": "Westbourne Park",
+           "next": "U5_007",
+           "previous": "U5_005",
+           "latitude": 51.520995,
+           "longitude": -0.201778,
+           "correspondance": "[U3]"
+       },
+       "U5_007": {
+           "number": "U5_007",
+           "name": "Royal Oak",
+           "next": "U5_008",
+           "previous": "U5_006",
+           "latitude": 51.519383,
+           "longitude": -0.187785,
+           "correspondance": "[U3]"
+       },
+       "U5_008": {
+           "number": "U5_008",
+           "name": "Paddington",
+           "next": "U5_009",
+           "previous": "U5_007",
+           "latitude": 51.519096707,
+           "longitude": -0.176968859,
+           "correspondance": "[U4,U3]"
+       },
+       "U5_009": {
+           "number": "U5_009",
+           "name": "Edgware Road",
+           "next": "U5_010",
+           "previous": "U5_008",
+           "latitude": 51.520195,
+           "longitude": -0.166986,
+           "correspondance": "[U3,U4]"
+       },
+       "U5_010": {
+           "number": "U5_010",
+           "name": "Baker Street",
+           "next": "U5_011",
+           "previous": "U5_009",
+           "latitude": 51.52265,
+           "longitude": -0.15704,
+           "correspondance": "[U1,U3,U6]"
+       },
+       "U5_011": {
+           "number": "U5_011",
+           "name": "Great Portland Street",
+           "next": "U5_012",
+           "previous": "U5_010",
+           "latitude": 51.52391,
+           "longitude": -0.14397,
+           "correspondance": "[U7,U3]"
+       },
+       "U5_012": {
+           "number": "U5_012",
+           "name": "Euston Square",
+           "next": "U5_013",
+           "previous": "U5_011",
+           "latitude": 51.52584,
+           "longitude": -0.1357,
+           "correspondance": "[U7,U3]"
+       },
+       "U5_013": {
+           "number": "U5_013",
+           "name": "King's Cross St.Pancras",
+           "next": "U5_014",
+           "previous": "U5_012",
+           "latitude": 51.53057,
+           "longitude": -0.12399,
+           "correspondance": "[U9,U3,U10,U7,U8]"
+       },
+       "U5_014": {
+           "number": "U5_014",
+           "name": "Farringdon",
+           "next": "U5_015",
+           "previous": "U5_013",
+           "latitude": 51.520362948,
+           "longitude": -0.105126482,
+           "correspondance": "[U7,U3]"
+       },
+       "U5_015": {
+           "number": "U5_015",
+           "name": "Barbican",
+           "next": "U5_016",
+           "previous": "U5_014",
+           "latitude": 51.520865,
+           "longitude": -0.097758,
+           "correspondance": "[U7,U3]"
+       },
+       "U5_016": {
+           "number": "U5_016",
+           "name": "Moorgate",
+           "next": "U5_017",
+           "previous": "U5_015",
+           "latitude": 51.51817,
+           "longitude": -0.08859,
+           "correspondance": "[U7,U12,U8,U3]"
+       },
+       "U5_017": {
+           "number": "U5_017",
+           "name": "Liverpool Street",
+           "next": "U5_018",
+           "previous": "U5_016",
+           "latitude": 51.517675,
+           "longitude": -0.082458,
+           "correspondance": "[U2]"
+       },
+       "U5_018": {
+           "number": "U5_018",
+           "name": "Aldgate East",
+           "next": "U5_019",
+           "previous": "U5_017",
+           "latitude": 51.51514,
+           "longitude": -0.07178,
+           "correspondance": "[U4]"
+       },
+       "U5_019": {
+           "number": "U5_019",
+           "name": "Whitechapel",
+           "next": "U5_020",
+           "previous": "U5_018",
+           "latitude": 51.51946,
+           "longitude": -0.05951,
+           "correspondance": "[U4]"
+       },
+       "U5_020": {
+           "number": "U5_020",
+           "name": "Stepney Green",
+           "next": "U5_021",
+           "previous": "U5_019",
+           "latitude": 51.521884,
+           "longitude": -0.046546,
+           "correspondance": "[U4]"
+       },
+       "U5_021": {
+           "number": "U5_021",
+           "name": "Mile End",
+           "next": "U5_022",
+           "previous": "U5_020",
+           "latitude": 51.525306,
+           "longitude": -0.033471,
+           "correspondance": "[U4,U2]"
+       },
+       "U5_022": {
+           "number": "U5_022",
+           "name": "Bow Road",
+           "next": "U5_023",
+           "previous": "U5_021",
+           "latitude": 51.52709,
+           "longitude": -0.02482,
+           "correspondance": "[U4]"
+       },
+       "U5_023": {
+           "number": "U5_023",
+           "name": "Bromley-by-Bow",
+           "next": "U5_024",
+           "previous": "U5_022",
+           "latitude": 51.52466,
+           "longitude": -0.01282,
+           "correspondance": "[U4]"
+       },
+       "U5_024": {
+           "number": "U5_024",
+           "name": "West Ham",
+           "next": "U5_025",
+           "previous": "U5_023",
+           "latitude": 51.527917,
+           "longitude": 0.004141,
+           "correspondance": "[U4,U6]"
+       },
+       "U5_025": {
+           "number": "U5_025",
+           "name": "Plaistow",
+           "next": "U5_026",
+           "previous": "U5_024",
+           "latitude": 51.53122,
+           "longitude": 0.01659,
+           "correspondance": "[U4]"
+       },
+       "U5_026": {
+           "number": "U5_026",
+           "name": "Upton Park",
+           "next": "U5_027",
+           "previous": "U5_025",
+           "latitude": 51.53514,
+           "longitude": 0.03373,
+           "correspondance": "[U4]"
+       },
+       "U5_027": {
+           "number": "U5_027",
+           "name": "East Ham",
+           "next": "U5_028",
+           "previous": "U5_026",
+           "latitude": 51.53931,
+           "longitude": 0.0526,
+           "correspondance": "[U4]"
+       },
+       "U5_028": {
+           "number": "U5_028",
+           "name": "Barking",
+           "next": "",
+           "previous": "U5_027",
+           "latitude": 51.54079,
+           "longitude": 0.08018,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "london_u5.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4029,
+           "stub": true
+       }
+   }
+}

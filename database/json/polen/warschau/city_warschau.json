@@ -1,0 +1,10 @@
+{
+   "_id": "city_warschau",
+   "_rev": "1-bd20563c60aee31a82cca7591def64c0",
+   "country": "Polen",
+   "cityName": "Warschau",
+   "subName": "Metro",
+   "memos": "",
+   "type": "city",
+   "created_at": "2011-05-22T11:18:58.673Z"
+}

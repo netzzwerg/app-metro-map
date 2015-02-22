@@ -1,0 +1,279 @@
+{
+   "_id": "münchen_u2",
+   "_rev": "5-c9fa734bf9da2440d70349552156534a",
+   "city": "München",
+   "lineName": "U2",
+   "color": "C6455A",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-08T17:15:43.518Z",
+   "stations": {
+       "U2_001": {
+           "number": "U2_001",
+           "name": "Feldmoching",
+           "next": "U2_002",
+           "previous": "",
+           "latitude": 48.21488,
+           "longitude": 11.54182,
+           "correspondance": ""
+       },
+       "U2_002": {
+           "number": "U2_002",
+           "name": "Hasenbergl",
+           "next": "U2_003",
+           "previous": "U2_001",
+           "latitude": 48.21334,
+           "longitude": 11.55532,
+           "correspondance": ""
+       },
+       "U2_003": {
+           "number": "U2_003",
+           "name": "Dülferstraße",
+           "next": "U2_004",
+           "previous": "U2_002",
+           "latitude": 48.21271,
+           "longitude": 11.56248,
+           "correspondance": ""
+       },
+       "U2_004": {
+           "number": "U2_004",
+           "name": "Harthof",
+           "next": "U2_005",
+           "previous": "U2_003",
+           "latitude": 48.20475,
+           "longitude": 11.56946,
+           "correspondance": ""
+       },
+       "U2_005": {
+           "number": "U2_005",
+           "name": "Am Hart",
+           "next": "U2_006",
+           "previous": "U2_004",
+           "latitude": 48.19626,
+           "longitude": 11.57194,
+           "correspondance": ""
+       },
+       "U2_006": {
+           "number": "U2_006",
+           "name": "Frankfurter Ring",
+           "next": "U2_007",
+           "previous": "U2_005",
+           "latitude": 48.18722,
+           "longitude": 11.57264,
+           "correspondance": ""
+       },
+       "U2_007": {
+           "number": "U2_007",
+           "name": "Milbertshofen",
+           "next": "U2_008",
+           "previous": "U2_006",
+           "latitude": 48.18096,
+           "longitude": 11.57314,
+           "correspondance": ""
+       },
+       "U2_008": {
+           "number": "U2_008",
+           "name": "Scheidplatz",
+           "next": "U2_009",
+           "previous": "U2_007",
+           "latitude": 48.17078,
+           "longitude": 11.57291,
+           "correspondance": [
+               "U3"
+           ]
+       },
+       "U2_009": {
+           "number": "U2_009",
+           "name": "Hohenzollernplatz",
+           "next": "U2_010",
+           "previous": "U2_008",
+           "latitude": 48.16167,
+           "longitude": 11.56861,
+           "correspondance": ""
+       },
+       "U2_010": {
+           "number": "U2_010",
+           "name": "Josephsplatz",
+           "next": "U2_011",
+           "previous": "U2_009",
+           "latitude": 48.15556,
+           "longitude": 11.567,
+           "correspondance": ""
+       },
+       "U2_011": {
+           "number": "U2_011",
+           "name": "Theresienstraße",
+           "next": "U2_012",
+           "previous": "U2_010",
+           "latitude": 48.15117,
+           "longitude": 11.56423,
+           "correspondance": ""
+       },
+       "U2_012": {
+           "number": "U2_012",
+           "name": "Königsplatz",
+           "next": "U2_013",
+           "previous": "U2_011",
+           "latitude": 48.1455,
+           "longitude": 11.5638,
+           "correspondance": ""
+       },
+       "U2_013": {
+           "number": "U2_013",
+           "name": "Hauptbahnhof",
+           "next": "U2_014",
+           "previous": "U2_012",
+           "latitude": 48.14008,
+           "longitude": 11.56082,
+           "correspondance": [
+               "U1",
+               "U4",
+               "U5"
+           ]
+       },
+       "U2_014": {
+           "number": "U2_014",
+           "name": "Sendlinger Tor",
+           "next": "U2_015",
+           "previous": "U2_013",
+           "latitude": 48.13331,
+           "longitude": 11.56629,
+           "correspondance": [
+               "U1",
+               "U3",
+               "U6"
+           ]
+       },
+       "U2_015": {
+           "number": "U2_015",
+           "name": "Fraunhoferstraße",
+           "next": "U2_016",
+           "previous": "U2_014",
+           "latitude": 48.12873,
+           "longitude": 11.57486,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U2_016": {
+           "number": "U2_016",
+           "name": "Kolumbusplatz",
+           "next": "U2_017",
+           "previous": "U2_015",
+           "latitude": 48.11954,
+           "longitude": 11.57668,
+           "correspondance": [
+               "U1"
+           ]
+       },
+       "U2_017": {
+           "number": "U2_017",
+           "name": "Silberhornstraße",
+           "next": "U2_018",
+           "previous": "U2_016",
+           "latitude": 48.11482,
+           "longitude": 11.58048,
+           "correspondance": ""
+       },
+       "U2_018": {
+           "number": "U2_018",
+           "name": "Untersbergstraße",
+           "next": "U2_019",
+           "previous": "U2_017",
+           "latitude": 48.11527,
+           "longitude": 11.58839,
+           "correspondance": ""
+       },
+       "U2_019": {
+           "number": "U2_019",
+           "name": "Giesing",
+           "next": "U2_020",
+           "previous": "U2_018",
+           "latitude": 48.1106251,
+           "longitude": 11.595079,
+           "correspondance": ""
+       },
+       "U2_020": {
+           "number": "U2_020",
+           "name": "Karl-Preis-Platz",
+           "next": "U2_021",
+           "previous": "U2_019",
+           "latitude": 48.1184,
+           "longitude": 11.60964,
+           "correspondance": ""
+       },
+       "U2_021": {
+           "number": "U2_021",
+           "name": "Innsbrucker Ring",
+           "next": "U2_022",
+           "previous": "U2_020",
+           "latitude": 48.12043,
+           "longitude": 11.61905,
+           "correspondance": [
+               "U5"
+           ]
+       },
+       "U2_022": {
+           "number": "U2_022",
+           "name": "Josephsburg",
+           "next": "U2_023",
+           "previous": "U2_021",
+           "latitude": 48.1262027,
+           "longitude": 11.632939,
+           "correspondance": ""
+       },
+       "U2_023": {
+           "number": "U2_023",
+           "name": "Kreilerstraße",
+           "next": "U2_024",
+           "previous": "U2_022",
+           "latitude": 48.12559,
+           "longitude": 11.64453,
+           "correspondance": ""
+       },
+       "U2_024": {
+           "number": "U2_024",
+           "name": "Trudering",
+           "next": "U2_025",
+           "previous": "U2_023",
+           "latitude": 48.12595,
+           "longitude": 11.66221,
+           "correspondance": ""
+       },
+       "U2_025": {
+           "number": "U2_025",
+           "name": "Am Moosfeld",
+           "next": "U2_026",
+           "previous": "U2_024",
+           "latitude": 48.12985,
+           "longitude": 11.67011,
+           "correspondance": ""
+       },
+       "U2_026": {
+           "number": "U2_026",
+           "name": "Messestadt West",
+           "next": "U2_027",
+           "previous": "U2_025",
+           "latitude": 48.1336,
+           "longitude": 11.69216,
+           "correspondance": ""
+       },
+       "U2_027": {
+           "number": "U2_027",
+           "name": "Messestadt Ost",
+           "next": "",
+           "previous": "U2_026",
+           "latitude": 48.1334,
+           "longitude": 11.70332,
+           "correspondance": ""
+       }
+   },
+   "_attachments": {
+       "muenchen_u2.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 4585,
+           "stub": true
+       }
+   }
+}

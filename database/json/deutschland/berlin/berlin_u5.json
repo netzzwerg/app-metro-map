@@ -1,0 +1,262 @@
+{
+   "_id": "berlin_u5",
+   "_rev": "26-f5c08f314397574534c4acb22c6ac6f3",
+   "city": "Berlin",
+   "lineName": "U5",
+   "lineNameShow": "U5",
+   "color": "835A43",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-20T20:17:17.269Z",
+   "stations": {
+       "U5_001": {
+           "number": "U5_001",
+           "name": "Hönow",
+           "next": "U5_002",
+           "previous": "",
+           "latitude": "52.5381786",
+           "longitude": "13.63433359999999",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_002": {
+           "number": "U5_002",
+           "name": "Louis-Lewin-Straße",
+           "next": "U5_003",
+           "previous": "U5_001",
+           "latitude": "52.53737",
+           "longitude": "13.620975000000044",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_003": {
+           "number": "U5_003",
+           "name": "Hellersdorf",
+           "next": "U5_004",
+           "previous": "U5_002",
+           "latitude": "52.536387",
+           "longitude": "13.605864",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_004": {
+           "number": "U5_004",
+           "name": "Cottbusser Platz",
+           "next": "U5_005",
+           "previous": "U5_003",
+           "latitude": "52.5338",
+           "longitude": "13.595837999999958",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_005": {
+           "number": "U5_005",
+           "name": "Neue Grottkauer Straße",
+           "next": "U5_006",
+           "previous": "U5_004",
+           "latitude": "52.5288102",
+           "longitude": "13.594892699999946",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_006": {
+           "number": "U5_006",
+           "name": "Kaulsdorf-Nord",
+           "next": "U5_007",
+           "previous": "U5_005",
+           "latitude": "52.5217",
+           "longitude": "13.583781999999928",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_007": {
+           "number": "U5_007",
+           "name": "Wuhletal",
+           "next": "U5_008",
+           "previous": "U5_006",
+           "latitude": "52.5128",
+           "longitude": "13.572870999999964",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_008": {
+           "number": "U5_008",
+           "name": "Elsterwerdaer Platz",
+           "next": "U5_009",
+           "previous": "U5_007",
+           "latitude": "52.5052",
+           "longitude": "13.5607",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_009": {
+           "number": "U5_009",
+           "name": "Biesdorf-Süd",
+           "next": "U5_010",
+           "previous": "U5_008",
+           "latitude": "52.499715",
+           "longitude": "13.546364",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_010": {
+           "number": "U5_010",
+           "name": "Tierpark",
+           "next": "U5_011",
+           "previous": "U5_009",
+           "latitude": "52.4966",
+           "longitude": "13.521666600000003",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_011": {
+           "number": "U5_011",
+           "name": "Friedfrichsfelde",
+           "next": "U5_012",
+           "previous": "U5_010",
+           "latitude": "52.505556",
+           "longitude": "13.511560000000031",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_012": {
+           "number": "U5_012",
+           "name": "Lichtenberg",
+           "next": "U5_013",
+           "previous": "U5_011",
+           "latitude": "52.5113",
+           "longitude": "13.498307000000068",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_013": {
+           "number": "U5_013",
+           "name": "Magdalenenstraße",
+           "next": "U5_014",
+           "previous": "U5_012",
+           "latitude": "52.512589",
+           "longitude": "13.48656",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_014": {
+           "number": "U5_014",
+           "name": "Frankfurter Alle",
+           "next": "U5_015",
+           "previous": "U5_013",
+           "latitude": "52.513721",
+           "longitude": "13.475487",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_015": {
+           "number": "U5_015",
+           "name": "Samariterstraße",
+           "next": "U5_016",
+           "previous": "U5_014",
+           "latitude": "52.5149",
+           "longitude": "13.464366",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_016": {
+           "number": "U5_016",
+           "name": "Frankfurter Tor",
+           "next": "U5_017",
+           "previous": "U5_015",
+           "latitude": "52.51592",
+           "longitude": "13.453414",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_017": {
+           "number": "U5_017",
+           "name": "Weberwiese",
+           "next": "U5_018",
+           "previous": "U5_016",
+           "latitude": "52.51673",
+           "longitude": "13.444959",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_018": {
+           "number": "U5_018",
+           "name": "Strausberger Platz",
+           "next": "U5_019",
+           "previous": "U5_017",
+           "latitude": "52.518293",
+           "longitude": "13.430774",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_019": {
+           "number": "U5_019",
+           "name": "Schillingstraße",
+           "next": "U5_020",
+           "previous": "U5_018",
+           "latitude": "52.520209",
+           "longitude": "13.421804",
+           "correspondance": [
+               ""
+           ],
+           "memos": ""
+       },
+       "U5_020": {
+           "number": "U5_020",
+           "name": "Alexanderplatz",
+           "next": "",
+           "previous": "U5_019",
+           "latitude": "52.521599",
+           "longitude": "13.410755",
+           "correspondance": [
+               "U2",
+               "U8"
+           ],
+           "memos": ""
+       }
+   },
+   "_attachments": {
+       "berlin_u5.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 104402,
+           "stub": true
+       }
+   }
+}

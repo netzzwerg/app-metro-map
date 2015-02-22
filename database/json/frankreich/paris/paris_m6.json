@@ -1,0 +1,301 @@
+{
+   "_id": "paris_m6",
+   "_rev": "5-5985f846df1785f451f82f082e6c5644",
+   "city": "Paris",
+   "lineName": "M6",
+   "color": "89CFA7",
+   "memos": "",
+   "type": "line",
+   "created_at": "2011-05-06T20:00:49.708Z",
+   "stations": {
+       "M6_001": {
+           "number": "M6_001",
+           "name": "Charles de Gaulle - Étoile",
+           "next": "M6_002",
+           "previous": "",
+           "latitude": 48.8736111111111,
+           "longitude": 2.29444444444444,
+           "correspondance": [
+               "M1",
+               "M2"
+           ]
+       },
+       "M6_002": {
+           "number": "M6_002",
+           "name": "Kléber",
+           "next": "M6_003",
+           "previous": "M6_001",
+           "latitude": 48.871138,
+           "longitude": 2.293118,
+           "correspondance": ""
+       },
+       "M6_003": {
+           "number": "M6_003",
+           "name": "Boissière",
+           "next": "M6_004",
+           "previous": "M6_002",
+           "latitude": 48.867386,
+           "longitude": 2.290392,
+           "correspondance": ""
+       },
+       "M6_004": {
+           "number": "M6_004",
+           "name": "Trocadéro",
+           "next": "M6_005",
+           "previous": "M6_003",
+           "latitude": 48.863301,
+           "longitude": 2.287061,
+           "correspondance": [
+               "M9"
+           ]
+       },
+       "M6_005": {
+           "number": "M6_005",
+           "name": "Passy",
+           "next": "M6_006",
+           "previous": "M6_004",
+           "latitude": 48.857445,
+           "longitude": 2.285779,
+           "correspondance": ""
+       },
+       "M6_006": {
+           "number": "M6_006",
+           "name": "Bir-Hakeim",
+           "next": "M6_007",
+           "previous": "M6_005",
+           "latitude": 48.853917,
+           "longitude": 2.289332,
+           "correspondance": ""
+       },
+       "M6_007": {
+           "number": "M6_007",
+           "name": "Dupleix",
+           "next": "M6_008",
+           "previous": "M6_006",
+           "latitude": 48.850392,
+           "longitude": 2.293611,
+           "correspondance": ""
+       },
+       "M6_008": {
+           "number": "M6_008",
+           "name": "La Motte-Picquet - Grenelle",
+           "next": "M6_009",
+           "previous": "M6_007",
+           "latitude": 48.849143,
+           "longitude": 2.29809,
+           "correspondance": [
+               "M8",
+               "M10"
+           ]
+       },
+       "M6_009": {
+           "number": "M6_009",
+           "name": "Cambronne",
+           "next": "M6_010",
+           "previous": "M6_008",
+           "latitude": 48.847537,
+           "longitude": 2.302937,
+           "correspondance": ""
+       },
+       "M6_010": {
+           "number": "M6_010",
+           "name": "Sèvres - Lecourbe",
+           "next": "M6_011",
+           "previous": "M6_009",
+           "latitude": 48.845634,
+           "longitude": 2.309476,
+           "correspondance": ""
+       },
+       "M6_011": {
+           "number": "M6_011",
+           "name": "Pasteur",
+           "next": "M6_012",
+           "previous": "M6_010",
+           "latitude": 48.842836,
+           "longitude": 2.312681,
+           "correspondance": [
+               "M12"
+           ]
+       },
+       "M6_012": {
+           "number": "M6_012",
+           "name": "Montparnasse - Bienvenüe",
+           "next": "M6_013",
+           "previous": "M6_011",
+           "latitude": 48.843466,
+           "longitude": 2.323072,
+           "correspondance": [
+               "M4",
+               "M12",
+               "M13"
+           ]
+       },
+       "M6_013": {
+           "number": "M6_013",
+           "name": "Edgar Quinet",
+           "next": "M6_014",
+           "previous": "M6_012",
+           "latitude": 48.841048,
+           "longitude": 2.325084,
+           "correspondance": ""
+       },
+       "M6_014": {
+           "number": "M6_014",
+           "name": "Raspail",
+           "next": "M6_015",
+           "previous": "M6_013",
+           "latitude": 48.839194,
+           "longitude": 2.330606,
+           "correspondance": [
+               "M4"
+           ]
+       },
+       "M6_015": {
+           "number": "M6_015",
+           "name": "Denfert-Rochereau",
+           "next": "M6_016",
+           "previous": "M6_014",
+           "latitude": 48.833901,
+           "longitude": 2.332728,
+           "correspondance": [
+               "M4"
+           ]
+       },
+       "M6_016": {
+           "number": "M6_016",
+           "name": "Saint-Jacques",
+           "next": "M6_017",
+           "previous": "M6_015",
+           "latitude": 48.832913,
+           "longitude": 2.337081,
+           "correspondance": ""
+       },
+       "M6_017": {
+           "number": "M6_017",
+           "name": "Glacière",
+           "next": "M6_018",
+           "previous": "M6_016",
+           "latitude": 48.83115,
+           "longitude": 2.343384,
+           "correspondance": ""
+       },
+       "M6_018": {
+           "number": "M6_018",
+           "name": "Corvisart",
+           "next": "M6_019",
+           "previous": "M6_017",
+           "latitude": 48.829807,
+           "longitude": 2.350508,
+           "correspondance": ""
+       },
+       "M6_019": {
+           "number": "M6_019",
+           "name": "Place d'Italie",
+           "next": "M6_020",
+           "previous": "M6_018",
+           "latitude": 48.831483,
+           "longitude": 2.355692,
+           "correspondance": [
+               "M5",
+               "M7"
+           ]
+       },
+       "M6_020": {
+           "number": "M6_020",
+           "name": "Nationale",
+           "next": "M6_021",
+           "previous": "M6_019",
+           "latitude": 48.833183,
+           "longitude": 2.362718,
+           "correspondance": ""
+       },
+       "M6_021": {
+           "number": "M6_021",
+           "name": "Chevaleret",
+           "next": "M6_022",
+           "previous": "M6_020",
+           "latitude": 48.834938,
+           "longitude": 2.368082,
+           "correspondance": ""
+       },
+       "M6_022": {
+           "number": "M6_022",
+           "name": "Quai de la Gare",
+           "next": "M6_023",
+           "previous": "M6_021",
+           "latitude": 48.837069,
+           "longitude": 2.372773,
+           "correspondance": ""
+       },
+       "M6_023": {
+           "number": "M6_023",
+           "name": "Bercy",
+           "next": "M6_024",
+           "previous": "M6_022",
+           "latitude": 48.83993,
+           "longitude": 2.380418,
+           "correspondance": [
+               "M14"
+           ]
+       },
+       "M6_024": {
+           "number": "M6_024",
+           "name": "Dugommier",
+           "next": "M6_025",
+           "previous": "M6_023",
+           "latitude": 48.83905,
+           "longitude": 2.38996388888889,
+           "correspondance": ""
+       },
+       "M6_025": {
+           "number": "M6_025",
+           "name": "Daumesnil",
+           "next": "M6_026",
+           "previous": "M6_024",
+           "latitude": 48.839644,
+           "longitude": 2.395792,
+           "correspondance": [
+               "M8"
+           ]
+       },
+       "M6_026": {
+           "number": "M6_026",
+           "name": "Bel-Air",
+           "next": "M6_027",
+           "previous": "M6_025",
+           "latitude": 48.841344,
+           "longitude": 2.400912,
+           "correspondance": ""
+       },
+       "M6_027": {
+           "number": "M6_027",
+           "name": "Picpus",
+           "next": "M6_028",
+           "previous": "M6_026",
+           "latitude": 48.84515,
+           "longitude": 2.400494,
+           "correspondance": ""
+       },
+       "M6_028": {
+           "number": "M6_028",
+           "name": "Nation",
+           "next": "",
+           "previous": "M6_027",
+           "latitude": 48.848389,
+           "longitude": 2.3958,
+           "correspondance": [
+               "M1",
+               "M2",
+               "M9"
+           ]
+       }
+   },
+   "_attachments": {
+       "paris_m6.png": {
+           "content_type": "image/png",
+           "revpos": 3,
+           "length": 15269,
+           "stub": true
+       }
+   }
+}
